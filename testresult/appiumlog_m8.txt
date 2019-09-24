@@ -1,0 +1,334 @@
+2019-07-29 12:00:28:598 - [35m[Appium][39m Welcome to Appium v1.9.1
+2019-07-29 12:00:28:600 - [35m[Appium][39m Non-default server args:
+2019-07-29 12:00:28:600 - [35m[Appium][39m   address: 127.0.0.1
+2019-07-29 12:00:28:601 - [35m[Appium][39m   logTimestamp: true
+2019-07-29 12:00:28:601 - [35m[Appium][39m   localTimezone: true
+2019-07-29 12:00:28:601 - [35m[Appium][39m   defaultCommandTimeout: 3000
+2019-07-29 12:00:28:601 - [35m[Appium][39m   udid: 3edfeecc
+2019-07-29 12:00:28:602 - [35m[Appium][39m Deprecated server args:
+2019-07-29 12:00:28:602 - [35m[Appium][39m   [31m-U,--udid[39m => --default-capabilities '{"udid":"3edfeecc"}'
+2019-07-29 12:00:28:602 - [35m[Appium][39m Default capabilities, which will be added to each request unless overridden by desired capabilities:
+2019-07-29 12:00:28:603 - [35m[Appium][39m   udid: 3edfeecc
+2019-07-29 12:00:28:678 - [35m[Appium][39m Appium REST http interface listener started on 127.0.0.1:4723
+2019-07-29 12:00:28:891 - [35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+2019-07-29 12:00:28:891 - [35m[HTTP][39m [90m{"capabilities":{"firstMatch":[{"platformName":"Android","appium:platformVersion":9,"appium:deviceName":"3edfeecc","appium:appPackage":"com.powerinfo.pi_iroom.demo","appium:appActivity":"com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity","appium:autoAcceptAlerts":true,"appium:newCommandTimeout":3600,"appium:noReset":true}]},"desiredCapabilities":{"platformName":"Android","platformVersion":9,"deviceName":"3edfeecc","appPackage":"com.powerinfo.pi_iroom.demo","appActivity":"com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity","autoAcceptAlerts":true,"newCommandTimeout":3600,"noReset":true}}[39m
+2019-07-29 12:00:28:894 - [debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","platformVersion":9,"deviceName":"3edfeecc","appPackage":"com.powerinfo.pi_iroom.demo","appActivity":"com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity","autoAcceptAlerts":true,"newCommandTimeout":3600,"noReset":true},null,{"firstMatch":[{"platformName":"Android","appium:platformVersion":9,"appium:deviceName":"3edfeecc","appium:appPackage":"com.powerinfo.pi_iroom.demo","appium:appActivity":"com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity","appium:autoAcceptAlerts":true,"appium:newCommandTimeout":3600,"appium:noReset":true}]}]
+2019-07-29 12:00:28:895 - [debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1564372828894 (12:00:28 GMT+0800 (GMT+08:00))
+2019-07-29 12:00:28:898 - [35m[BaseDriver][39m The capabilities ["udid"] are not standard capabilities and should have an extension prefix
+2019-07-29 12:00:28:903 - [35m[Appium][39m Creating new AndroidDriver (v4.1.1) session
+2019-07-29 12:00:28:903 - [35m[Appium][39m Capabilities:
+2019-07-29 12:00:28:903 - [35m[Appium][39m   platformName: Android
+2019-07-29 12:00:28:903 - [35m[Appium][39m   udid: 3edfeecc
+2019-07-29 12:00:28:903 - [35m[Appium][39m   platformVersion: 9
+2019-07-29 12:00:28:904 - [35m[Appium][39m   deviceName: 3edfeecc
+2019-07-29 12:00:28:904 - [35m[Appium][39m   appPackage: com.powerinfo.pi_iroom.demo
+2019-07-29 12:00:28:904 - [35m[Appium][39m   appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+2019-07-29 12:00:28:904 - [35m[Appium][39m   autoAcceptAlerts: true
+2019-07-29 12:00:28:904 - [35m[Appium][39m   newCommandTimeout: 3600
+2019-07-29 12:00:28:904 - [35m[Appium][39m   noReset: true
+2019-07-29 12:00:28:909 - [debug] [35m[BaseDriver][39m W3C capabilities {"alwaysMatch":{"platformNa... and MJSONWP desired capabilities {"udid":"3edfeecc","platfor... were provided
+2019-07-29 12:00:28:909 - [debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {"alwaysMatch":{"platformNa...
+2019-07-29 12:00:28:916 - [35m[BaseDriver][39m The following capabilities were provided, but are not recognized by appium: autoAcceptAlerts.
+2019-07-29 12:00:28:917 - [35m[BaseDriver][39m Session created with session id: 24b19b51-f4d1-43b7-a59c-7dd02a454752
+2019-07-29 12:00:29:157 - [35m[AndroidDriver][39m Java version is: 1.8.0_171
+2019-07-29 12:00:29:160 - [35m[ADB][39m Checking whether adb is present
+2019-07-29 12:00:29:160 - [35m[ADB][39m The ANDROID_HOME environment variable is not set to the Android SDK root directory path. ANDROID_HOME is required for compatibility with SDK 23+. Checking along PATH for adb.
+2019-07-29 12:00:29:266 - [35m[ADB][39m Using adb from C:\adb\adb.exe
+2019-07-29 12:00:29:266 - [35m[ADB][39m 
+2019-07-29 12:00:29:266 - [35m[AndroidDriver][39m Retrieving device list
+2019-07-29 12:00:29:267 - [debug] [35m[ADB][39m Trying to find a connected android device
+2019-07-29 12:00:29:267 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 12:00:29:504 - [debug] [35m[ADB][39m 1 device(s) connected
+2019-07-29 12:00:29:505 - [35m[AndroidDriver][39m Using device: 3edfeecc
+2019-07-29 12:00:29:506 - [debug] [35m[ADB][39m Setting device id to 3edfeecc
+2019-07-29 12:00:29:508 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell getprop ro.build.version.sdk'
+2019-07-29 12:00:29:599 - [debug] [35m[ADB][39m Current device property 'ro.build.version.sdk': 28
+2019-07-29 12:00:29:600 - [debug] [35m[ADB][39m Device API level: 28
+2019-07-29 12:00:29:601 - [35m[AndroidDriver][39m Consider setting 'automationName' capability to 'uiautomator2' on Android >= 6, since UIAutomator framework is not maintained anymore by the OS vendor.
+2019-07-29 12:00:29:601 - [35m[AndroidDriver][39m App file was not listed, instead we're going to run com.powerinfo.pi_iroom.demo directly on the device
+2019-07-29 12:00:29:602 - [debug] [35m[AndroidDriver][39m Checking whether package is present on the device
+2019-07-29 12:00:29:603 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell pm list packages com.powerinfo.pi_iroom.demo'
+2019-07-29 12:00:29:748 - [35m[AndroidDriver][39m Starting Android session
+2019-07-29 12:00:29:750 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc wait-for-device'
+2019-07-29 12:00:29:797 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell echo ping'
+2019-07-29 12:00:29:865 - [debug] [35m[AndroidDriver][39m Pushing settings apk to device...
+2019-07-29 12:00:29:866 - [debug] [35m[ADB][39m Getting install status for io.appium.settings
+2019-07-29 12:00:29:866 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell pm list packages io.appium.settings'
+2019-07-29 12:00:30:009 - [debug] [35m[ADB][39m App is not installed
+2019-07-29 12:00:30:009 - [debug] [35m[ADB][39m App 'C:\Appium\Resources\app\node_modules\appium\node_modules\io.appium.settings\app\build\outputs\apk\settings_apk-debug.apk' not installed. Installing
+2019-07-29 12:00:30:011 - [debug] [35m[ADB][39m Device API level: 28
+2019-07-29 12:00:30:012 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc install -g C\:\\Appium\\Resources\\app\\node_modules\\appium\\node_modules\\io.appium.settings\\app\\build\\outputs\\apk\\settings_apk-debug.apk'
+2019-07-29 12:00:30:154 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc install -g C\:\\Appium\\Resources\\app\\node_modules\\appium\\node_modules\\io.appium.settings\\app\\build\\outputs\\apk\\settings_apk-debug.apk'
+2019-07-29 12:00:30:262 - [35m[AndroidDriver][39m Ignored error while installing Appium Settings helper: 'Error executing adbExec. Original error: 'Command 'C\:\\adb\\adb.exe -P 5037 -s 3edfeecc install -g C\:\\Appium\\Resources\\app\\node_modules\\appium\\node_modules\\io.appium.settings\\app\\build\\outputs\\apk\\settings_apk-debug.apk' exited with code 1'; Stderr: 'Failed to install C:\Appium\Resources\app\node_modules\appium\node_modules\io.appium.settings\app\build\outputs\apk\settings_apk-debug.apk: Security exception: You need the android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS permission to use the PackageManager.INSTALL_GRANT_RUNTIME_PERMISSIONS flag
+2019-07-29 12:00:30:263 - [35m[AndroidDriver][39m 
+2019-07-29 12:00:30:263 - [35m[AndroidDriver][39m java.lang.SecurityException: You need the android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS permission to use the PackageManager.INSTALL_GRANT_RUNTIME_PERMISSIONS flag
+2019-07-29 12:00:30:264 - [35m[AndroidDriver][39m 	at com.android.server.pm.PackageInstallerService.createSessionInternal(PackageInstallerService.java:445)
+2019-07-29 12:00:30:264 - [35m[AndroidDriver][39m 	at com.android.server.pm.PackageInstallerService.createSession(Package'; Code: '1''. Manually uninstalling the application with package id 'io.appium.settings' may help. Expect some Appium features may not work as expected unless this problem is fixed.
+2019-07-29 12:00:30:266 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell ps'
+2019-07-29 12:00:30:433 - [debug] [35m[ADB][39m Device API level: 28
+2019-07-29 12:00:30:434 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell am start -W -n io.appium.settings/.Settings -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000'
+2019-07-29 12:00:30:560 - [35m[AndroidDriver][39m Failed to launch settings app: Cannot start the 'io.appium.settings' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Activity name '.Settings' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+2019-07-29 12:00:30:561 - [debug] [35m[ADB][39m Device API level: 28
+2019-07-29 12:00:30:561 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell appops set io.appium.settings android\:mock_location allow'
+2019-07-29 12:00:30:694 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell appops set io.appium.settings android\:mock_location allow'
+2019-07-29 12:00:30:819 - [35m[AndroidDriver][39m Unable to set mock location for app 'io.appium.settings': Error executing adbExec. Original error: 'Command 'C\:\\adb\\adb.exe -P 5037 -s 3edfeecc shell appops set io.appium.settings android\:mock_location allow' exited with code 4294967295'; Stderr: 'Error: No UID for io.appium.settings in user 0'; Code: '4294967295'
+2019-07-29 12:00:30:820 - [35m[AndroidDriver][39m setDeviceLanguageCountry requires language or country.
+2019-07-29 12:00:30:821 - [35m[AndroidDriver][39m Got language: 'null' and country: 'null'
+2019-07-29 12:00:30:822 - [debug] [35m[Logcat][39m Starting logcat capture
+2019-07-29 12:00:30:911 - [debug] [35m[AndroidDriver][39m Pushing unlock helper app to device...
+2019-07-29 12:00:30:911 - [debug] [35m[ADB][39m Getting install status for io.appium.unlock
+2019-07-29 12:00:30:911 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell pm list packages io.appium.unlock'
+2019-07-29 12:00:31:036 - [debug] [35m[ADB][39m App is not installed
+2019-07-29 12:00:31:036 - [debug] [35m[ADB][39m App 'C:\Appium\Resources\app\node_modules\appium\node_modules\appium-unlock\bin\unlock_apk-debug.apk' not installed. Installing
+2019-07-29 12:00:31:036 - [debug] [35m[ADB][39m Device API level: 28
+2019-07-29 12:00:31:037 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc install -g C\:\\Appium\\Resources\\app\\node_modules\\appium\\node_modules\\appium-unlock\\bin\\unlock_apk-debug.apk'
+2019-07-29 12:00:31:127 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc install -g C\:\\Appium\\Resources\\app\\node_modules\\appium\\node_modules\\appium-unlock\\bin\\unlock_apk-debug.apk'
+2019-07-29 12:00:31:212 - [35m[AndroidDriver][39m Ignored error while installing Appium Unlock helper: 'Error executing adbExec. Original error: 'Command 'C\:\\adb\\adb.exe -P 5037 -s 3edfeecc install -g C\:\\Appium\\Resources\\app\\node_modules\\appium\\node_modules\\appium-unlock\\bin\\unlock_apk-debug.apk' exited with code 1'; Stderr: 'Failed to install C:\Appium\Resources\app\node_modules\appium\node_modules\appium-unlock\bin\unlock_apk-debug.apk: Security exception: You need the android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS permission to use the PackageManager.INSTALL_GRANT_RUNTIME_PERMISSIONS flag
+2019-07-29 12:00:31:212 - [35m[AndroidDriver][39m 
+2019-07-29 12:00:31:212 - [35m[AndroidDriver][39m java.lang.SecurityException: You need the android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS permission to use the PackageManager.INSTALL_GRANT_RUNTIME_PERMISSIONS flag
+2019-07-29 12:00:31:212 - [35m[AndroidDriver][39m 	at com.android.server.pm.PackageInstallerService.createSessionInternal(PackageInstallerService.java:445)
+2019-07-29 12:00:31:212 - [35m[AndroidDriver][39m 	at com.android.server.pm.PackageInstallerService.createSession(Package'; Code: '1''. Manually uninstalling the application with package id 'io.appium.unlock' may help. Expect some Appium features may not work as expected unless this problem is fixed.
+2019-07-29 12:00:31:213 - [35m[ADB][39m Getting device platform version
+2019-07-29 12:00:31:213 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell getprop ro.build.version.release'
+2019-07-29 12:00:31:282 - [debug] [35m[ADB][39m Current device property 'ro.build.version.release': 9
+2019-07-29 12:00:31:283 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell wm size'
+2019-07-29 12:00:31:375 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell getprop ro.product.model'
+2019-07-29 12:00:31:435 - [debug] [35m[ADB][39m Current device property 'ro.product.model': MI 8
+2019-07-29 12:00:31:436 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell getprop ro.product.manufacturer'
+2019-07-29 12:00:31:497 - [debug] [35m[ADB][39m Current device property 'ro.product.manufacturer': Xiaomi
+2019-07-29 12:00:31:498 - [35m[AndroidDriver][39m No app sent in, not parsing package/activity
+2019-07-29 12:00:31:498 - [debug] [35m[AndroidDriver][39m No app capability. Assuming it is already on the device
+2019-07-29 12:00:31:498 - [debug] [35m[AndroidBootstrap][39m Watching for bootstrap disconnect
+2019-07-29 12:00:31:499 - [debug] [35m[ADB][39m Forwarding system: 4724 to device: 4724
+2019-07-29 12:00:31:499 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc forward tcp\:4724 tcp\:4724'
+2019-07-29 12:00:31:533 - [debug] [35m[UiAutomator][39m Starting UiAutomator
+2019-07-29 12:00:31:533 - [debug] [35m[UiAutomator][39m Moving to state 'starting'
+2019-07-29 12:00:31:534 - [debug] [35m[UiAutomator][39m Parsing uiautomator jar
+2019-07-29 12:00:31:534 - [debug] [35m[UiAutomator][39m Found jar name: 'AppiumBootstrap.jar'
+2019-07-29 12:00:31:535 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc push C\:\\Appium\\Resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\bootstrap\\bin\\AppiumBootstrap.jar /data/local/tmp/'
+2019-07-29 12:00:31:786 - [debug] [35m[ADB][39m Attempting to kill all uiautomator processes
+2019-07-29 12:00:31:787 - [debug] [35m[ADB][39m Getting all processes with uiautomator
+2019-07-29 12:00:31:787 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell ps'
+2019-07-29 12:00:31:921 - [35m[ADB][39m No uiautomator process found to kill, continuing...
+2019-07-29 12:00:31:922 - [debug] [35m[UiAutomator][39m Starting UIAutomator
+2019-07-29 12:00:31:923 - [debug] [35m[ADB][39m Creating ADB subprocess with args: ["-P",5037,"-s","3edfeecc","shell","uiautomator","runtest","AppiumBootstrap.jar","-c","io.appium.android.bootstrap.Bootstrap","-e","pkg","com.powerinfo.pi_iroom.demo","-e","disableAndroidWatchers",false,"-e","acceptSslCerts",false]
+2019-07-29 12:00:32:307 - [debug] [35m[UiAutomator][39m Moving to state 'online'
+2019-07-29 12:00:32:310 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Registered crash watchers.
+2019-07-29 12:00:32:312 - [35m[AndroidBootstrap][39m Android bootstrap socket is now connected
+2019-07-29 12:00:32:314 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell dumpsys window'
+2019-07-29 12:00:32:334 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Client connected
+2019-07-29 12:00:32:476 - [35m[AndroidDriver][39m Screen already unlocked, doing nothing
+2019-07-29 12:00:32:477 - [debug] [35m[ADB][39m Device API level: 28
+2019-07-29 12:00:32:478 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell am start -W -n com.powerinfo.pi_iroom.demo/com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000'
+2019-07-29 12:00:33:594 - [35m[Appium][39m New AndroidDriver session created successfully, session 24b19b51-f4d1-43b7-a59c-7dd02a454752 added to master session list
+2019-07-29 12:00:33:596 - [debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1564372833596 (12:00:33 GMT+0800 (GMT+08:00))
+2019-07-29 12:00:33:598 - [debug] [35m[W3C][39m Cached the protocol value 'W3C' for the new session 24b19b51-f4d1-43b7-a59c-7dd02a454752
+2019-07-29 12:00:33:600 - [debug] [35m[W3C][39m Responding to client with driver.createSession() result: {"capabilities":{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"platformName":"Android","udid":"3edfeecc","platformVersion":9,"deviceName":"3edfeecc","appPackage":"com.powerinfo.pi_iroom.demo","appActivity":"com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity","autoAcceptAlerts":true,"newCommandTimeout":3600,"noReset":true},"platformName":"Android","udid":"3edfeecc","platformVersion":"9","deviceName":"3edfeecc","appPackage":"com.powerinfo.pi_iroom.demo","appActivity":"com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity","autoAcceptAlerts":true,"newCommandTimeout":3600,"noReset":true,"deviceUDID":"3edfeecc","deviceScreenSize":"1080x2248","deviceModel":"MI 8","deviceManufacturer":"Xiaomi"}}
+2019-07-29 12:00:33:610 - [35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[32m200[39m [90m4715 ms - 927[39m
+2019-07-29 12:00:33:610 - [35m[HTTP][39m [90m[39m
+2019-07-29 12:00:35:231 - [35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element[39m
+2019-07-29 12:00:35:232 - [35m[HTTP][39m [90m{"using":"xpath","value":"//android.widget.TextView[@text='多人群聊']","sessionId":"24b19b51-f4d1-43b7-a59c-7dd02a454752"}[39m
+2019-07-29 12:00:35:238 - [debug] [35m[W3C][39m Calling AppiumDriver.findElement() with args: ["xpath","//android.widget.TextView[@text='多人群聊']","24b19b51-f4d1-43b7-a59c-7dd02a454752"]
+2019-07-29 12:00:35:251 - [debug] [35m[BaseDriver][39m Valid locator strategies for this request: xpath, id, class name, accessibility id, -android uiautomator
+2019-07-29 12:00:35:252 - [debug] [35m[BaseDriver][39m Waiting up to 0 ms for condition
+2019-07-29 12:00:35:253 - [debug] [35m[AndroidBootstrap][39m Sending command to android: {"cmd":"action","action":"find","params":{"strategy":"xpath","selector":"//android.widget.TextView[@text='多人群聊']","context":"","multiple":false}}
+2019-07-29 12:00:35:264 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got data from client: {"cmd":"action","action":"find","params":{"strategy":"xpath","selector":"//android.widget.TextView[@text='多人群聊']","context":"","multiple":false}}
+2019-07-29 12:00:35:264 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command of type ACTION
+2019-07-29 12:00:35:265 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command action: find
+2019-07-29 12:00:35:265 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Finding '//android.widget.TextView[@text='多人群聊']' using 'XPATH' with the contextId: '' multiple: false
+2019-07-29 12:00:35:306 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Using: UiSelector[CLASS=android.widget.TextView, INSTANCE=1]
+2019-07-29 12:00:35:318 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Returning result: {"status":0,"value":{"ELEMENT":"1"}}
+2019-07-29 12:00:35:319 - [debug] [35m[AndroidBootstrap][39m Received command result from bootstrap
+2019-07-29 12:00:35:320 - [debug] [35m[W3C][39m Responding to client with driver.findElement() result: {"element-6066-11e4-a52e-4f735466cecf":"1"}
+2019-07-29 12:00:35:322 - [35m[HTTP][39m [37m<-- POST /wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element [39m[32m200[39m [90m90 ms - 53[39m
+2019-07-29 12:00:35:322 - [35m[HTTP][39m [90m[39m
+2019-07-29 12:00:36:332 - [35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element/1/click[39m
+2019-07-29 12:00:36:332 - [35m[HTTP][39m [90m{"id":"1","sessionId":"24b19b51-f4d1-43b7-a59c-7dd02a454752"}[39m
+2019-07-29 12:00:36:334 - [debug] [35m[W3C][39m Calling AppiumDriver.click() with args: ["1","24b19b51-f4d1-43b7-a59c-7dd02a454752"]
+2019-07-29 12:00:36:337 - [debug] [35m[AndroidBootstrap][39m Sending command to android: {"cmd":"action","action":"element:click","params":{"elementId":"1"}}
+2019-07-29 12:00:36:344 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got data from client: {"cmd":"action","action":"element:click","params":{"elementId":"1"}}
+2019-07-29 12:00:36:346 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command of type ACTION
+2019-07-29 12:00:36:346 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command action: click
+2019-07-29 12:00:36:358 - [debug] [35m[AndroidBootstrap][39m Received command result from bootstrap
+2019-07-29 12:00:36:360 - [debug] [35m[W3C][39m Responding to client with driver.click() result: true
+2019-07-29 12:00:36:362 - [35m[HTTP][39m [37m<-- POST /wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element/1/click [39m[32m200[39m [90m30 ms - 14[39m
+2019-07-29 12:00:36:362 - [35m[HTTP][39m [90m[39m
+2019-07-29 12:00:36:363 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Returning result: {"status":0,"value":true}
+2019-07-29 12:00:42:455 - [35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/source[39m
+2019-07-29 12:00:42:455 - [35m[HTTP][39m [90m{}[39m
+2019-07-29 12:00:42:456 - [debug] [35m[W3C][39m Calling AppiumDriver.getPageSource() with args: ["24b19b51-f4d1-43b7-a59c-7dd02a454752"]
+2019-07-29 12:00:42:459 - [debug] [35m[AndroidBootstrap][39m Sending command to android: {"cmd":"action","action":"source","params":{}}
+2019-07-29 12:00:42:468 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got data from client: {"cmd":"action","action":"source","params":{}}
+2019-07-29 12:00:42:470 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command of type ACTION
+2019-07-29 12:00:42:470 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command action: source
+2019-07-29 12:00:42:559 - [debug] [35m[AndroidBootstrap][39m [UIAUTO STDOUT] [APPIUM-UIAUTO] [debug] Returning result: {"status":0,"value":"<?xml version=\"1.0\" encoding=\"UTF-8\"?><hierarchy rotation=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,0][1080,2029]\" resource-id=\"\" instance=\"0\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,0][1080,2029]\" resource-id=\"\" instance=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,89][1080,2029]\" resource-id=\"\" instance=\"1\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,89][1080,2029]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/action_bar_root\" instance=\"1\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,89][1080,2029]\" resource-id=\"android:id\/content\" instance=\"2\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,89][1080,2029]\" resource-id=\"\" instance=\"2\"><android.view.ViewGroup index=\"0\" text=\"\" class=\"android.view.ViewGroup\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,89][1080,243]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/toolbar\" instance=\"0\"\/><android.view.ViewGroup index=\"1\" text=\"\" class=\"android.view.ViewGroup\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,243][1080,1810]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/refresh\" instance=\"1\"><android.support.v7.widget.RecyclerView index=\"0\" text=\"\" class=\"android.support.v7.widget.RecyclerView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"true\" focused=\"false\" scrollable=\"true\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,243][1080,1810]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/mRvRooms\" instance=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,271][1025,533]\" resource-id=\"\" instance=\"3\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,271][1025,533]\" resource-id=\"\" instance=\"3\"><android.widget.ImageView index=\"0\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,347][92,457]\" resource-id=\"\" instance=\"0\"\/><android.widget.TextView index=\"1\" text=\"RoomID :100006071000060710000607\" class=\"android.widget.TextView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[92,271][989,533]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/tv_roomId\" instance=\"0\"\/><android.widget.ImageView index=\"2\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[989,347][1025,457]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/iv_lock\" instance=\"1\"\/><\/android.widget.LinearLayout><\/android.widget.FrameLayout><android.widget.FrameLayout index=\"1\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,561][1025,823]\" resource-id=\"\" instance=\"4\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,561][1025,823]\" resource-id=\"\" instance=\"4\"><android.widget.ImageView index=\"0\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,637][116,747]\" resource-id=\"\" instance=\"2\"\/><android.widget.TextView index=\"1\" text=\"RoomID :1000060610000606\" class=\"android.widget.TextView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[116,561][964,823]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/tv_roomId\" instance=\"1\"\/><android.widget.ImageView index=\"2\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[964,637][1025,747]\" resource-id
+2019-07-29 12:00:42:560 - [debug] [35m[AndroidBootstrap][39m Received command result from bootstrap
+2019-07-29 12:00:42:560 - [debug] [35m[AndroidBootstrap][39m Stream still not complete, waiting up to 60000ms for the data to arrive
+2019-07-29 12:00:42:561 - [debug] [35m[AndroidBootstrap][39m [UIAUTO STDOUT] =\"com.powerinfo.pi_iroom.demo:id\/iv_lock\" instance=\"3\"\/><\/android.widget.LinearLayout><\/android.widget.FrameLayout><android.widget.FrameLayout index=\"2\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,851][1025,1113]\" resource-id=\"\" instance=\"5\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,851][1025,1113]\" resource-id=\"\" instance=\"5\"><android.widget.ImageView index=\"0\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,927][92,1037]\" resource-id=\"\" instance=\"4\"\/><android.widget.TextView index=\"1\" text=\"RoomID :4b948078a79e11e9a8a500163e3244fb\" class=\"android.widget.TextView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[92,851][989,1113]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/tv_roomId\" instance=\"2\"\/><android.widget.ImageView index=\"2\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[989,927][1025,1037]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/iv_lock\" instance=\"5\"\/><\/android.widget.LinearLayout><\/android.widget.FrameLayout><android.widget.FrameLayout index=\"3\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1141][1025,1403]\" resource-id=\"\" instance=\"6\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1141][1025,1403]\" resource-id=\"\" instance=\"6\"><android.widget.ImageView index=\"0\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1217][116,1327]\" resource-id=\"\" instance=\"6\"\/><android.widget.TextView index=\"1\" text=\"RoomID :1000048910000489\" class=\"android.widget.TextView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[116,1141][964,1403]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/tv_roomId\" instance=\"3\"\/><android.widget.ImageView index=\"2\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[964,1217][1025,1327]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/iv_lock\" instance=\"7\"\/><\/android.widget.LinearLayout><\/android.widget.FrameLayout><android.widget.FrameLayout index=\"4\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1431][1025,1693]\" resource-id=\"\" instance=\"7\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1431][1025,1693]\" resource-id=\"\" instance=\"7\"><android.widget.ImageView index=\"0\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1507][92,1617]\" resource-id=\"\" instance=\"8\"\/><android.widget.TextView index=\"1\" text=\"RoomID :100004811000048110000481\" class=\"android.widget.TextView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[92,1431][989,1693]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/tv_roomId\" instance=\"4\"\/><android.widget.ImageView index=\"2\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[989,1507][1025,1617]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/iv_lock\" instance=\"9\"\/><\/android.widget.LinearLayout><\/android.widget.FrameLayout><android.widget.FrameLayout index=\"5\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1721][1025,1810]\" resource-id=\"\" instance=\"8\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1721][1025,1810]\" resource-id=\"\" instance=\"8\"><android.widget.ImageView index=\"0\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[55,1797][92,1810]\" resource-id=\"\" instance=\"10\"\/><android.widget.TextView index=\"1\" text=\"RoomID :100004771000047710000477\" class=\"android.widget.TextView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[92,1721][989,1810]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/tv_roomId\" instance=\"5\"\/><android.widget.ImageView index=\"2\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[989,1797][1025,1810]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/iv_lock\" instance=\"11\"\/><\/android.widget.LinearLayout><\/android.widget.FrameLayout><\/android.support.v7.widget.RecyclerView><\/android.view.ViewGroup><android.widget.ImageView NAF=\"true\" index=\"2\" text=\"\" class=\"android.widget.ImageView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[402,1810][677,2029]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/iv_create_room\" instance=\"12\"\/><android.widget.TextView index=\"3\" text=\"1.8.0.1-20190726-1430R（904, debug）\" class=\"android.widget.TextView\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[200,2140][879,2193]\" resource-id=\"com.powerinfo.pi_iroom.demo:id\/tv_vision\" instance=\"6\"\/><\/android.widget.LinearLayout><\/android.widget.FrameLayout><\/android.widget.LinearLayout><\/android.widget.FrameLayout><\/android.widget.LinearLayout><android.view.View index=\"1\" text=\"\" class=\"android.view.View\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,0][1080,89]\" resource-id=\"android:id\/statusBarBackground\" instance=\"0\"\/><\/android.widget.FrameLayout><\/hierarchy>"}[/APPIUM-UIAUTO]
+2019-07-29 12:00:42:563 - [debug] [35m[AndroidBootstrap][39m Received command result from bootstrap
+2019-07-29 12:00:42:563 - [debug] [35m[AndroidBootstrap][39m Stream still not complete, waiting up to 60000ms for the data to arrive
+2019-07-29 12:00:42:564 - [debug] [35m[AndroidBootstrap][39m Received command result from bootstrap
+2019-07-29 12:00:42:565 - [debug] [35m[W3C][39m Responding to client with driver.getPageSource() result: "<?xml version=\"1.0\" encoding=\"UTF-8\"?><hierarchy rotation=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,0][1080,2029]\" resource-id=\"\" instance=\"0\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[0,0][1080,2029]\" resource-id=\"\" instance=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"com.powerinfo.pi_iroom.demo\" content-desc=\"\" c...
+2019-07-29 12:00:42:569 - [35m[HTTP][39m [37m<-- GET /wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/source [39m[32m200[39m [90m113 ms - 18594[39m
+2019-07-29 12:00:42:571 - [35m[HTTP][39m [90m[39m
+2019-07-29 12:00:43:576 - [35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element[39m
+2019-07-29 12:00:43:576 - [35m[HTTP][39m [90m{"using":"xpath","value":"//android.widget.TextView[@text='RoomID :100006071000060710000607']","sessionId":"24b19b51-f4d1-43b7-a59c-7dd02a454752"}[39m
+2019-07-29 12:00:43:577 - [debug] [35m[W3C][39m Calling AppiumDriver.findElement() with args: ["xpath","//android.widget.TextView[@text='RoomID :100006071000060710000607']","24b19b51-f4d1-43b7-a59c-7dd02a454752"]
+2019-07-29 12:00:43:580 - [debug] [35m[BaseDriver][39m Valid locator strategies for this request: xpath, id, class name, accessibility id, -android uiautomator
+2019-07-29 12:00:43:581 - [debug] [35m[BaseDriver][39m Waiting up to 0 ms for condition
+2019-07-29 12:00:43:581 - [debug] [35m[AndroidBootstrap][39m Sending command to android: {"cmd":"action","action":"find","params":{"strategy":"xpath","selector":"//android.widget.TextView[@text='RoomID :100006071000060710000607']","context":"","multiple":false}}
+2019-07-29 12:00:43:590 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got data from client: {"cmd":"action","action":"find","params":{"strategy":"xpath","selector":"//android.widget.TextView[@text='RoomID :100006071000060710000607']","context":"","multiple":false}}
+2019-07-29 12:00:43:595 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command of type ACTION
+2019-07-29 12:00:43:596 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command action: find
+2019-07-29 12:00:43:596 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Finding '//android.widget.TextView[@text='RoomID :100006071000060710000607']' using 'XPATH' with the contextId: '' multiple: false
+2019-07-29 12:00:43:656 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Using: UiSelector[CLASS=android.widget.TextView, INSTANCE=0]
+2019-07-29 12:00:44:185 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Returning result: {"status":0,"value":{"ELEMENT":"2"}}
+2019-07-29 12:00:44:188 - [debug] [35m[AndroidBootstrap][39m Received command result from bootstrap
+2019-07-29 12:00:44:190 - [debug] [35m[W3C][39m Responding to client with driver.findElement() result: {"element-6066-11e4-a52e-4f735466cecf":"2"}
+2019-07-29 12:00:44:191 - [35m[HTTP][39m [37m<-- POST /wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element [39m[32m200[39m [90m615 ms - 53[39m
+2019-07-29 12:00:44:192 - [35m[HTTP][39m [90m[39m
+2019-07-29 12:00:45:202 - [35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element/2/click[39m
+2019-07-29 12:00:45:202 - [35m[HTTP][39m [90m{"id":"2","sessionId":"24b19b51-f4d1-43b7-a59c-7dd02a454752"}[39m
+2019-07-29 12:00:45:203 - [debug] [35m[W3C][39m Calling AppiumDriver.click() with args: ["2","24b19b51-f4d1-43b7-a59c-7dd02a454752"]
+2019-07-29 12:00:45:205 - [debug] [35m[AndroidBootstrap][39m Sending command to android: {"cmd":"action","action":"element:click","params":{"elementId":"2"}}
+2019-07-29 12:00:45:211 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got data from client: {"cmd":"action","action":"element:click","params":{"elementId":"2"}}
+2019-07-29 12:00:45:213 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command of type ACTION
+2019-07-29 12:00:45:214 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command action: click
+2019-07-29 12:00:45:226 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Returning result: {"status":0,"value":true}
+2019-07-29 12:00:45:229 - [debug] [35m[AndroidBootstrap][39m Received command result from bootstrap
+2019-07-29 12:00:45:230 - [debug] [35m[W3C][39m Responding to client with driver.click() result: true
+2019-07-29 12:00:45:231 - [35m[HTTP][39m [37m<-- POST /wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element/2/click [39m[32m200[39m [90m29 ms - 14[39m
+2019-07-29 12:00:45:232 - [35m[HTTP][39m [90m[39m
+2019-07-29 12:00:51:234 - [35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element[39m
+2019-07-29 12:00:51:234 - [35m[HTTP][39m [90m{"using":"id","value":"com.powerinfo.pi_iroom.demo:id/bt_start","sessionId":"24b19b51-f4d1-43b7-a59c-7dd02a454752"}[39m
+2019-07-29 12:00:51:235 - [debug] [35m[W3C][39m Calling AppiumDriver.findElement() with args: ["id","com.powerinfo.pi_iroom.demo:id/bt_start","24b19b51-f4d1-43b7-a59c-7dd02a454752"]
+2019-07-29 12:00:51:238 - [debug] [35m[BaseDriver][39m Valid locator strategies for this request: xpath, id, class name, accessibility id, -android uiautomator
+2019-07-29 12:00:51:238 - [debug] [35m[BaseDriver][39m Waiting up to 0 ms for condition
+2019-07-29 12:00:51:239 - [debug] [35m[AndroidBootstrap][39m Sending command to android: {"cmd":"action","action":"find","params":{"strategy":"id","selector":"com.powerinfo.pi_iroom.demo:id/bt_start","context":"","multiple":false}}
+2019-07-29 12:00:51:254 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got data from client: {"cmd":"action","action":"find","params":{"strategy":"id","selector":"com.powerinfo.pi_iroom.demo:id/bt_start","context":"","multiple":false}}
+2019-07-29 12:00:51:257 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command of type ACTION
+2019-07-29 12:00:51:258 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Got command action: find
+2019-07-29 12:00:51:259 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Finding 'com.powerinfo.pi_iroom.demo:id/bt_start' using 'ID' with the contextId: '' multiple: false
+2019-07-29 12:00:51:259 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Using: UiSelector[INSTANCE=0, RESOURCE_ID=com.powerinfo.pi_iroom.demo:id/bt_start]
+2019-07-29 12:00:51:311 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Failed to locate element. Clearing Accessibility cache and retrying.
+2019-07-29 12:00:51:312 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Finding 'com.powerinfo.pi_iroom.demo:id/bt_start' using 'ID' with the contextId: '' multiple: false
+2019-07-29 12:00:51:313 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Using: UiSelector[INSTANCE=0, RESOURCE_ID=com.powerinfo.pi_iroom.demo:id/bt_start]
+2019-07-29 12:00:51:323 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Returning result: {"status":7,"value":"No element found"}
+2019-07-29 12:00:51:324 - [debug] [35m[AndroidBootstrap][39m Received command result from bootstrap
+2019-07-29 12:00:51:325 - [debug] [35m[MJSONWP][39m Matched JSONWP error code 7 to NoSuchElementError
+2019-07-29 12:00:51:351 - [debug] [35m[W3C][39m Encountered internal error running command: NoSuchElementError: An element could not be located on the page using the given search parameters.
+2019-07-29 12:00:51:352 - [debug] [35m[W3C][39m     at AndroidDriver.callee$0$0$ (C:\Appium\Resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2019-07-29 12:00:51:354 - [debug] [35m[W3C][39m     at tryCatch (C:\Appium\Resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+2019-07-29 12:00:51:354 - [debug] [35m[W3C][39m     at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Appium\Resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+2019-07-29 12:00:51:354 - [debug] [35m[W3C][39m     at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Appium\Resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+2019-07-29 12:00:51:355 - [debug] [35m[W3C][39m     at GeneratorFunctionPrototype.invoke (C:\Appium\Resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+2019-07-29 12:00:51:358 - [35m[HTTP][39m [37m<-- POST /wd/hub/session/24b19b51-f4d1-43b7-a59c-7dd02a454752/element [39m[33m404[39m [90m122 ms - 1032[39m
+2019-07-29 12:00:51:359 - [35m[HTTP][39m [90m[39m
+2019-07-29 12:11:30:089 - [debug] [35m[AndroidBootstrap][39m Emitting alert message...
+2019-07-29 12:11:30:090 - [debug] [35m[AndroidBootstrap][39m [BOOTSTRAP LOG] [debug] Emitting system alert message
+2019-07-29 13:33:29:505 - [debug] [35m[UiAutomator][39m Moving to state 'stopped'
+2019-07-29 13:33:29:523 - [debug] [35m[AndroidDriver][39m Shutting down Android driver
+2019-07-29 13:33:29:525 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell am force-stop com.powerinfo.pi_iroom.demo'
+2019-07-29 13:33:29:683 - [35m[Appium][39m Closing session, cause was 'UiAUtomator shut down unexpectedly'
+2019-07-29 13:33:29:684 - [35m[Appium][39m Removing session 24b19b51-f4d1-43b7-a59c-7dd02a454752 from our master session list
+2019-07-29 13:33:29:718 - [35m[ADB][39m Error sending command, reconnecting device and retrying: shell,am,force-stop,com.powerinfo.pi_iroom.demo
+2019-07-29 13:33:30:720 - [debug] [35m[ADB][39m Trying to find a connected android device
+2019-07-29 13:33:30:721 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:33:30:783 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:33:30:783 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:30:784 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:30:784 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:31:021 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:33:35:121 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:33:35:122 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:35:122 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:35:123 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:35:373 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:33:39:487 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:33:39:487 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:39:488 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:39:488 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:39:728 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:33:43:798 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:33:43:801 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:43:801 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:43:801 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:44:135 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:33:48:214 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:33:48:214 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:48:214 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:48:214 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:48:497 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:33:52:578 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:33:52:579 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:52:579 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:52:579 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:52:828 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:52:828 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:52:829 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:54:078 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:54:078 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:54:079 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:55:328 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:55:328 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:55:328 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:56:582 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:56:583 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:56:583 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:57:859 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:57:859 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:57:860 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:33:59:094 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:33:59:094 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:33:59:094 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:00:327 - [debug] [35m[ADB][39m Running 'C:\adb\adb.exe -P 5037 -s 3edfeecc shell am force-stop com.powerinfo.pi_iroom.demo'
+2019-07-29 13:34:04:429 - [35m[ADB][39m Error sending command, reconnecting device and retrying: shell,am,force-stop,com.powerinfo.pi_iroom.demo
+2019-07-29 13:34:05:430 - [debug] [35m[ADB][39m Trying to find a connected android device
+2019-07-29 13:34:05:431 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:34:05:520 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:34:05:520 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:05:521 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:05:521 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:05:754 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:34:09:860 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:34:09:861 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:09:861 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:09:861 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:10:103 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:34:14:183 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:34:14:184 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:14:184 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:14:184 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:14:436 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:34:18:533 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:34:18:533 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:18:534 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:18:534 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:18:769 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:34:22:868 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:34:22:868 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:22:868 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:22:869 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:23:111 - [debug] [35m[ADB][39m Getting connected devices...
+2019-07-29 13:34:27:190 - [debug] [35m[ADB][39m 0 device(s) connected
+2019-07-29 13:34:27:190 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:27:191 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:27:192 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:27:432 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:27:432 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:27:432 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:28:667 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:28:667 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:28:667 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:29:904 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:29:904 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:29:904 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:31:141 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:31:141 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:31:141 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:32:377 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:32:378 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:32:378 - [debug] [35m[ADB][39m Killing adb server on port 5037
+2019-07-29 13:34:33:611 - [debug] [35m[ADB][39m Could not find devices, restarting adb server...
+2019-07-29 13:34:33:612 - [debug] [35m[ADB][39m Restarting adb
+2019-07-29 13:34:33:612 - [debug] [35m[ADB][39m Killing adb server on port 5037

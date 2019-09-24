@@ -1,0 +1,1281 @@
+[INFO] 2019-02-15 11:09:19,161: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 11:10:04,099: ['7728']
+[INFO] 2019-02-15 11:10:04,099: 0
+[INFO] 2019-02-15 11:10:18,241: [<appium.webdriver.webdriver.WebDriver (session="11ddeec2-50c4-4e4d-92d3-b59a889a264a")>]
+[INFO] 2019-02-15 11:10:18,241: test_001参与者多次加入离开房间
+[INFO] 2019-02-15 11:10:18,896: test运行完成
+[INFO] 2019-02-15 11:15:23,917: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 11:15:28,536: ['1472']
+[INFO] 2019-02-15 11:15:28,536: 0
+[INFO] 2019-02-15 11:15:40,160: [<appium.webdriver.webdriver.WebDriver (session="978c6f9a-3f85-46de-a74a-2bcd9a2f8f13")>]
+[INFO] 2019-02-15 11:15:40,161: test_001参与者多次加入离开房间
+[INFO] 2019-02-15 11:15:40,685: test运行完成
+[INFO] 2019-02-15 11:22:56,809: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 11:23:01,515: ['6192']
+[INFO] 2019-02-15 11:23:01,516: 0
+[INFO] 2019-02-15 11:23:54,754: [<appium.webdriver.webdriver.WebDriver (session="1f260055-1e7d-4262-8bd6-993304c93bb9")>]
+[INFO] 2019-02-15 11:23:54,754: test_001参与者多次加入离开房间
+[INFO] 2019-02-15 11:23:55,246: test运行完成
+[INFO] 2019-02-15 11:29:47,514: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 11:29:51,823: ['6672']
+[INFO] 2019-02-15 11:29:51,823: 0
+[INFO] 2019-02-15 11:30:44,270: [<appium.webdriver.webdriver.WebDriver (session="ae7475fb-8206-4845-a80b-ef9d4699242b")>]
+[INFO] 2019-02-15 11:30:44,271: test_001参与者多次加入离开房间
+[INFO] 2019-02-15 11:31:09,633: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 11:31:10,771: ['0']
+[INFO] 2019-02-15 11:31:10,771: 0
+[INFO] 2019-02-15 11:31:22,264: [<appium.webdriver.webdriver.WebDriver (session="ee231512-7f88-4f25-a6f5-57a6bad20826")>]
+[INFO] 2019-02-15 11:31:22,264: test_001参与者多次加入离开房间
+[INFO] 2019-02-15 11:34:00,295: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 11:34:01,422: ['0']
+[INFO] 2019-02-15 11:34:01,422: 0
+[INFO] 2019-02-15 11:34:12,327: [<appium.webdriver.webdriver.WebDriver (session="e3f57ff1-25b6-477c-8d36-04f8231f0744")>]
+[INFO] 2019-02-15 11:34:12,328: test_001参与者多次加入离开房间
+[INFO] 2019-02-15 13:40:42,050: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 13:40:43,876: ['0']
+[INFO] 2019-02-15 13:40:43,877: 0
+[INFO] 2019-02-15 13:41:23,694: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 13:41:24,938: ['0']
+[INFO] 2019-02-15 13:41:24,938: 0
+[INFO] 2019-02-15 13:41:39,037: [<appium.webdriver.webdriver.WebDriver (session="4133ddf9-7875-4416-b3d3-46540b76f493")>]
+[INFO] 2019-02-15 13:41:39,037: test_001参与者多次加入离开房间
+[INFO] 2019-02-15 13:54:34,172: devicelist: ['oppo_R9']
+[INFO] 2019-02-15 13:54:35,495: ['0']
+[INFO] 2019-02-15 13:54:35,495: 0
+[INFO] 2019-02-15 13:54:46,683: [<appium.webdriver.webdriver.WebDriver (session="8c68ef82-33c1-441a-bc0f-98c23669191e")>]
+[INFO] 2019-02-15 13:54:46,683: test_001参与者多次加入离开房间
+[INFO] 2019-02-18 17:09:01,865: devicelist: ['xm8']
+[INFO] 2019-02-18 17:09:35,062: ['5028']
+[INFO] 2019-02-18 17:09:35,062: 0
+[INFO] 2019-02-18 17:09:47,034: [<appium.webdriver.webdriver.WebDriver (session="35d0bd6f-9ccc-46a0-aab5-27e35a7cd290")>]
+[INFO] 2019-02-18 17:09:47,035: test_001参与者多次加入离开房间
+[INFO] 2019-02-18 17:10:24,190: devicelist: ['xm8']
+[INFO] 2019-02-18 17:10:25,963: ['0']
+[INFO] 2019-02-18 17:10:25,963: 0
+[INFO] 2019-02-18 17:10:34,673: [<appium.webdriver.webdriver.WebDriver (session="1a3db7ff-7a88-4bf2-8a64-b7dc73b53fcd")>]
+[INFO] 2019-02-18 17:10:34,673: test_001参与者多次加入离开房间
+[INFO] 2019-02-18 17:13:25,653: devicelist: ['xm8']
+[INFO] 2019-02-18 17:13:26,822: ['0']
+[INFO] 2019-02-18 17:13:26,822: 0
+[INFO] 2019-02-18 17:13:35,310: [<appium.webdriver.webdriver.WebDriver (session="fd85b7ee-8382-45bb-ad20-dc22b0397852")>]
+[INFO] 2019-02-18 17:13:35,311: test_001参与者多次加入离开房间
+[INFO] 2019-02-18 17:19:45,326: devicelist: ['xm8']
+[INFO] 2019-02-18 17:19:47,113: ['0']
+[INFO] 2019-02-18 17:19:47,113: 0
+[INFO] 2019-02-18 17:19:55,238: [<appium.webdriver.webdriver.WebDriver (session="ba868396-da92-4c3f-86ee-ad3670f72878")>]
+[INFO] 2019-02-18 17:19:55,239: test_001参与者多次加入离开房间
+[INFO] 2019-02-18 17:26:36,494: test运行完成
+[INFO] 2019-02-18 17:56:06,236: devicelist: ['P9']
+[INFO] 2019-02-18 17:56:35,496: devicelist: ['p9']
+[INFO] 2019-02-18 17:56:49,479: ['7260']
+[INFO] 2019-02-18 17:56:49,479: 0
+[INFO] 2019-02-18 17:57:00,242: [<appium.webdriver.webdriver.WebDriver (session="36558239-3379-473d-bf04-0824ea82692b")>]
+[INFO] 2019-02-18 17:57:00,243: test_001参与者多次加入离开房间
+[INFO] 2019-02-18 18:55:55,944: devicelist: ['p9']
+[INFO] 2019-02-18 18:56:10,349: ['8440']
+[INFO] 2019-02-18 18:56:10,349: 0
+[INFO] 2019-02-18 18:56:22,383: [<appium.webdriver.webdriver.WebDriver (session="87eb3b54-4c66-4d92-857d-c179629946f0")>]
+[INFO] 2019-02-18 18:56:22,383: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 01:19:55,263: test运行完成
+[INFO] 2019-02-19 09:23:15,949: devicelist: ['p9']
+[INFO] 2019-02-19 09:23:38,538: ['7768']
+[INFO] 2019-02-19 09:23:38,538: 0
+[INFO] 2019-02-19 09:23:49,555: [<appium.webdriver.webdriver.WebDriver (session="2d52abf2-48a7-45c4-b903-1463f87a28e3")>]
+[INFO] 2019-02-19 09:23:49,556: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 09:32:54,164: test运行完成
+[INFO] 2019-02-19 11:04:44,846: devicelist: ['xm8', 'hwmate7']
+[INFO] 2019-02-19 11:05:04,857: ['5460', '7304']
+[INFO] 2019-02-19 11:05:04,857: 0
+[INFO] 2019-02-19 11:05:19,872: 1
+[INFO] 2019-02-19 11:05:32,598: [<appium.webdriver.webdriver.WebDriver (session="7d146c91-8767-44df-ad2e-d3dad2948547")>, <appium.webdriver.webdriver.WebDriver (session="5e1a46df-29d1-4646-ae4e-227e4407f5e3")>]
+[INFO] 2019-02-19 11:05:32,598: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 11:08:03,518: devicelist: ['xm8', 'p9']
+[INFO] 2019-02-19 11:08:05,545: ['0', '0']
+[INFO] 2019-02-19 11:08:05,545: 0
+[INFO] 2019-02-19 11:09:17,579: devicelist: ['hwmate7', 'p9']
+[INFO] 2019-02-19 11:09:19,160: ['0', '0']
+[INFO] 2019-02-19 11:09:19,160: 0
+[INFO] 2019-02-19 11:09:30,852: 1
+[INFO] 2019-02-19 11:09:38,474: [<appium.webdriver.webdriver.WebDriver (session="6d5ad275-abd6-47a4-9c2c-8dcbdf84e4a1")>, <appium.webdriver.webdriver.WebDriver (session="577d2997-c345-4f41-8bf3-81e9132d0041")>]
+[INFO] 2019-02-19 11:09:38,474: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 11:11:53,066: devicelist: ['hwmate7', 'p9']
+[INFO] 2019-02-19 11:11:54,761: ['0', '0']
+[INFO] 2019-02-19 11:11:54,761: 0
+[INFO] 2019-02-19 11:12:07,189: 1
+[INFO] 2019-02-19 11:12:14,119: [<appium.webdriver.webdriver.WebDriver (session="0572db72-81c4-44a3-aede-172d0d3ca376")>, <appium.webdriver.webdriver.WebDriver (session="c59c3454-3872-4ba8-a344-acbea9d7ba00")>]
+[INFO] 2019-02-19 11:12:14,120: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 11:58:15,743: test运行完成
+[INFO] 2019-02-19 14:34:57,307: devicelist: ['hwmate7', 'xm8']
+[INFO] 2019-02-19 14:35:45,451: ['2416', '9404']
+[INFO] 2019-02-19 14:35:45,451: 0
+[INFO] 2019-02-19 14:35:59,487: 1
+[INFO] 2019-02-19 14:36:06,505: [<appium.webdriver.webdriver.WebDriver (session="733556c2-2a7f-4fe1-be84-b36735f4b557")>, <appium.webdriver.webdriver.WebDriver (session="f98b809f-16a4-4d7d-b76a-7f6fe43cda85")>]
+[INFO] 2019-02-19 14:36:06,505: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 14:36:46,859: devicelist: ['hwmate7']
+[INFO] 2019-02-19 14:36:48,243: ['0']
+[INFO] 2019-02-19 14:36:48,243: 0
+[INFO] 2019-02-19 14:36:59,446: [<appium.webdriver.webdriver.WebDriver (session="f606069f-4a0c-47e8-872a-5eff035fe8fe")>]
+[INFO] 2019-02-19 14:36:59,446: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 15:25:41,079: devicelist: ['hwmate7', 'p9']
+[INFO] 2019-02-19 15:26:25,301: ['11900', '11912']
+[INFO] 2019-02-19 15:26:25,301: 0
+[INFO] 2019-02-19 15:26:38,785: 1
+[INFO] 2019-02-19 15:26:49,612: [<appium.webdriver.webdriver.WebDriver (session="7035cb8e-b72f-4cae-862c-d9eed309e994")>, <appium.webdriver.webdriver.WebDriver (session="02bb5c8d-f27a-40e6-9208-18e52a9abbf9")>]
+[INFO] 2019-02-19 15:26:49,612: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 16:13:25,421: test运行完成
+[INFO] 2019-02-19 16:19:19,632: devicelist: ['hwmate7', 'p9']
+[INFO] 2019-02-19 16:19:26,164: ['9404', '11624']
+[INFO] 2019-02-19 16:19:26,164: 0
+[INFO] 2019-02-19 16:19:37,691: 1
+[INFO] 2019-02-19 16:19:48,120: [<appium.webdriver.webdriver.WebDriver (session="589835d0-4e98-4eb4-a937-6d7909e280c6")>, <appium.webdriver.webdriver.WebDriver (session="fe435ef4-1cc4-4159-bd72-992e8b532c99")>]
+[INFO] 2019-02-19 16:19:48,120: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 18:21:11,670: devicelist: ['hwmate7', 'p9']
+[INFO] 2019-02-19 18:21:47,158: ['6496', '11356']
+[INFO] 2019-02-19 18:21:47,158: 0
+[INFO] 2019-02-19 18:22:00,057: 1
+[INFO] 2019-02-19 18:22:11,588: [<appium.webdriver.webdriver.WebDriver (session="60242f08-b67f-4306-8137-20fa9e0dc993")>, <appium.webdriver.webdriver.WebDriver (session="40b57e7f-513d-4838-a058-51f293a543c3")>]
+[INFO] 2019-02-19 18:22:11,589: test_001参与者多次加入离开房间
+[INFO] 2019-02-19 23:35:50,268: test运行完成
+[INFO] 2019-03-15 10:52:34,084: devicelist: ['p10_295']
+[INFO] 2019-03-15 10:52:56,485: ['7880']
+[INFO] 2019-03-15 10:52:56,485: 0
+[INFO] 2019-03-15 10:53:05,561: [<appium.webdriver.webdriver.WebDriver (session="6a5fc82c-cbc9-4ec9-8079-8303b698c84c")>]
+[INFO] 2019-03-15 10:53:05,562: test_006_pusicPK秒开
+[INFO] 2019-03-15 10:53:06,358: test运行完成
+[INFO] 2019-03-15 10:53:45,798: devicelist: ['p10_295']
+[INFO] 2019-03-15 10:53:47,255: ['0']
+[INFO] 2019-03-15 10:53:47,255: 0
+[INFO] 2019-03-15 10:54:20,850: devicelist: ['p10_295']
+[INFO] 2019-03-15 10:54:21,945: ['0']
+[INFO] 2019-03-15 10:54:21,946: 0
+[INFO] 2019-03-15 10:54:30,010: [<appium.webdriver.webdriver.WebDriver (session="b1efda51-5ef1-432f-81b4-2808f589c375")>]
+[INFO] 2019-03-15 10:54:30,010: test_006_pusicPK秒开
+[INFO] 2019-03-15 10:54:30,619: test运行完成
+[INFO] 2019-03-15 10:56:14,440: devicelist: ['p10_295']
+[INFO] 2019-03-15 10:56:15,648: ['0']
+[INFO] 2019-03-15 10:56:15,649: 0
+[INFO] 2019-03-15 10:56:23,640: [<appium.webdriver.webdriver.WebDriver (session="130f3caf-51cc-4310-82b0-996ab2cfa091")>]
+[INFO] 2019-03-15 10:56:23,640: test_006_pusicPK秒开
+[INFO] 2019-03-15 10:56:24,183: test运行完成
+[INFO] 2019-03-15 10:56:45,243: devicelist: ['p10_295']
+[INFO] 2019-03-15 10:56:46,274: ['0']
+[INFO] 2019-03-15 10:56:46,274: 0
+[INFO] 2019-03-15 10:56:54,066: [<appium.webdriver.webdriver.WebDriver (session="cb7669e9-3a1a-4c8a-8145-3ea4ea20c512")>]
+[INFO] 2019-03-15 10:56:54,066: test_006_pusicPK秒开
+[INFO] 2019-03-15 10:56:54,623: test运行完成
+[INFO] 2019-03-15 10:58:11,037: devicelist: ['p10_295']
+[INFO] 2019-03-15 10:58:12,142: ['0']
+[INFO] 2019-03-15 10:58:12,142: 0
+[INFO] 2019-03-15 10:58:19,943: [<appium.webdriver.webdriver.WebDriver (session="5920050b-c9c7-46b9-91e3-5ba699649d23")>]
+[INFO] 2019-03-15 10:58:19,943: test_004参与者多次创建房间
+[INFO] 2019-03-15 10:58:20,561: test运行完成
+[INFO] 2019-03-15 10:59:49,943: devicelist: ['p10_295']
+[INFO] 2019-03-15 10:59:51,089: ['0']
+[INFO] 2019-03-15 10:59:51,090: 0
+[INFO] 2019-03-15 10:59:58,791: [<appium.webdriver.webdriver.WebDriver (session="9b5cb841-09ea-4971-8a98-354d0a03c55b")>]
+[INFO] 2019-03-15 10:59:58,791: test_001参与者多次加入离开房间
+[INFO] 2019-03-15 11:00:39,911: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:00:41,011: ['0']
+[INFO] 2019-03-15 11:00:41,011: 0
+[INFO] 2019-03-15 11:00:48,785: [<appium.webdriver.webdriver.WebDriver (session="00b52ff4-c676-45de-a0ff-bab38b05edab")>]
+[INFO] 2019-03-15 11:00:48,785: test_001参与者多次加入离开房间
+[INFO] 2019-03-15 11:01:30,117: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:01:31,249: ['0']
+[INFO] 2019-03-15 11:01:31,249: 0
+[INFO] 2019-03-15 11:01:38,985: [<appium.webdriver.webdriver.WebDriver (session="d1685b0f-203b-484c-997a-5c247680359f")>]
+[INFO] 2019-03-15 11:01:38,985: test_001参与者多次加入离开房间
+[INFO] 2019-03-15 11:01:39,437: test运行完成
+[INFO] 2019-03-15 11:03:12,786: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:03:13,962: ['0']
+[INFO] 2019-03-15 11:03:13,963: 0
+[INFO] 2019-03-15 11:03:14,757: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:03:16,698: ['0']
+[INFO] 2019-03-15 11:03:16,698: 0
+[INFO] 2019-03-15 11:03:24,899: [<appium.webdriver.webdriver.WebDriver (session="3827dd93-8f9d-43e3-9cab-e6aa73dce54c")>]
+[INFO] 2019-03-15 11:03:24,899: test_001参与者多次加入离开房间
+[INFO] 2019-03-15 11:03:25,364: test运行完成
+[INFO] 2019-03-15 11:04:03,795: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:04:04,958: ['0']
+[INFO] 2019-03-15 11:04:04,958: 0
+[INFO] 2019-03-15 11:04:13,098: [<appium.webdriver.webdriver.WebDriver (session="891ccd8c-9c32-459c-84ca-d1881c00e063")>]
+[INFO] 2019-03-15 11:04:13,098: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:04:22,598: test运行完成
+[INFO] 2019-03-15 11:05:50,014: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:05:51,199: ['0']
+[INFO] 2019-03-15 11:05:51,200: 0
+[INFO] 2019-03-15 11:05:59,110: [<appium.webdriver.webdriver.WebDriver (session="ebeb97c3-3fa4-4c2c-8ad0-ff5a158ac899")>]
+[INFO] 2019-03-15 11:05:59,110: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:06:07,108: test运行完成
+[INFO] 2019-03-15 11:06:49,668: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:06:50,748: ['0']
+[INFO] 2019-03-15 11:06:50,749: 0
+[INFO] 2019-03-15 11:06:58,373: [<appium.webdriver.webdriver.WebDriver (session="c6842350-86c6-4d95-bf3e-6a65c2e0c9dc")>]
+[INFO] 2019-03-15 11:06:58,373: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:07:06,433: test运行完成
+[INFO] 2019-03-15 11:07:28,086: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:07:29,197: ['0']
+[INFO] 2019-03-15 11:07:29,197: 0
+[INFO] 2019-03-15 11:07:36,853: [<appium.webdriver.webdriver.WebDriver (session="3cecffc3-9546-4aa8-aae9-735590078dfe")>]
+[INFO] 2019-03-15 11:07:36,853: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:07:37,301: test运行完成
+[INFO] 2019-03-15 11:07:48,938: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:07:50,025: ['0']
+[INFO] 2019-03-15 11:07:50,025: 0
+[INFO] 2019-03-15 11:07:58,063: [<appium.webdriver.webdriver.WebDriver (session="320078a9-053e-45aa-9a14-a50ddaaca162")>]
+[INFO] 2019-03-15 11:07:58,063: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:08:07,495: test运行完成
+[INFO] 2019-03-15 11:21:23,600: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:21:28,062: ['2004']
+[INFO] 2019-03-15 11:21:28,062: 0
+[INFO] 2019-03-15 11:21:35,210: [<appium.webdriver.webdriver.WebDriver (session="f60da0a7-e366-47b1-8327-5f64626ff4c9")>]
+[INFO] 2019-03-15 11:21:35,210: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:21:40,219: test运行完成
+[INFO] 2019-03-15 11:24:40,433: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:24:44,856: ['7684']
+[INFO] 2019-03-15 11:24:44,856: 0
+[INFO] 2019-03-15 11:24:52,091: [<appium.webdriver.webdriver.WebDriver (session="0fc2c1fa-6be4-4581-aae4-04292f586abe")>]
+[INFO] 2019-03-15 11:24:52,091: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:26:53,268: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:26:54,413: ['0']
+[INFO] 2019-03-15 11:26:54,413: 0
+[INFO] 2019-03-15 11:27:02,133: [<appium.webdriver.webdriver.WebDriver (session="e35d5819-cf36-496e-8e4b-dba06c4680af")>]
+[INFO] 2019-03-15 11:27:02,133: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:27:38,068: test运行完成
+[INFO] 2019-03-15 11:27:51,109: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:27:52,556: ['0']
+[INFO] 2019-03-15 11:27:52,557: 0
+[INFO] 2019-03-15 11:28:00,555: [<appium.webdriver.webdriver.WebDriver (session="d52636c2-931c-41e6-a104-e25bcd5049a0")>]
+[INFO] 2019-03-15 11:28:00,555: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:37:32,203: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:37:36,514: ['7732']
+[INFO] 2019-03-15 11:37:36,514: 0
+[INFO] 2019-03-15 11:38:30,099: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:38:32,127: ['0']
+[INFO] 2019-03-15 11:38:32,127: 0
+[INFO] 2019-03-15 11:39:22,900: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:39:24,356: ['0']
+[INFO] 2019-03-15 11:39:24,357: 0
+[INFO] 2019-03-15 11:39:36,761: [<appium.webdriver.webdriver.WebDriver (session="3deff4aa-acfd-48f9-a64e-97e761e2620f")>]
+[INFO] 2019-03-15 11:39:36,761: test_006_pusicPK秒开
+[INFO] 2019-03-15 11:47:42,015: devicelist: ['p10_295']
+[INFO] 2019-03-15 11:47:46,599: ['7760']
+[INFO] 2019-03-15 11:47:46,599: 0
+[INFO] 2019-03-15 11:47:53,076: [<appium.webdriver.webdriver.WebDriver (session="9729251f-bd00-493d-841d-d4eb1534b9dd")>]
+[INFO] 2019-03-15 11:47:53,076: test_006_pusicPK秒开
+[INFO] 2019-03-15 12:01:41,284: test运行完成
+[INFO] 2019-03-15 13:38:07,806: devicelist: ['p10_295']
+[INFO] 2019-03-15 13:38:16,288: devicelist: ['p10_295']
+[INFO] 2019-03-15 13:38:23,151: ['8340']
+[INFO] 2019-03-15 13:38:23,151: 0
+[INFO] 2019-03-15 13:38:30,977: [<appium.webdriver.webdriver.WebDriver (session="c742a3f9-5bcf-43ed-b644-ce5d0d4328fb")>]
+[INFO] 2019-03-15 13:38:30,977: test_006_pusicPK秒开
+[INFO] 2019-03-15 13:52:10,684: test运行完成
+[INFO] 2019-03-15 13:54:48,863: devicelist: ['p10_295']
+[INFO] 2019-03-15 13:54:55,774: ['8316']
+[INFO] 2019-03-15 13:54:55,775: 0
+[INFO] 2019-03-15 13:55:02,654: [<appium.webdriver.webdriver.WebDriver (session="974754fb-8d02-4010-ad60-e0d98884b1c2")>]
+[INFO] 2019-03-15 13:55:02,654: test_006_pusicPK秒开
+[INFO] 2019-03-15 14:08:49,190: test运行完成
+[INFO] 2019-03-15 14:12:08,322: devicelist: ['p10_295']
+[INFO] 2019-03-15 14:12:15,018: ['8292']
+[INFO] 2019-03-15 14:12:15,018: 0
+[INFO] 2019-03-15 14:12:22,967: [<appium.webdriver.webdriver.WebDriver (session="b5833d0d-ed2c-42ce-8a3c-fe5745c88f00")>]
+[INFO] 2019-03-15 14:12:22,967: test_006_pusicPK秒开
+[INFO] 2019-03-15 14:19:33,571: test运行完成
+[INFO] 2019-03-15 14:20:50,430: devicelist: ['p10_295']
+[INFO] 2019-03-15 14:20:51,492: ['0']
+[INFO] 2019-03-15 14:20:51,492: 0
+[INFO] 2019-03-15 14:21:01,248: [<appium.webdriver.webdriver.WebDriver (session="8d52c34e-cc7e-45a0-a741-19f5511976af")>]
+[INFO] 2019-03-15 14:21:01,249: test_006_pusicPK秒开
+[INFO] 2019-03-15 14:21:38,090: test运行完成
+[INFO] 2019-03-15 14:39:29,615: devicelist: ['p10_295']
+[INFO] 2019-03-15 14:39:35,058: ['6712']
+[INFO] 2019-03-15 14:39:35,058: 0
+[INFO] 2019-03-15 14:39:41,797: [<appium.webdriver.webdriver.WebDriver (session="6ba3a693-e238-4862-9c51-67c3a0e131a4")>]
+[INFO] 2019-03-15 14:39:41,797: test_006_pusicPK秒开
+[INFO] 2019-03-15 14:40:20,180: test运行完成
+[INFO] 2019-03-15 14:46:45,358: devicelist: ['p10_295']
+[INFO] 2019-03-15 14:46:51,019: ['8656']
+[INFO] 2019-03-15 14:46:51,019: 0
+[INFO] 2019-03-15 14:46:58,418: [<appium.webdriver.webdriver.WebDriver (session="dc5a9c0e-8878-42c7-8afe-9f8836a2537e")>]
+[INFO] 2019-03-15 14:46:58,418: test_006_pusicPK秒开
+[INFO] 2019-03-15 14:57:45,322: devicelist: ['p10_295']
+[INFO] 2019-03-15 14:57:46,716: ['0']
+[INFO] 2019-03-15 14:57:46,716: 0
+[INFO] 2019-03-15 14:57:59,158: [<appium.webdriver.webdriver.WebDriver (session="50872ab2-de38-4ff7-adc3-eb88be740004")>]
+[INFO] 2019-03-15 14:57:59,158: test_006_pusicPK秒开
+[INFO] 2019-03-15 15:13:33,522: test运行完成
+[INFO] 2019-03-15 15:14:09,955: devicelist: ['p10_295']
+[INFO] 2019-03-15 15:14:11,849: ['0']
+[INFO] 2019-03-15 15:14:11,849: 0
+[INFO] 2019-03-15 15:14:25,320: [<appium.webdriver.webdriver.WebDriver (session="a9c5aa8b-bb83-4e16-a8c6-67f61d391a98")>]
+[INFO] 2019-03-15 15:14:25,320: test_006_pusicPK秒开
+[INFO] 2019-03-15 15:20:10,338: test运行完成
+[INFO] 2019-03-19 18:03:46,161: devicelist: ['p9']
+[INFO] 2019-03-19 18:04:13,227: ['10300']
+[INFO] 2019-03-19 18:04:13,228: 0
+[INFO] 2019-03-19 18:04:25,825: [<appium.webdriver.webdriver.WebDriver (session="19713b57-0e90-4e03-a31e-899bcf11b546")>]
+[INFO] 2019-03-19 18:04:25,825: test_006_pusicPK秒开
+[INFO] 2019-03-19 18:18:19,104: test运行完成
+[INFO] 2019-03-19 18:26:59,564: devicelist: ['p9']
+[INFO] 2019-03-19 18:33:14,495: devicelist: ['p9']
+[INFO] 2019-03-19 18:33:27,249: ['9648']
+[INFO] 2019-03-19 18:33:27,250: 0
+[INFO] 2019-03-19 18:33:41,556: [<appium.webdriver.webdriver.WebDriver (session="16382937-374b-45b3-a6f1-351b4fba2189")>]
+[INFO] 2019-03-19 18:33:41,557: test_006_pusicPK秒开
+[INFO] 2019-03-19 18:47:31,916: test运行完成
+[INFO] 2019-03-19 18:48:47,525: devicelist: ['p9']
+[INFO] 2019-03-19 18:48:50,321: ['0']
+[INFO] 2019-03-19 18:48:50,321: 0
+[INFO] 2019-03-19 18:49:04,811: [<appium.webdriver.webdriver.WebDriver (session="10a6ef7c-3baf-4ab2-b753-272ce9cabf4a")>]
+[INFO] 2019-03-19 18:49:04,811: test_006_pusicPK秒开
+[INFO] 2019-03-19 19:09:31,266: test运行完成
+[INFO] 2019-03-21 16:27:22,362: devicelist: ['p9']
+[INFO] 2019-05-30 11:34:37,175: devicelist: ['vivou1']
+[INFO] 2019-05-30 11:35:23,420: ['4320']
+[INFO] 2019-05-30 11:35:23,420: 0
+[INFO] 2019-05-30 11:36:14,355: [<appium.webdriver.webdriver.WebDriver (session="6cc4ef5b-530d-483b-abe0-19f0626457b2")>]
+[INFO] 2019-05-30 11:36:14,355: test_002_DokiDemo_多次加入离开房间
+[INFO] 2019-05-30 11:36:54,745: devicelist: ['vivou1']
+[INFO] 2019-05-30 11:36:56,407: ['0']
+[INFO] 2019-05-30 11:36:56,407: 0
+[INFO] 2019-05-30 11:37:06,515: [<appium.webdriver.webdriver.WebDriver (session="2aea5e26-8fb6-4fb9-8ed2-045460ca5508")>]
+[INFO] 2019-05-30 11:37:06,515: test_002_DokiDemo_多次加入离开房间
+[INFO] 2019-05-30 11:37:07,938: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:37:27,644: 加入房间成功:True
+[INFO] 2019-05-30 11:37:34,789: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:37:53,493: 加入房间成功:True
+[INFO] 2019-05-30 11:38:00,635: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:38:20,423: 加入房间成功:True
+[INFO] 2019-05-30 11:38:27,558: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:38:46,181: 加入房间成功:True
+[INFO] 2019-05-30 11:38:53,302: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:39:11,925: 加入房间成功:True
+[INFO] 2019-05-30 11:39:19,019: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:39:37,651: 加入房间成功:True
+[INFO] 2019-05-30 11:39:44,751: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:40:03,232: 加入房间成功:True
+[INFO] 2019-05-30 11:40:10,350: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:40:28,723: 加入房间成功:True
+[INFO] 2019-05-30 11:40:35,851: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:40:54,757: 加入房间成功:True
+[INFO] 2019-05-30 11:41:01,893: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:41:20,371: 加入房间成功:True
+[INFO] 2019-05-30 11:41:27,458: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:41:45,869: 加入房间成功:True
+[INFO] 2019-05-30 11:41:52,901: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:42:11,224: 加入房间成功:True
+[INFO] 2019-05-30 11:42:18,345: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:42:36,740: 加入房间成功:True
+[INFO] 2019-05-30 11:42:43,874: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:43:02,246: 加入房间成功:True
+[INFO] 2019-05-30 11:43:09,360: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:43:27,689: 加入房间成功:True
+[INFO] 2019-05-30 11:43:34,810: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:43:53,108: 加入房间成功:True
+[INFO] 2019-05-30 11:44:00,162: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:44:18,568: 加入房间成功:True
+[INFO] 2019-05-30 11:44:25,692: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:44:43,975: 加入房间成功:True
+[INFO] 2019-05-30 11:44:51,078: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:45:09,301: 加入房间成功:True
+[INFO] 2019-05-30 11:45:16,372: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:45:34,809: 加入房间成功:True
+[INFO] 2019-05-30 11:45:41,885: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:46:00,252: 加入房间成功:True
+[INFO] 2019-05-30 11:46:07,375: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:46:25,697: 加入房间成功:True
+[INFO] 2019-05-30 11:46:32,761: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:46:51,038: 加入房间成功:True
+[INFO] 2019-05-30 11:46:58,134: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:47:16,572: 加入房间成功:True
+[INFO] 2019-05-30 11:47:23,629: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:47:41,955: 加入房间成功:True
+[INFO] 2019-05-30 11:47:49,025: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:48:07,306: 加入房间成功:True
+[INFO] 2019-05-30 11:48:14,404: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:48:32,687: 加入房间成功:True
+[INFO] 2019-05-30 11:48:39,774: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:48:58,147: 加入房间成功:True
+[INFO] 2019-05-30 11:49:05,251: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:49:23,554: 加入房间成功:True
+[INFO] 2019-05-30 11:49:30,620: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:49:51,273: 加入房间成功:True
+[INFO] 2019-05-30 11:49:58,335: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:50:16,644: 加入房间成功:True
+[INFO] 2019-05-30 11:50:23,745: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:50:42,008: 加入房间成功:True
+[INFO] 2019-05-30 11:50:49,101: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:51:07,384: 加入房间成功:True
+[INFO] 2019-05-30 11:51:14,439: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:51:32,835: 加入房间成功:True
+[INFO] 2019-05-30 11:51:39,933: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:51:58,233: 加入房间成功:True
+[INFO] 2019-05-30 11:52:05,315: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:52:23,885: 加入房间成功:True
+[INFO] 2019-05-30 11:52:30,942: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:52:49,200: 加入房间成功:True
+[INFO] 2019-05-30 11:52:56,273: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:53:14,527: 加入房间成功:True
+[INFO] 2019-05-30 11:53:21,578: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:53:39,775: 加入房间成功:True
+[INFO] 2019-05-30 11:53:46,871: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:54:05,159: 加入房间成功:True
+[INFO] 2019-05-30 11:54:12,253: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:54:30,569: 加入房间成功:True
+[INFO] 2019-05-30 11:54:37,628: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:54:56,956: 加入房间成功:True
+[INFO] 2019-05-30 11:55:04,035: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:55:22,305: 加入房间成功:True
+[INFO] 2019-05-30 11:55:29,388: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:55:47,717: 加入房间成功:True
+[INFO] 2019-05-30 11:55:54,795: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:56:13,128: 加入房间成功:True
+[INFO] 2019-05-30 11:56:20,171: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:56:38,371: 加入房间成功:True
+[INFO] 2019-05-30 11:56:45,460: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:57:03,736: 加入房间成功:True
+[INFO] 2019-05-30 11:57:10,835: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:57:29,113: 加入房间成功:True
+[INFO] 2019-05-30 11:57:36,184: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:57:54,450: 加入房间成功:True
+[INFO] 2019-05-30 11:58:01,535: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:58:19,793: 加入房间成功:True
+[INFO] 2019-05-30 11:58:26,895: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:58:45,190: 加入房间成功:True
+[INFO] 2019-05-30 11:58:52,247: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:59:10,490: 加入房间成功:True
+[INFO] 2019-05-30 11:59:17,536: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 11:59:35,836: 加入房间成功:True
+[INFO] 2019-05-30 11:59:42,948: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:00:01,274: 加入房间成功:True
+[INFO] 2019-05-30 12:00:08,372: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:00:26,632: 加入房间成功:True
+[INFO] 2019-05-30 12:00:33,686: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:00:51,995: 加入房间成功:True
+[INFO] 2019-05-30 12:00:59,058: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:01:17,296: 加入房间成功:True
+[INFO] 2019-05-30 12:01:24,352: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:01:42,688: 加入房间成功:True
+[INFO] 2019-05-30 12:01:49,779: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:02:08,625: 加入房间成功:True
+[INFO] 2019-05-30 12:02:15,566: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:02:34,003: 加入房间成功:True
+[INFO] 2019-05-30 12:02:41,087: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:02:59,467: 加入房间成功:True
+[INFO] 2019-05-30 12:03:06,439: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:03:25,610: 加入房间成功:True
+[INFO] 2019-05-30 12:03:32,582: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:03:51,643: 加入房间成功:True
+[INFO] 2019-05-30 12:03:58,783: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:04:18,798: 加入房间成功:True
+[INFO] 2019-05-30 12:04:25,710: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:04:44,867: 加入房间成功:True
+[INFO] 2019-05-30 12:04:52,252: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:05:12,580: 加入房间成功:True
+[INFO] 2019-05-30 12:05:19,891: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:05:39,922: 加入房间成功:True
+[INFO] 2019-05-30 12:05:46,774: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 12:06:15,641: 加入房间成功:True
+[INFO] 2019-05-30 12:06:16,887: test运行完成
+[INFO] 2019-05-30 14:00:08,902: devicelist: ['vivou1']
+[INFO] 2019-05-30 14:00:49,388: ['9332']
+[INFO] 2019-05-30 14:00:49,388: 0
+[INFO] 2019-05-30 14:01:02,162: [<appium.webdriver.webdriver.WebDriver (session="5b0f4fbc-d144-4d09-96ae-ff6dba8c32f4")>]
+[INFO] 2019-05-30 14:01:02,162: test_002_DokiDemo_多次加入离开房间
+[INFO] 2019-05-30 14:01:02,805: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 14:01:18,307: 加入房间成功:True
+[INFO] 2019-05-30 14:01:22,443: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 14:01:36,089: 加入房间成功:True
+[INFO] 2019-05-30 14:01:40,163: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 14:01:53,801: 加入房间成功:True
+[INFO] 2019-05-30 14:01:57,892: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 14:02:11,504: 加入房间成功:True
+[INFO] 2019-05-30 14:04:12,478: test运行完成
+[INFO] 2019-05-30 15:39:04,025: devicelist: ['vivou1']
+[INFO] 2019-05-30 15:39:31,141: ['3412']
+[INFO] 2019-05-30 15:39:31,141: 0
+[INFO] 2019-05-30 15:39:42,095: [<appium.webdriver.webdriver.WebDriver (session="3756c5d4-2b25-4084-82a0-31e8fba79a96")>]
+[INFO] 2019-05-30 15:39:42,095: test_002_DokiDemo_多次加入离开房间
+[INFO] 2019-05-30 15:40:11,149: devicelist: ['vivou1']
+[INFO] 2019-05-30 15:40:12,589: ['0']
+[INFO] 2019-05-30 15:40:12,590: 0
+[INFO] 2019-05-30 15:40:23,735: [<appium.webdriver.webdriver.WebDriver (session="f6c20622-dc48-42b2-aef7-d69bbd251f9a")>]
+[INFO] 2019-05-30 15:40:23,736: test_002_DokiDemo_多次加入离开房间
+[INFO] 2019-05-30 15:40:25,221: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:40:44,987: 加入房间成功:True
+[INFO] 2019-05-30 15:40:52,119: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:41:10,931: 加入房间成功:True
+[INFO] 2019-05-30 15:41:18,058: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:41:36,619: 加入房间成功:True
+[INFO] 2019-05-30 15:41:43,753: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:42:02,297: 加入房间成功:True
+[INFO] 2019-05-30 15:42:09,461: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:42:27,825: 加入房间成功:True
+[INFO] 2019-05-30 15:42:34,942: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:42:53,442: 加入房间成功:True
+[INFO] 2019-05-30 15:43:00,563: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:43:18,900: 加入房间成功:True
+[INFO] 2019-05-30 15:43:25,968: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:43:44,448: 加入房间成功:True
+[INFO] 2019-05-30 15:43:51,536: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:44:09,977: 加入房间成功:True
+[INFO] 2019-05-30 15:44:17,083: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:44:35,414: 加入房间成功:True
+[INFO] 2019-05-30 15:44:42,505: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:45:00,825: 加入房间成功:True
+[INFO] 2019-05-30 15:45:07,936: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:45:26,187: 加入房间成功:True
+[INFO] 2019-05-30 15:45:33,246: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:45:51,717: 加入房间成功:True
+[INFO] 2019-05-30 15:45:58,846: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:46:17,127: 加入房间成功:True
+[INFO] 2019-05-30 15:46:24,222: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:46:42,440: 加入房间成功:True
+[INFO] 2019-05-30 15:46:49,582: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:47:07,942: 加入房间成功:True
+[INFO] 2019-05-30 15:47:15,022: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:47:33,408: 加入房间成功:True
+[INFO] 2019-05-30 15:47:40,414: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:47:58,681: 加入房间成功:True
+[INFO] 2019-05-30 15:48:05,787: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:48:24,087: 加入房间成功:True
+[INFO] 2019-05-30 15:48:31,181: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:48:49,451: 加入房间成功:True
+[INFO] 2019-05-30 15:48:56,512: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:49:14,920: 加入房间成功:True
+[INFO] 2019-05-30 15:49:22,011: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:49:40,260: 加入房间成功:True
+[INFO] 2019-05-30 15:49:47,327: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:50:05,547: 加入房间成功:True
+[INFO] 2019-05-30 15:50:12,669: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:50:31,008: 加入房间成功:True
+[INFO] 2019-05-30 15:50:38,062: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:50:58,719: 加入房间成功:True
+[INFO] 2019-05-30 15:51:05,852: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:51:24,106: 加入房间成功:True
+[INFO] 2019-05-30 15:51:31,223: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:51:49,543: 加入房间成功:True
+[INFO] 2019-05-30 15:51:56,596: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:52:14,841: 加入房间成功:True
+[INFO] 2019-05-30 15:52:21,905: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:52:40,138: 加入房间成功:True
+[INFO] 2019-05-30 15:52:47,338: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:53:05,671: 加入房间成功:True
+[INFO] 2019-05-30 15:53:12,756: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:53:31,033: 加入房间成功:True
+[INFO] 2019-05-30 15:53:38,120: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:53:56,368: 加入房间成功:True
+[INFO] 2019-05-30 15:54:03,485: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:54:21,773: 加入房间成功:True
+[INFO] 2019-05-30 15:54:28,858: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:54:47,180: 加入房间成功:True
+[INFO] 2019-05-30 15:54:54,266: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:55:12,629: 加入房间成功:True
+[INFO] 2019-05-30 15:55:19,718: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:55:38,024: 加入房间成功:True
+[INFO] 2019-05-30 15:55:45,107: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:56:03,491: 加入房间成功:True
+[INFO] 2019-05-30 15:56:10,628: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:56:29,026: 加入房间成功:True
+[INFO] 2019-05-30 15:56:36,055: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:56:55,141: 加入房间成功:True
+[INFO] 2019-05-30 15:57:03,075: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:57:21,395: 加入房间成功:True
+[INFO] 2019-05-30 15:57:29,485: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:57:47,799: 加入房间成功:True
+[INFO] 2019-05-30 15:57:54,872: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:58:13,083: 加入房间成功:True
+[INFO] 2019-05-30 15:58:20,193: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:58:38,489: 加入房间成功:True
+[INFO] 2019-05-30 15:58:45,557: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:59:03,843: 加入房间成功:True
+[INFO] 2019-05-30 15:59:10,945: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:59:29,254: 加入房间成功:True
+[INFO] 2019-05-30 15:59:36,383: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 15:59:54,773: 加入房间成功:True
+[INFO] 2019-05-30 16:00:01,846: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:00:20,026: 加入房间成功:True
+[INFO] 2019-05-30 16:00:27,113: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:00:45,845: 加入房间成功:True
+[INFO] 2019-05-30 16:00:52,977: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:01:11,379: 加入房间成功:True
+[INFO] 2019-05-30 16:01:18,422: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:01:36,731: 加入房间成功:True
+[INFO] 2019-05-30 16:01:43,774: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:02:01,973: 加入房间成功:True
+[INFO] 2019-05-30 16:02:09,067: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:02:27,333: 加入房间成功:True
+[INFO] 2019-05-30 16:02:34,427: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:02:52,635: 加入房间成功:True
+[INFO] 2019-05-30 16:02:59,708: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:03:17,874: 加入房间成功:True
+[INFO] 2019-05-30 16:03:25,014: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:03:43,183: 加入房间成功:True
+[INFO] 2019-05-30 16:03:50,285: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:04:08,508: 加入房间成功:True
+[INFO] 2019-05-30 16:04:15,548: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:04:33,768: 加入房间成功:True
+[INFO] 2019-05-30 16:04:40,863: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:04:59,103: 加入房间成功:True
+[INFO] 2019-05-30 16:05:06,207: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:05:24,365: 加入房间成功:True
+[INFO] 2019-05-30 16:05:31,502: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:05:49,815: 加入房间成功:True
+[INFO] 2019-05-30 16:05:57,833: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:06:16,160: 加入房间成功:True
+[INFO] 2019-05-30 16:06:23,207: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:06:42,132: 加入房间成功:True
+[INFO] 2019-05-30 16:06:49,025: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:07:08,035: 加入房间成功:True
+[INFO] 2019-05-30 16:07:15,008: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:07:34,703: 加入房间成功:True
+[INFO] 2019-05-30 16:07:41,355: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:08:01,211: 加入房间成功:True
+[INFO] 2019-05-30 16:08:07,933: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:08:28,245: 加入房间成功:True
+[INFO] 2019-05-30 16:08:35,172: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:08:55,134: 加入房间成功:True
+[INFO] 2019-05-30 16:09:02,204: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-05-30 16:09:23,423: 加入房间成功:True
+[INFO] 2019-05-30 16:09:31,266: //android.widget.TextView[@text='RoomID :1000262110002621']
+[INFO] 2019-06-06 10:03:53,307: devicelist: ['findx']
+[INFO] 2019-06-06 10:04:24,619: ['3400']
+[INFO] 2019-06-06 10:04:24,619: 0
+[INFO] 2019-06-06 10:04:35,284: [<appium.webdriver.webdriver.WebDriver (session="9f2b5444-113b-40ac-8bf2-ffefaf60fc04")>]
+[INFO] 2019-06-06 10:04:35,285: test_002_DokiDemo_多次加入离开房间
+[INFO] 2019-06-06 10:04:51,961: devicelist: ['findx']
+[INFO] 2019-06-06 10:04:53,295: ['0']
+[INFO] 2019-06-06 10:04:53,296: 0
+[INFO] 2019-06-06 10:05:04,203: [<appium.webdriver.webdriver.WebDriver (session="c4596865-8775-4272-899e-a37d1e2b5a7d")>]
+[INFO] 2019-06-06 10:05:04,204: test_001参与者多次加入离开房间
+[INFO] 2019-06-06 10:05:39,312: test运行完成
+[INFO] 2019-06-06 10:05:55,715: devicelist: ['findx']
+[INFO] 2019-06-06 10:05:57,043: ['0']
+[INFO] 2019-06-06 10:05:57,043: 0
+[INFO] 2019-06-06 10:06:09,305: [<appium.webdriver.webdriver.WebDriver (session="7c542b38-6b05-49fe-b5eb-92b915ae095d")>]
+[INFO] 2019-06-06 10:06:09,306: test_001参与者多次加入离开房间
+[INFO] 2019-06-06 10:06:59,075: devicelist: ['findx']
+[INFO] 2019-06-06 10:07:00,472: ['0']
+[INFO] 2019-06-06 10:07:00,472: 0
+[INFO] 2019-06-06 10:07:11,296: [<appium.webdriver.webdriver.WebDriver (session="896bbf63-779f-46fd-b364-c4865ba19374")>]
+[INFO] 2019-06-06 10:07:11,296: test_001参与者多次加入离开房间
+[INFO] 2019-06-06 10:47:58,210: devicelist: ['findx']
+[INFO] 2019-06-06 10:48:01,859: ['7740']
+[INFO] 2019-06-06 10:48:01,860: 0
+[INFO] 2019-06-06 10:48:27,539: [<appium.webdriver.webdriver.WebDriver (session="045d9cf7-88c1-4729-a0ba-2ec3fee3f95b")>]
+[INFO] 2019-06-06 10:48:27,539: test_001参与者多次加入离开房间
+[INFO] 2019-06-06 10:48:29,849: test运行完成
+[INFO] 2019-06-06 10:49:17,885: devicelist: ['findx']
+[INFO] 2019-06-06 10:49:19,151: ['7740']
+[INFO] 2019-06-06 10:49:19,151: 0
+[INFO] 2019-06-06 10:49:31,812: [<appium.webdriver.webdriver.WebDriver (session="01adbaa5-18dd-40c6-9041-e7560dc3ff9d")>]
+[INFO] 2019-06-06 10:49:31,813: test_001参与者多次加入离开房间
+[INFO] 2019-06-06 10:49:32,545: test运行完成
+[INFO] 2019-06-06 10:50:20,181: devicelist: ['findx']
+[INFO] 2019-06-06 10:50:21,542: ['7740']
+[INFO] 2019-06-06 10:50:21,542: 0
+[INFO] 2019-06-06 10:50:32,019: [<appium.webdriver.webdriver.WebDriver (session="9f19fe1f-185a-491c-a508-1ea959aa2b8c")>]
+[INFO] 2019-06-06 10:50:32,019: test_001参与者多次加入离开房间
+[INFO] 2019-06-06 10:50:33,263: test运行完成
+[INFO] 2019-06-06 10:51:28,604: devicelist: ['findx']
+[INFO] 2019-06-06 10:51:29,881: ['0']
+[INFO] 2019-06-06 10:51:29,881: 0
+[INFO] 2019-06-06 10:51:40,580: [<appium.webdriver.webdriver.WebDriver (session="08efb010-88e9-4076-9074-52e766ca68eb")>]
+[INFO] 2019-06-06 10:51:40,581: test_001参与者多次加入离开房间
+[INFO] 2019-06-06 10:52:39,982: test运行完成
+[INFO] 2019-06-19 14:39:11,875: devicelist: ['findx']
+[INFO] 2019-06-19 14:39:39,190: ['10628']
+[INFO] 2019-06-19 14:39:39,191: 0
+[INFO] 2019-06-19 14:40:02,960: devicelist: ['p10-295']
+[INFO] 2019-06-19 14:40:21,796: devicelist: ['p10_295']
+[INFO] 2019-06-19 14:40:23,357: ['0']
+[INFO] 2019-06-19 14:40:23,357: 0
+[INFO] 2019-06-19 14:40:34,868: [<appium.webdriver.webdriver.WebDriver (session="d265eb31-6398-4e6d-933e-0276715b6952")>]
+[INFO] 2019-06-19 14:40:34,868: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 14:42:12,763: devicelist: ['p10_295']
+[INFO] 2019-06-19 14:42:15,326: ['0']
+[INFO] 2019-06-19 14:42:15,326: 0
+[INFO] 2019-06-19 14:42:24,041: [<appium.webdriver.webdriver.WebDriver (session="b2fc265b-087d-43cf-b2ca-c8a0b295c9e0")>]
+[INFO] 2019-06-19 14:42:24,041: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 14:42:50,892: devicelist: ['p10_295']
+[INFO] 2019-06-19 14:42:52,376: ['0']
+[INFO] 2019-06-19 14:42:52,376: 0
+[INFO] 2019-06-19 14:43:02,189: [<appium.webdriver.webdriver.WebDriver (session="e8e750a2-77d4-4697-9582-1ce1b0beb02c")>]
+[INFO] 2019-06-19 14:43:02,189: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 15:26:59,820: devicelist: ['p10_295']
+[INFO] 2019-06-19 15:27:05,675: ['10708']
+[INFO] 2019-06-19 15:27:05,675: 0
+[INFO] 2019-06-19 15:27:22,030: devicelist: ['p10_295']
+[INFO] 2019-06-19 15:27:23,677: ['0']
+[INFO] 2019-06-19 15:27:23,677: 0
+[INFO] 2019-06-19 15:27:34,444: [<appium.webdriver.webdriver.WebDriver (session="50af77bd-6f3f-48ec-b42a-ba50c717cc62")>]
+[INFO] 2019-06-19 15:27:34,445: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 15:28:09,186: devicelist: ['p10_295']
+[INFO] 2019-06-19 15:28:10,563: ['0']
+[INFO] 2019-06-19 15:28:10,563: 0
+[INFO] 2019-06-19 15:28:20,259: [<appium.webdriver.webdriver.WebDriver (session="b4ebdd04-f8eb-4f24-bdbc-7fd524bb2d48")>]
+[INFO] 2019-06-19 15:28:20,259: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 15:28:58,585: devicelist: ['p10_295']
+[INFO] 2019-06-19 15:28:59,912: ['0']
+[INFO] 2019-06-19 15:28:59,912: 0
+[INFO] 2019-06-19 15:29:09,775: [<appium.webdriver.webdriver.WebDriver (session="eb4f4ebb-2dd7-45d0-b2e0-c3a71d63abef")>]
+[INFO] 2019-06-19 15:29:09,775: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 15:32:17,776: devicelist: ['p10_295']
+[INFO] 2019-06-19 15:32:23,415: ['8140']
+[INFO] 2019-06-19 15:32:23,415: 0
+[INFO] 2019-06-19 15:32:30,285: [<appium.webdriver.webdriver.WebDriver (session="60f32cb9-46cd-4b35-97d3-7f6609b3f4d5")>]
+[INFO] 2019-06-19 15:32:30,285: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 15:33:17,000: devicelist: ['p10_295']
+[INFO] 2019-06-19 15:33:18,286: ['0']
+[INFO] 2019-06-19 15:33:18,286: 0
+[INFO] 2019-06-19 15:33:26,566: [<appium.webdriver.webdriver.WebDriver (session="1e75eb46-c944-448f-9086-081a0dcef28c")>]
+[INFO] 2019-06-19 15:33:26,566: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 15:45:37,422: devicelist: ['p10_295']
+[INFO] 2019-06-19 15:45:43,136: ['11444']
+[INFO] 2019-06-19 15:45:43,136: 0
+[INFO] 2019-06-19 15:45:49,785: [<appium.webdriver.webdriver.WebDriver (session="7ab7afdf-8a1b-4a4e-b8ec-f22835e100a7")>]
+[INFO] 2019-06-19 15:45:49,785: test_001参与者多次加入离开房间
+[INFO] 2019-06-19 15:46:06,202: devicelist: ['p10_295']
+[INFO] 2019-06-19 15:46:07,334: ['0']
+[INFO] 2019-06-19 15:46:07,334: 0
+[INFO] 2019-06-19 15:46:15,669: [<appium.webdriver.webdriver.WebDriver (session="dbf6ff26-8b7f-440c-aa16-6b6fda1d27fc")>]
+[INFO] 2019-06-19 15:46:15,670: test_001参与者多次加入离开房间
+[INFO] 2019-07-09 14:15:53,022: devicelist: ['shark']
+[INFO] 2019-07-09 14:16:22,381: ['8496']
+[INFO] 2019-07-09 14:16:22,381: 0
+[INFO] 2019-07-09 14:16:33,326: [<appium.webdriver.webdriver.WebDriver (session="bb4e86ce-4180-4981-b961-d9d63dda3824")>]
+[INFO] 2019-07-09 14:16:33,326: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:18:21,329: devicelist: ['shark', '']
+[INFO] 2019-07-09 14:18:41,405: devicelist: ['shark', '']
+[INFO] 2019-07-09 14:19:09,892: devicelist: ['shark', '']
+[INFO] 2019-07-09 14:19:28,786: devicelist: ['shark', '']
+[INFO] 2019-07-09 14:20:36,094: devicelist: ['shark', '']
+[INFO] 2019-07-09 14:21:01,591: devicelist: ['shark', '']
+[INFO] 2019-07-09 14:21:26,189: devicelist: ['shark', '']
+[INFO] 2019-07-09 14:23:03,967: devicelist: ['shark']
+[INFO] 2019-07-09 14:23:09,853: ['7088']
+[INFO] 2019-07-09 14:23:09,853: 0
+[INFO] 2019-07-09 14:23:15,491: [<appium.webdriver.webdriver.WebDriver (session="8347fb7d-36a7-446a-9d96-3412d8d7ca34")>]
+[INFO] 2019-07-09 14:23:15,491: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:28:39,985: devicelist: ['shark']
+[INFO] 2019-07-09 14:28:47,886: ['6032']
+[INFO] 2019-07-09 14:28:47,886: 0
+[INFO] 2019-07-09 14:28:53,943: [<appium.webdriver.webdriver.WebDriver (session="c1ada460-3df5-4ef8-94f2-5cae7c9e0ec7")>]
+[INFO] 2019-07-09 14:28:53,943: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:29:36,871: devicelist: ['shark']
+[INFO] 2019-07-09 14:29:38,676: ['0']
+[INFO] 2019-07-09 14:29:38,676: 0
+[INFO] 2019-07-09 14:29:46,988: [<appium.webdriver.webdriver.WebDriver (session="17a7c1a1-da76-4ab6-b38f-a416941377c8")>]
+[INFO] 2019-07-09 14:29:46,988: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:31:30,428: devicelist: ['shark']
+[INFO] 2019-07-09 14:31:31,625: ['0']
+[INFO] 2019-07-09 14:31:31,625: 0
+[INFO] 2019-07-09 14:31:38,463: [<appium.webdriver.webdriver.WebDriver (session="29c8f33b-30a7-4491-bc07-0362982f30e2")>]
+[INFO] 2019-07-09 14:31:38,463: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:32:14,496: devicelist: ['shark']
+[INFO] 2019-07-09 14:32:16,100: ['0']
+[INFO] 2019-07-09 14:32:16,101: 0
+[INFO] 2019-07-09 14:32:22,542: [<appium.webdriver.webdriver.WebDriver (session="b4e1edaf-0e20-4ee7-9c93-f5ed1150ac6d")>]
+[INFO] 2019-07-09 14:32:22,542: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:33:59,465: devicelist: ['shark', '']
+[INFO] 2019-07-09 14:34:08,857: devicelist: ['shark']
+[INFO] 2019-07-09 14:34:10,082: ['0']
+[INFO] 2019-07-09 14:34:10,082: 0
+[INFO] 2019-07-09 14:34:17,618: [<appium.webdriver.webdriver.WebDriver (session="1d0830f7-c47f-4378-b31d-74a799453611")>]
+[INFO] 2019-07-09 14:34:17,619: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:35:09,991: devicelist: ['shark']
+[INFO] 2019-07-09 14:35:11,569: ['0']
+[INFO] 2019-07-09 14:35:11,569: 0
+[INFO] 2019-07-09 14:35:18,141: [<appium.webdriver.webdriver.WebDriver (session="9fc28e33-2225-4110-943a-dd2fd5d37535")>]
+[INFO] 2019-07-09 14:35:18,141: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:35:54,981: devicelist: ['100004621000046210000462']
+[INFO] 2019-07-09 14:37:43,242: devicelist: ['shark']
+[INFO] 2019-07-09 14:37:48,794: ['7952']
+[INFO] 2019-07-09 14:37:48,794: 0
+[INFO] 2019-07-09 14:37:54,151: [<appium.webdriver.webdriver.WebDriver (session="81701bba-4589-4ef2-8814-3e62617eafba")>]
+[INFO] 2019-07-09 14:37:54,151: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:38:49,324: devicelist: ['shark']
+[INFO] 2019-07-09 14:38:50,477: ['0']
+[INFO] 2019-07-09 14:38:50,477: 0
+[INFO] 2019-07-09 14:39:05,480: devicelist: ['shark']
+[INFO] 2019-07-09 14:39:07,263: devicelist: ['shark']
+[INFO] 2019-07-09 14:39:31,296: devicelist: ['shark']
+[INFO] 2019-07-09 14:39:32,388: ['0']
+[INFO] 2019-07-09 14:39:32,388: 0
+[INFO] 2019-07-09 14:39:45,502: devicelist: ['shark']
+[INFO] 2019-07-09 14:39:46,676: ['0']
+[INFO] 2019-07-09 14:39:46,676: 0
+[INFO] 2019-07-09 14:39:59,198: devicelist: ['shark']
+[INFO] 2019-07-09 14:40:15,249: devicelist: ['shark']
+[INFO] 2019-07-09 14:40:22,075: devicelist: ['shark']
+[INFO] 2019-07-09 14:40:26,446: ['3964']
+[INFO] 2019-07-09 14:40:26,447: 0
+[INFO] 2019-07-09 14:40:31,589: [<appium.webdriver.webdriver.WebDriver (session="baf22863-c5f2-4179-a029-e7503dd5fc96")>]
+[INFO] 2019-07-09 14:40:31,589: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 14:41:06,869: devicelist: ['shark']
+[INFO] 2019-07-09 14:41:07,992: ['0']
+[INFO] 2019-07-09 14:41:07,993: 0
+[INFO] 2019-07-09 14:41:32,456: devicelist: ['shark']
+[INFO] 2019-07-09 14:41:33,552: ['0']
+[INFO] 2019-07-09 14:41:33,553: 0
+[INFO] 2019-07-09 14:41:39,672: [<appium.webdriver.webdriver.WebDriver (session="f6bfdd62-0ce6-4f08-80c9-cfcac7904d8c")>]
+[INFO] 2019-07-09 14:41:39,673: test_013纯音频连麦进出房间
+[INFO] 2019-07-09 17:23:19,139: devicelist: ['p10_267']
+[INFO] 2019-07-09 17:23:31,684: ['10000']
+[INFO] 2019-07-09 17:23:31,684: 0
+[INFO] 2019-07-09 17:24:54,980: devicelist: ['p10_267']
+[INFO] 2019-07-09 17:25:01,952: ['8808']
+[INFO] 2019-07-09 17:25:01,952: 0
+[INFO] 2019-07-09 17:26:14,204: devicelist: ['p10_267']
+[INFO] 2019-07-09 17:26:15,374: ['0']
+[INFO] 2019-07-09 17:26:15,375: 0
+[INFO] 2019-07-09 17:26:23,470: [<appium.webdriver.webdriver.WebDriver (session="4682f990-815d-49f4-a076-42513b434b0d")>]
+[INFO] 2019-07-09 17:26:23,470: test_001参与者多次加入离开房间
+[INFO] 2019-07-09 17:27:24,428: devicelist: ['p10_267']
+[INFO] 2019-07-09 17:27:25,644: ['0']
+[INFO] 2019-07-09 17:27:25,645: 0
+[INFO] 2019-07-09 17:27:33,455: [<appium.webdriver.webdriver.WebDriver (session="e2a159f8-9c10-4202-b6ac-b2e5a3405a6d")>]
+[INFO] 2019-07-09 17:27:33,455: test_001参与者多次加入离开房间
+[INFO] 2019-07-09 17:28:15,807: devicelist: ['p10_267']
+[INFO] 2019-07-09 17:28:17,393: ['0']
+[INFO] 2019-07-09 17:28:17,393: 0
+[INFO] 2019-07-09 17:28:25,148: [<appium.webdriver.webdriver.WebDriver (session="4f9d6bf4-5b19-49d6-a663-ba4c99f79f8f")>]
+[INFO] 2019-07-09 17:28:25,148: test_001参与者多次加入离开房间
+[INFO] 2019-07-09 19:11:39,945: devicelist: ['p10_267']
+[INFO] 2019-07-09 19:11:49,756: devicelist: ['p10_267']
+[INFO] 2019-07-09 19:11:54,551: ['7468']
+[INFO] 2019-07-09 19:11:54,551: 0
+[INFO] 2019-07-09 19:14:16,989: devicelist: ['p10_267']
+[INFO] 2019-07-09 19:14:22,417: ['8748']
+[INFO] 2019-07-09 19:14:22,417: 0
+[INFO] 2019-07-09 19:14:28,530: [<appium.webdriver.webdriver.WebDriver (session="3f6d8fc9-c9aa-4e06-b1c0-74ee638fbefb")>]
+[INFO] 2019-07-09 19:14:28,531: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:35:15,898: devicelist: ['p10_270']
+[INFO] 2019-07-10 10:35:27,861: ['7240']
+[INFO] 2019-07-10 10:35:27,861: 0
+[INFO] 2019-07-10 10:36:05,674: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:36:07,074: ['0']
+[INFO] 2019-07-10 10:36:07,074: 0
+[INFO] 2019-07-10 10:36:14,854: [<appium.webdriver.webdriver.WebDriver (session="da9b01bc-1b6d-4871-9562-ad2b3da999a9")>]
+[INFO] 2019-07-10 10:36:14,854: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:36:15,543: test运行完成
+[INFO] 2019-07-10 10:46:50,036: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:46:54,521: ['6696']
+[INFO] 2019-07-10 10:46:54,521: 0
+[INFO] 2019-07-10 10:47:01,392: [<appium.webdriver.webdriver.WebDriver (session="175f71ab-0130-447f-886a-2e46c1ad2520")>]
+[INFO] 2019-07-10 10:47:01,392: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:47:02,089: test运行完成
+[INFO] 2019-07-10 10:50:59,960: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:51:05,914: ['7180']
+[INFO] 2019-07-10 10:51:05,914: 0
+[INFO] 2019-07-10 10:51:12,097: [<appium.webdriver.webdriver.WebDriver (session="3bca07db-def6-44da-b382-d9ca0864d24c")>]
+[INFO] 2019-07-10 10:51:12,098: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:53:15,357: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:53:16,738: ['0']
+[INFO] 2019-07-10 10:53:16,738: 0
+[INFO] 2019-07-10 10:53:24,602: [<appium.webdriver.webdriver.WebDriver (session="3cf17fee-f196-4db8-9b20-7f2bb7c2fb09")>]
+[INFO] 2019-07-10 10:53:24,602: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:54:04,449: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:54:05,779: ['0']
+[INFO] 2019-07-10 10:54:05,779: 0
+[INFO] 2019-07-10 10:54:12,797: [<appium.webdriver.webdriver.WebDriver (session="7a770b9a-8205-4b2c-99e0-f12f3da58cc3")>]
+[INFO] 2019-07-10 10:54:12,797: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:55:02,884: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:55:04,078: ['0']
+[INFO] 2019-07-10 10:55:04,078: 0
+[INFO] 2019-07-10 10:55:11,411: [<appium.webdriver.webdriver.WebDriver (session="a017ef8f-0722-49c7-8f8a-bad4796ada91")>]
+[INFO] 2019-07-10 10:55:11,411: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:55:34,531: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:55:35,678: ['0']
+[INFO] 2019-07-10 10:55:35,678: 0
+[INFO] 2019-07-10 10:55:43,318: [<appium.webdriver.webdriver.WebDriver (session="d0bb69c4-fd88-4613-a356-a6b9be5a581c")>]
+[INFO] 2019-07-10 10:55:43,318: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:56:15,081: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:56:16,252: ['0']
+[INFO] 2019-07-10 10:56:16,252: 0
+[INFO] 2019-07-10 10:56:23,427: [<appium.webdriver.webdriver.WebDriver (session="ec3af63d-63cb-4878-b6b8-9bdae3a20917")>]
+[INFO] 2019-07-10 10:56:23,427: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:56:30,131: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:56:31,176: ['0']
+[INFO] 2019-07-10 10:56:31,176: 0
+[INFO] 2019-07-10 10:56:38,977: [<appium.webdriver.webdriver.WebDriver (session="64e8601f-51a7-4a8c-b09f-c0711a9ff919")>]
+[INFO] 2019-07-10 10:56:38,977: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:57:26,784: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:57:27,945: ['0']
+[INFO] 2019-07-10 10:57:27,945: 0
+[INFO] 2019-07-10 10:57:35,169: [<appium.webdriver.webdriver.WebDriver (session="7d90c98b-aacc-4938-8000-8d84053555f1")>]
+[INFO] 2019-07-10 10:57:35,169: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 10:57:53,158: devicelist: ['p10_267']
+[INFO] 2019-07-10 10:57:55,495: ['0']
+[INFO] 2019-07-10 10:57:55,497: 0
+[INFO] 2019-07-10 10:58:02,936: [<appium.webdriver.webdriver.WebDriver (session="3e10e63e-f5c6-4d98-803e-b7461e97bba0")>]
+[INFO] 2019-07-10 10:58:02,938: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:01:12,028: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:01:13,185: ['0']
+[INFO] 2019-07-10 11:01:13,185: 0
+[INFO] 2019-07-10 11:01:20,749: [<appium.webdriver.webdriver.WebDriver (session="b4bc7df7-9b14-4657-89ca-2f22f7e1a51b")>]
+[INFO] 2019-07-10 11:01:20,749: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:03:23,981: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:03:29,417: ['8036']
+[INFO] 2019-07-10 11:03:29,418: 0
+[INFO] 2019-07-10 11:03:35,568: [<appium.webdriver.webdriver.WebDriver (session="f2a32742-0466-4fd5-aa94-928b43139b92")>]
+[INFO] 2019-07-10 11:03:35,568: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:04:05,283: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:04:06,483: ['0']
+[INFO] 2019-07-10 11:04:06,484: 0
+[INFO] 2019-07-10 11:04:13,777: [<appium.webdriver.webdriver.WebDriver (session="6b4a8ad6-5bdb-427c-9c52-fe32614a95ed")>]
+[INFO] 2019-07-10 11:04:13,777: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:04:47,422: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:04:48,619: ['0']
+[INFO] 2019-07-10 11:04:48,619: 0
+[INFO] 2019-07-10 11:04:55,652: [<appium.webdriver.webdriver.WebDriver (session="866dc79a-5c95-451f-b928-7b60ab0a4be7")>]
+[INFO] 2019-07-10 11:04:55,652: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:06:38,033: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:06:39,228: ['0']
+[INFO] 2019-07-10 11:06:39,228: 0
+[INFO] 2019-07-10 11:06:48,762: [<appium.webdriver.webdriver.WebDriver (session="229b3387-f3b1-4feb-b9d8-1a308f2aa144")>]
+[INFO] 2019-07-10 11:06:48,762: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:07:28,014: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:07:29,272: ['0']
+[INFO] 2019-07-10 11:07:29,272: 0
+[INFO] 2019-07-10 11:07:36,132: [<appium.webdriver.webdriver.WebDriver (session="7bd15827-1ee5-4fad-adf7-ba7da39bd758")>]
+[INFO] 2019-07-10 11:07:36,133: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:12:36,181: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:12:42,190: ['7940']
+[INFO] 2019-07-10 11:12:42,190: 0
+[INFO] 2019-07-10 11:12:48,479: [<appium.webdriver.webdriver.WebDriver (session="340d5f09-b7e8-4646-9558-791375f1ddea")>]
+[INFO] 2019-07-10 11:12:48,479: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:18:07,667: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:18:13,142: ['6012']
+[INFO] 2019-07-10 11:18:13,142: 0
+[INFO] 2019-07-10 11:18:19,309: [<appium.webdriver.webdriver.WebDriver (session="5e8dc33b-b24b-43d3-9223-2b880587c91d")>]
+[INFO] 2019-07-10 11:18:19,310: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 11:19:02,850: devicelist: ['p10_267']
+[INFO] 2019-07-10 11:19:03,995: ['0']
+[INFO] 2019-07-10 11:19:03,996: 0
+[INFO] 2019-07-10 11:19:11,291: [<appium.webdriver.webdriver.WebDriver (session="9b890444-00f6-4e26-a275-ce850e245e24")>]
+[INFO] 2019-07-10 11:19:11,291: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 13:40:23,415: devicelist: ['p10_267']
+[INFO] 2019-07-10 13:40:35,767: ['4176']
+[INFO] 2019-07-10 13:40:35,767: 0
+[INFO] 2019-07-10 13:40:43,576: [<appium.webdriver.webdriver.WebDriver (session="da79541e-4500-4517-bd48-5ad9b70d1540")>]
+[INFO] 2019-07-10 13:40:43,576: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 15:19:41,037: devicelist: ['p10_267']
+[INFO] 2019-07-10 15:20:06,891: devicelist: ['p10_267']
+[INFO] 2019-07-10 15:20:19,303: ['5396']
+[INFO] 2019-07-10 15:20:19,303: 0
+[INFO] 2019-07-10 15:20:39,566: devicelist: ['p10_270']
+[INFO] 2019-07-10 15:20:41,001: ['0']
+[INFO] 2019-07-10 15:20:41,001: 0
+[INFO] 2019-07-10 15:20:49,754: [<appium.webdriver.webdriver.WebDriver (session="f1b74767-f6f9-4f38-a450-d7915ec8efa1")>]
+[INFO] 2019-07-10 15:20:49,754: test_002参与者多次切换角色
+[INFO] 2019-07-10 15:20:50,481: test运行完成
+[INFO] 2019-07-10 15:22:27,331: devicelist: ['p10_270']
+[INFO] 2019-07-10 15:22:29,119: ['0']
+[INFO] 2019-07-10 15:22:29,119: 0
+[INFO] 2019-07-10 15:22:38,804: [<appium.webdriver.webdriver.WebDriver (session="be09a8d7-c247-4eec-a97a-c4c1e09cbb16")>]
+[INFO] 2019-07-10 15:22:38,804: test_002参与者多次切换角色
+[INFO] 2019-07-10 15:23:49,448: devicelist: ['p10_270']
+[INFO] 2019-07-10 15:23:50,788: ['0']
+[INFO] 2019-07-10 15:23:50,788: 0
+[INFO] 2019-07-10 15:23:58,125: [<appium.webdriver.webdriver.WebDriver (session="7e8d2c92-65e3-4952-aa06-c0a825a4f6e0")>]
+[INFO] 2019-07-10 15:23:58,125: test_002参与者多次切换角色
+[INFO] 2019-07-10 15:25:10,823: devicelist: ['p10_270']
+[INFO] 2019-07-10 15:25:12,216: ['0']
+[INFO] 2019-07-10 15:25:12,216: 0
+[INFO] 2019-07-10 15:25:21,693: [<appium.webdriver.webdriver.WebDriver (session="aefcc179-09f3-4506-9d27-6a700a5f6deb")>]
+[INFO] 2019-07-10 15:25:21,694: test_002参与者多次切换角色
+[INFO] 2019-07-10 15:26:44,335: devicelist: ['p10_270']
+[INFO] 2019-07-10 15:26:45,635: ['0']
+[INFO] 2019-07-10 15:26:45,636: 0
+[INFO] 2019-07-10 15:26:54,988: [<appium.webdriver.webdriver.WebDriver (session="5cad4e7d-2a5e-4fc1-ad31-03ea49aa7a5a")>]
+[INFO] 2019-07-10 15:26:54,990: test_002参与者多次切换角色
+[INFO] 2019-07-10 15:29:18,738: devicelist: ['p10_270']
+[INFO] 2019-07-10 15:29:27,214: ['8600']
+[INFO] 2019-07-10 15:29:27,214: 0
+[INFO] 2019-07-10 15:29:34,412: [<appium.webdriver.webdriver.WebDriver (session="5e00df5f-2dee-4bd1-8951-cd42db0401a1")>]
+[INFO] 2019-07-10 15:29:34,413: test_002参与者多次切换角色
+[INFO] 2019-07-10 15:53:11,881: devicelist: ['p10_270']
+[INFO] 2019-07-10 15:53:21,174: ['7348']
+[INFO] 2019-07-10 15:53:21,174: 0
+[INFO] 2019-07-10 15:53:27,769: [<appium.webdriver.webdriver.WebDriver (session="1bf5a8bb-ec9c-477c-9beb-6d6f9a30020d")>]
+[INFO] 2019-07-10 15:53:27,770: test_004参与者多次创建房间
+[INFO] 2019-07-10 15:55:27,816: devicelist: ['p10_270']
+[INFO] 2019-07-10 15:55:29,260: ['0']
+[INFO] 2019-07-10 15:55:29,260: 0
+[INFO] 2019-07-10 15:55:37,299: [<appium.webdriver.webdriver.WebDriver (session="2ff32fc9-62f8-4c3a-9344-dc7175ec5892")>]
+[INFO] 2019-07-10 15:55:37,299: test_004参与者多次创建房间
+[INFO] 2019-07-10 16:25:10,529: devicelist: ['p10_270']
+[INFO] 2019-07-10 16:25:18,147: ['8000']
+[INFO] 2019-07-10 16:25:18,147: 0
+[INFO] 2019-07-10 16:25:24,528: [<appium.webdriver.webdriver.WebDriver (session="ba93743e-1293-471f-b1e0-244ee4cb4e43")>]
+[INFO] 2019-07-10 16:25:24,528: test_004参与者多次创建房间
+[INFO] 2019-07-10 16:25:25,018: test运行完成
+[INFO] 2019-07-10 16:25:31,893: devicelist: ['p10_270']
+[INFO] 2019-07-10 16:25:33,033: ['0']
+[INFO] 2019-07-10 16:25:33,033: 0
+[INFO] 2019-07-10 16:26:00,444: devicelist: ['p10_270']
+[INFO] 2019-07-10 16:26:01,629: ['0']
+[INFO] 2019-07-10 16:26:01,629: 0
+[INFO] 2019-07-10 16:26:08,834: [<appium.webdriver.webdriver.WebDriver (session="db8cf32f-c0cb-4830-94a7-9a6fd08d33e3")>]
+[INFO] 2019-07-10 16:26:08,834: test_001参与者多次加入离开房间
+[INFO] 2019-07-10 17:12:12,947: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:12:38,994: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:12:43,373: ['8644']
+[INFO] 2019-07-10 17:12:43,374: 0
+[INFO] 2019-07-10 17:12:49,876: [<appium.webdriver.webdriver.WebDriver (session="77ba4b6a-b16e-4e36-a545-dc5bcfd70eb5")>]
+[INFO] 2019-07-10 17:12:49,876: test_004参与者多次切后台
+[INFO] 2019-07-10 17:12:50,359: test运行完成
+[INFO] 2019-07-10 17:13:29,208: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:13:30,413: ['0']
+[INFO] 2019-07-10 17:13:30,413: 0
+[INFO] 2019-07-10 17:13:38,870: [<appium.webdriver.webdriver.WebDriver (session="68ef3e8a-c474-4392-884d-d689349819e1")>]
+[INFO] 2019-07-10 17:13:38,870: test_004参与者多次切后台
+[INFO] 2019-07-10 17:15:03,226: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:15:04,584: ['0']
+[INFO] 2019-07-10 17:15:04,584: 0
+[INFO] 2019-07-10 17:15:11,831: [<appium.webdriver.webdriver.WebDriver (session="2b8b3ded-73e6-4062-a4aa-26b4819034f8")>]
+[INFO] 2019-07-10 17:15:11,831: test_004参与者多次切后台
+[INFO] 2019-07-10 17:17:57,330: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:17:58,615: ['0']
+[INFO] 2019-07-10 17:17:58,615: 0
+[INFO] 2019-07-10 17:18:05,892: [<appium.webdriver.webdriver.WebDriver (session="4e4ef9f2-dc4c-4788-841e-9b84ecb7b4d1")>]
+[INFO] 2019-07-10 17:18:05,892: test_004参与者多次切后台
+[INFO] 2019-07-10 17:18:28,190: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:18:29,409: ['0']
+[INFO] 2019-07-10 17:18:29,409: 0
+[INFO] 2019-07-10 17:18:36,369: [<appium.webdriver.webdriver.WebDriver (session="992272a8-326d-4b17-88f7-24ec554b89bf")>]
+[INFO] 2019-07-10 17:18:36,369: test_004参与者多次切后台
+[INFO] 2019-07-10 17:20:02,873: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:20:04,075: ['0']
+[INFO] 2019-07-10 17:20:04,076: 0
+[INFO] 2019-07-10 17:20:11,210: [<appium.webdriver.webdriver.WebDriver (session="0c5bcd0f-de91-4c69-ac72-8294ece1e1f8")>]
+[INFO] 2019-07-10 17:20:11,210: test_004参与者多次创建房间
+[INFO] 2019-07-10 17:20:11,710: test运行完成
+[INFO] 2019-07-10 17:20:33,133: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:20:34,247: ['0']
+[INFO] 2019-07-10 17:20:34,247: 0
+[INFO] 2019-07-10 17:20:40,913: [<appium.webdriver.webdriver.WebDriver (session="cae94981-2a5c-46f3-8800-4334687f8522")>]
+[INFO] 2019-07-10 17:20:40,914: test_004参与者多次创建房间
+[INFO] 2019-07-10 17:20:41,397: test运行完成
+[INFO] 2019-07-10 17:21:07,525: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:21:08,670: ['0']
+[INFO] 2019-07-10 17:21:08,670: 0
+[INFO] 2019-07-10 17:21:16,091: [<appium.webdriver.webdriver.WebDriver (session="e2e2f6f4-97d5-470d-b16b-68808e985326")>]
+[INFO] 2019-07-10 17:21:16,092: test_002参与者多次切换角色
+[INFO] 2019-07-10 17:21:16,551: test运行完成
+[INFO] 2019-07-10 17:21:52,919: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:21:54,007: ['0']
+[INFO] 2019-07-10 17:21:54,007: 0
+[INFO] 2019-07-10 17:22:00,775: [<appium.webdriver.webdriver.WebDriver (session="18e08201-db2d-43ee-b0c2-23aa6554f73c")>]
+[INFO] 2019-07-10 17:22:00,775: test_002参与者多次切换角色
+[INFO] 2019-07-10 17:22:01,266: test运行完成
+[INFO] 2019-07-10 17:22:57,894: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:22:59,160: ['0']
+[INFO] 2019-07-10 17:22:59,160: 0
+[INFO] 2019-07-10 17:23:06,748: [<appium.webdriver.webdriver.WebDriver (session="b3ac6319-1816-48fb-af4f-67182fc72996")>]
+[INFO] 2019-07-10 17:23:06,748: test_002参与者多次切换角色
+[INFO] 2019-07-10 17:23:07,257: test运行完成
+[INFO] 2019-07-10 17:24:05,184: devicelist: ['p10_270']
+[INFO] 2019-07-10 17:24:06,339: ['0']
+[INFO] 2019-07-10 17:24:06,340: 0
+[INFO] 2019-07-10 17:24:12,813: [<appium.webdriver.webdriver.WebDriver (session="d25d1985-af3e-4ca7-92c5-2367fe41a23f")>]
+[INFO] 2019-07-10 17:24:12,814: test_002参与者多次切换角色
+[INFO] 2019-07-11 11:33:04,853: devicelist: ['p10_270']
+[INFO] 2019-07-11 14:04:04,418: devicelist: ['p10_295锛宲10_268']
+[INFO] 2019-07-11 14:04:18,382: devicelist: ['p10_295', 'p10_268']
+[INFO] 2019-07-11 14:04:55,607: ['8540', '7208']
+[INFO] 2019-07-11 14:04:55,607: 0
+[INFO] 2019-07-11 14:05:05,371: 1
+[INFO] 2019-07-11 14:05:13,895: [<appium.webdriver.webdriver.WebDriver (session="36105ed4-daf5-44fe-8f6b-2cdaccb9fb0a")>, <appium.webdriver.webdriver.WebDriver (session="0e90f589-c52e-4f0c-9401-c734dc0cd09d")>]
+[INFO] 2019-07-11 14:05:13,896: test_004参与者多次切换角色
+[INFO] 2019-07-11 14:05:44,282: devicelist: ['p10_295', 'p10_268']
+[INFO] 2019-07-11 14:05:46,835: ['0', '0']
+[INFO] 2019-07-11 14:05:46,835: 0
+[INFO] 2019-07-11 14:05:58,446: 1
+[INFO] 2019-07-11 14:06:05,372: [<appium.webdriver.webdriver.WebDriver (session="36ef23f8-67c9-4abc-b840-29cf7aa3cfb5")>, <appium.webdriver.webdriver.WebDriver (session="ed52fda9-71f1-4421-af47-c3a82587eff9")>]
+[INFO] 2019-07-11 14:06:05,372: test_004参与者多次切换角色
+[INFO] 2019-07-11 14:07:10,154: devicelist: ['p10_295', 'p10_268']
+[INFO] 2019-07-11 14:07:12,066: ['0', '0']
+[INFO] 2019-07-11 14:07:12,066: 0
+[INFO] 2019-07-11 14:07:22,148: 1
+[INFO] 2019-07-11 14:07:29,572: [<appium.webdriver.webdriver.WebDriver (session="21ae42d7-bb16-4670-9841-b418a361aae5")>, <appium.webdriver.webdriver.WebDriver (session="3f4b5e28-6234-463c-ae2f-783eed6ca0a2")>]
+[INFO] 2019-07-11 14:07:29,572: test_004参与者多次切换角色
+[INFO] 2019-07-11 14:09:51,492: devicelist: ['p10_295', 'p10_268']
+[INFO] 2019-07-11 14:09:59,915: ['8732', '9476']
+[INFO] 2019-07-11 14:09:59,916: 0
+[INFO] 2019-07-11 14:10:05,900: 1
+[INFO] 2019-07-11 14:10:13,255: [<appium.webdriver.webdriver.WebDriver (session="6d5244e7-1828-42b3-ad77-3c538c5384c7")>, <appium.webdriver.webdriver.WebDriver (session="68d44ce3-32cb-4b8e-ab78-89e3e088fc22")>]
+[INFO] 2019-07-11 14:10:13,255: test_004参与者多次切换角色
+[INFO] 2019-07-11 14:12:16,084: devicelist: ['p10_268']
+[INFO] 2019-07-11 14:12:17,850: ['0']
+[INFO] 2019-07-11 14:12:17,851: 0
+[INFO] 2019-07-11 14:12:30,128: [<appium.webdriver.webdriver.WebDriver (session="b192f308-69a7-4b72-8ee8-7dfbb6f45da8")>]
+[INFO] 2019-07-11 14:12:30,129: test_004参与者多次切换角色
+[INFO] 2019-07-11 14:13:13,076: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 14:13:20,808: ['7436', '9120']
+[INFO] 2019-07-11 14:13:20,808: 0
+[INFO] 2019-07-11 14:13:28,102: 1
+[INFO] 2019-07-11 14:13:34,149: [<appium.webdriver.webdriver.WebDriver (session="f3e04aee-2719-4773-831a-aada75e150a2")>, <appium.webdriver.webdriver.WebDriver (session="7cd907d4-6e9c-4e4f-9f8e-8cdea6878c27")>]
+[INFO] 2019-07-11 14:13:34,149: test_004参与者多次切换角色
+[INFO] 2019-07-11 14:15:08,494: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 14:15:10,548: ['0', '0']
+[INFO] 2019-07-11 14:15:10,548: 0
+[INFO] 2019-07-11 14:15:21,258: 1
+[INFO] 2019-07-11 14:15:27,422: [<appium.webdriver.webdriver.WebDriver (session="a42b92e3-5504-4352-835a-c81856912982")>, <appium.webdriver.webdriver.WebDriver (session="5bd7e7c2-9fbd-440f-813a-997ffc99ecde")>]
+[INFO] 2019-07-11 14:15:27,423: test_004参与者多次切换角色
+[INFO] 2019-07-11 14:17:24,833: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 14:17:27,003: ['0']
+[INFO] 2019-07-11 14:17:27,003: 0
+[INFO] 2019-07-11 14:17:37,647: 1
+[INFO] 2019-07-11 14:17:43,650: [<appium.webdriver.webdriver.WebDriver (session="32b05207-fbac-4acd-9a52-57d694ad6b3a")>, <appium.webdriver.webdriver.WebDriver (session="7d8940f0-338c-49a0-8917-4a61c0d2405a")>]
+[INFO] 2019-07-11 14:17:43,650: test_001参与者多次加入离开房间
+[INFO] 2019-07-11 14:19:14,010: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 14:19:16,410: ['0', '0']
+[INFO] 2019-07-11 14:19:16,410: 0
+[INFO] 2019-07-11 14:19:26,890: 1
+[INFO] 2019-07-11 14:19:32,622: [<appium.webdriver.webdriver.WebDriver (session="7acca4ab-1a4e-440c-9e6d-22b5048260ab")>, <appium.webdriver.webdriver.WebDriver (session="46a81d86-b7ab-4d9e-b1dd-bfa53f6bdcae")>]
+[INFO] 2019-07-11 14:19:32,622: test_001参与者多次加入离开房间
+[INFO] 2019-07-11 14:22:27,506: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 14:22:29,491: ['0', '0']
+[INFO] 2019-07-11 14:22:29,491: 0
+[INFO] 2019-07-11 14:22:40,697: 1
+[INFO] 2019-07-11 14:22:46,962: [<appium.webdriver.webdriver.WebDriver (session="35157bd3-2ef6-4fd6-afe6-107912db848d")>, <appium.webdriver.webdriver.WebDriver (session="e523f5dd-0a55-4b95-8449-64b7b18c8344")>]
+[INFO] 2019-07-11 14:22:46,962: test_004参与者多次切换角色
+[INFO] 2019-07-11 14:23:45,389: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 14:23:48,086: ['0', '0']
+[INFO] 2019-07-11 14:23:48,086: 0
+[INFO] 2019-07-11 14:23:58,397: 1
+[INFO] 2019-07-11 14:24:04,331: [<appium.webdriver.webdriver.WebDriver (session="1724de9f-db72-46c3-b6b0-57950ed2abce")>, <appium.webdriver.webdriver.WebDriver (session="e8e5355b-938e-4c9e-8bb6-656f9d128db1")>]
+[INFO] 2019-07-11 14:24:04,331: test_001参与者多次加入离开房间
+[INFO] 2019-07-11 14:26:24,440: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 14:26:31,695: ['7048', '9236']
+[INFO] 2019-07-11 14:26:31,695: 0
+[INFO] 2019-07-11 14:26:38,773: 1
+[INFO] 2019-07-11 14:26:44,575: [<appium.webdriver.webdriver.WebDriver (session="c84771a5-91a6-453e-8ce3-fb46fa4b6a39")>, <appium.webdriver.webdriver.WebDriver (session="3c41f898-6bcc-4a53-b37f-fa9aaa73f484")>]
+[INFO] 2019-07-11 14:26:44,576: test_005录屏直播多次进入退出
+[INFO] 2019-07-11 15:24:29,842: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 15:24:48,914: ['9656', '9952']
+[INFO] 2019-07-11 15:24:48,914: 0
+[INFO] 2019-07-11 15:25:24,865: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 15:25:31,012: ['4208', '6936']
+[INFO] 2019-07-11 15:25:31,012: 0
+[INFO] 2019-07-11 15:25:35,241: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 15:25:40,196: ['5452', '10220']
+[INFO] 2019-07-11 15:25:40,196: 0
+[INFO] 2019-07-11 15:26:38,804: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 15:26:46,138: ['7472', '9984']
+[INFO] 2019-07-11 15:26:46,138: 0
+[INFO] 2019-07-11 15:26:53,788: 1
+[INFO] 2019-07-11 15:26:59,845: [<appium.webdriver.webdriver.WebDriver (session="ac8d21f2-d716-4219-8a81-00432f5e964a")>, <appium.webdriver.webdriver.WebDriver (session="0aca27b3-077b-4f66-a476-814a58589ac2")>]
+[INFO] 2019-07-11 15:26:59,845: test_005录屏直播多次进入退出
+[INFO] 2019-07-11 15:28:13,239: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-11 15:28:14,824: ['0', '0']
+[INFO] 2019-07-11 15:28:14,824: 0
+[INFO] 2019-07-11 15:28:25,747: 1
+[INFO] 2019-07-11 15:28:31,319: [<appium.webdriver.webdriver.WebDriver (session="3e2a7a36-f9d8-4488-99a5-35b87bf6c564")>, <appium.webdriver.webdriver.WebDriver (session="fe735538-35e9-4efb-a8c5-69e6e9a0e7be")>]
+[INFO] 2019-07-11 15:28:31,320: test_005录屏直播多次进入退出
+[INFO] 2019-07-12 11:02:30,922: devicelist: ['p10_268', 'p10_295']
+[INFO] 2019-07-12 11:02:52,317: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:03:07,365: ['8972']
+[INFO] 2019-07-12 11:03:07,366: 0
+[INFO] 2019-07-12 11:03:16,030: [<appium.webdriver.webdriver.WebDriver (session="05906f73-e2b3-4c8d-bf09-b6a24205e481")>]
+[INFO] 2019-07-12 11:03:16,030: test_005录屏直播多次进入退出
+[INFO] 2019-07-12 11:03:33,701: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:03:34,785: ['0']
+[INFO] 2019-07-12 11:03:34,786: 0
+[INFO] 2019-07-12 11:03:41,973: [<appium.webdriver.webdriver.WebDriver (session="b8d35599-50ce-4cb3-9aa9-3701bb94caa7")>]
+[INFO] 2019-07-12 11:03:41,973: test_005录屏直播多次进入退出
+[INFO] 2019-07-12 11:03:42,344: test运行完成
+[INFO] 2019-07-12 11:03:55,143: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:03:56,489: ['0']
+[INFO] 2019-07-12 11:03:56,489: 0
+[INFO] 2019-07-12 11:04:03,305: [<appium.webdriver.webdriver.WebDriver (session="5340a433-109d-4194-9490-8f7156bcdd70")>]
+[INFO] 2019-07-12 11:04:03,305: test_005录屏直播多次进入退出
+[INFO] 2019-07-12 11:04:04,041: test运行完成
+[INFO] 2019-07-12 11:09:31,425: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:09:37,437: ['8280']
+[INFO] 2019-07-12 11:09:37,437: 0
+[INFO] 2019-07-12 11:09:43,733: [<appium.webdriver.webdriver.WebDriver (session="c67e4bf1-be32-459d-aab7-ab1de53b88c7")>]
+[INFO] 2019-07-12 11:09:43,734: test_005录屏直播多次进入退出
+[INFO] 2019-07-12 11:09:44,112: test运行完成
+[INFO] 2019-07-12 11:10:23,222: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:10:24,307: ['0']
+[INFO] 2019-07-12 11:10:24,308: 0
+[INFO] 2019-07-12 11:10:31,515: [<appium.webdriver.webdriver.WebDriver (session="c0a3541a-3a5f-4b93-99fa-758b226a1c83")>]
+[INFO] 2019-07-12 11:10:31,515: test_005录屏直播多次进入退出
+[INFO] 2019-07-12 11:10:31,958: test运行完成
+[INFO] 2019-07-12 11:10:53,733: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:10:55,375: ['0']
+[INFO] 2019-07-12 11:10:55,376: 0
+[INFO] 2019-07-12 11:11:02,627: [<appium.webdriver.webdriver.WebDriver (session="283c8b45-f87c-4b15-904e-3416bef11d74")>]
+[INFO] 2019-07-12 11:11:02,627: test_005录屏直播多次进入退出
+[INFO] 2019-07-12 11:11:03,094: test运行完成
+[INFO] 2019-07-12 11:11:08,982: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:11:10,144: ['0']
+[INFO] 2019-07-12 11:11:10,144: 0
+[INFO] 2019-07-12 11:11:17,387: [<appium.webdriver.webdriver.WebDriver (session="1c5b3f6d-6aa8-40e5-9f13-52e7ac94b44f")>]
+[INFO] 2019-07-12 11:11:17,387: test_001参与者多次加入离开房间
+[INFO] 2019-07-12 11:13:29,618: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:13:30,745: ['0']
+[INFO] 2019-07-12 11:13:30,745: 0
+[INFO] 2019-07-12 11:13:38,013: [<appium.webdriver.webdriver.WebDriver (session="47d5919a-10a5-467b-bf80-8ee53ff9b5c0")>]
+[INFO] 2019-07-12 11:13:38,013: test_001参与者多次加入离开房间
+[INFO] 2019-07-12 11:17:33,887: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:17:39,365: ['8748']
+[INFO] 2019-07-12 11:17:39,365: 0
+[INFO] 2019-07-12 11:17:45,237: [<appium.webdriver.webdriver.WebDriver (session="17f5d32a-2fa4-4fcb-b596-0e1fea2d3275")>]
+[INFO] 2019-07-12 11:17:45,238: test_001参与者多次加入离开房间
+[INFO] 2019-07-12 11:18:29,549: devicelist: ['p10_267']
+[INFO] 2019-07-12 11:18:30,616: ['0']
+[INFO] 2019-07-12 11:18:30,617: 0
+[INFO] 2019-07-12 11:18:37,947: [<appium.webdriver.webdriver.WebDriver (session="ecafcd22-0e0f-4ad4-85b2-cffe7f431f0f")>]
+[INFO] 2019-07-12 11:18:37,947: test_001参与者多次加入离开房间
+[INFO] 2019-07-12 11:24:04,484: test运行完成
+[INFO] 2019-07-18 10:39:30,323: devicelist: ['p10_269']
+[INFO] 2019-07-18 10:39:57,479: ['4148']
+[INFO] 2019-07-18 10:39:57,479: 0
+[INFO] 2019-07-18 10:40:13,607: [<appium.webdriver.webdriver.WebDriver (session="0ece4ce3-3a5d-4219-9092-b159b8cf354d")>]
+[INFO] 2019-07-18 10:40:13,608: test_005录屏直播多次进入退出
+[INFO] 2019-07-18 10:40:14,499: test运行完成
+[INFO] 2019-07-18 10:40:59,694: devicelist: ['p10_269']
+[INFO] 2019-07-18 10:41:01,152: ['0']
+[INFO] 2019-07-18 10:41:01,152: 0
+[INFO] 2019-07-18 10:41:08,957: [<appium.webdriver.webdriver.WebDriver (session="611616ee-169e-432e-ba60-c6978846b1ac")>]
+[INFO] 2019-07-18 10:41:08,957: test_005录屏直播多次进入退出
+[INFO] 2019-07-18 10:41:09,699: test运行完成
+[INFO] 2019-07-18 10:41:54,344: devicelist: ['p10_269']
+[INFO] 2019-07-18 10:41:55,833: ['0']
+[INFO] 2019-07-18 10:41:55,833: 0
+[INFO] 2019-07-18 10:42:03,344: [<appium.webdriver.webdriver.WebDriver (session="3a4b1987-fd2d-4fd5-a892-da614002cc07")>]
+[INFO] 2019-07-18 10:42:03,344: test_005录屏直播多次进入退出
+[INFO] 2019-07-18 10:42:03,728: test运行完成
+[INFO] 2019-07-18 10:43:29,538: devicelist: ['p10_269']
+[INFO] 2019-07-18 10:43:30,724: ['0']
+[INFO] 2019-07-18 10:43:30,724: 0
+[INFO] 2019-07-18 10:43:38,091: [<appium.webdriver.webdriver.WebDriver (session="d493f749-680c-44b1-a9d5-8ccb54584ff0")>]
+[INFO] 2019-07-18 10:43:38,091: test_005录屏直播多次进入退出
+[INFO] 2019-07-29 11:55:33,324: devicelist: ['m8']
+[INFO] 2019-07-29 11:55:57,521: ['1004']
+[INFO] 2019-07-29 11:55:57,521: 0
+[INFO] 2019-07-29 11:57:25,169: devicelist: ['m8']
+[INFO] 2019-07-29 11:57:26,309: ['0']
+[INFO] 2019-07-29 11:57:26,309: 0
+[INFO] 2019-07-29 11:57:36,073: [<appium.webdriver.webdriver.WebDriver (session="91354478-a12b-49c8-a308-6f6ac998f9a4")>]
+[INFO] 2019-07-29 11:57:36,073: test_001参与者多次加入离开房间
+[INFO] 2019-07-29 11:58:34,043: devicelist: ['m8']
+[INFO] 2019-07-29 11:58:35,161: ['0']
+[INFO] 2019-07-29 11:58:35,162: 0
+[INFO] 2019-07-29 11:58:42,772: [<appium.webdriver.webdriver.WebDriver (session="84be9467-336f-4799-8a8b-8fa3d974cfff")>]
+[INFO] 2019-07-29 11:58:42,772: test_001参与者多次加入离开房间
+[INFO] 2019-07-29 11:59:33,639: devicelist: ['m8']
+[INFO] 2019-07-29 11:59:34,898: ['0']
+[INFO] 2019-07-29 11:59:34,898: 0
+[INFO] 2019-07-29 11:59:43,097: [<appium.webdriver.webdriver.WebDriver (session="4ceb6a42-d1c8-4864-9966-f1777a2e1df5")>]
+[INFO] 2019-07-29 11:59:43,097: test_001参与者多次加入离开房间
+[INFO] 2019-07-29 12:00:24,736: devicelist: ['m8']
+[INFO] 2019-07-29 12:00:25,830: ['0']
+[INFO] 2019-07-29 12:00:25,830: 0
+[INFO] 2019-07-29 12:00:33,608: [<appium.webdriver.webdriver.WebDriver (session="24b19b51-f4d1-43b7-a59c-7dd02a454752")>]
+[INFO] 2019-07-29 12:00:33,609: test_001参与者多次加入离开房间

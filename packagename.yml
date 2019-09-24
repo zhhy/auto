@@ -1,0 +1,53 @@
+---
+### °üÃû
+
+iRoom_IOS :
+  bundleId: com.powerinfo.iRoom
+
+iRoom_Android:
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+
+zuji_IOS:
+  bundleId: com.btxg.xvideo
+
+zuji_Android:
+  appPackage: com.soccerv
+  appActivity: com.soccerv.MainActivity
+
+QSStarlight_IOS:
+  bundleId: com.powerinfo.iLiveQSStarLight
+
+QSStarlight_Android :
+  appPackage: com.powerinfo.iLiveQSStarLight
+  appActivity: com.powerinfo.iLiveQSStarLight.StarLightLoginSettingActivity
+
+QSA50_IOS:
+  bundleId: com.powerinfo.iLiveQSA50
+
+QSA50_Android:
+  appPackage: com.powerinfo.iLiveQSA50
+  appActivity: com.powerinfo.iLiveQSTZ.AudioOnlyLoginSettingActivity
+
+A50_IOS:
+  bundleId: com.powerinfo.iLiveA50
+
+QSDoki_IOS:
+  bundleId: com.powerinfo.iLiveQSDoki
+
+QSDoki_Android:
+  appPackage: com.powerinfo.iLiveQSDoki
+  appActivity: com.powerinfo.iLiveQSDoki.DokiLoginSettingActivity
+
+F2F_IOS:
+  bundleId: net.powerinfo.face2face
+
+F2F_Android:
+  appPackage: net.powerinfo.face2face
+  appActivity: net.powerinfo.face2face.MainActivity
+
+
+
+
+
+

@@ -1,0 +1,1124 @@
+---
+# liveme 相关控件
+
+liveme_Android:
+  手机号登录按钮:
+    id: com.cmcm.live:id/layout_phone_login
+    xpath: //android.widget.LinearLayout/android.widget.FrameLayout[2]
+  登录时更多:
+    id: com.cmcm.live:id/layout_login_third
+  邮箱登录按钮:
+    id: com.cmcm.live:id/layout_login_fourth
+  设置手机号:
+    id: com.cmcm.live:id/et_phone
+    xpath: //android.widget.EditText[@text='電話號碼. 正在编辑。']
+  登录下一步:
+    id: com.cmcm.live:id/btnTv
+    xpath: //android.widget.TextView[@text='下一步']
+  登录密码:
+    id: com.cmcm.live:id/et_password
+    xpath: //android.widget.EditText[@text='输入密码. 正在编辑。']
+  开启直播:
+    id: com.cmcm.live:id/uplive
+  多人直播 :
+    id: com.cmcm.live:id/live_multi_img
+  开始直播 :
+    id: com.cmcm.live:id/txt_video_start_live
+    xpath: //android.widget.TextView[@text='開始直播']
+  连麦解锁确定:
+    id: com.cmcm.live:id/tv_ok_btn
+  选择:
+    id: com.cmcm.live:id/apply_root
+  是否选择消息弹框:
+    id: com.cmcm.live:id/nine_vcall_bt
+  接受连麦请求:
+    id: com.cmcm.live:id/apply_btn
+  房间号 :
+    id: com.cmcm.live:id/shortid_iv
+  加入按钮 :
+    id: com.cmcm.live:id/apply_btn
+  视频控件 :
+    id: com.cmcm.live:id/vcall_union_root_view
+    xpath:
+  辅播编号 :
+    xpath: //android.widget.TextView[@text='1']
+  辅播下麦 :
+    id: com.cmcm.live:id/layout_quit
+  辅播切换摄像头 :
+    id: com.cmcm.live:id/layout_switch
+  开关麦克风 :
+    id: com.cmcm.live:id/layout_mute
+  退出房间 :
+    id: com.cmcm.live:id/img_close
+  home :
+    id: com.cmcm.live:id/home_page
+  搜索房间列表 :
+    id: com.cmcm.live:id/home_search_img #60,140
+  搜索框 :
+    id: com.cmcm.live:id/search_content
+  搜索结果 :
+    id: com.cmcm.live:id/search_list_root
+  直播状态 :
+    id: com.cmcm.live:id/card_state_bg
+  个人:
+    id: com.cmcm.live:id/me_page
+  追踪按钮:
+    id: com.cmcm.live:id/personal_following_layout
+
+liveme_IOS:
+  开启直播:
+    id: com.cmcm.live:id/uplive #
+    xpath: //XCUIElementTypeButton[@name="icon home start"]
+  多人直播 :
+    id: Multi-beam
+    xpath: //XCUIElementTypeButton[@name="Multi-beam"]
+  开始直播 :
+    id: 開始直播
+    xpath: //XCUIElementTypeButton[@name="開始直播"]
+  语音连麦:
+    id: 9beam voice unselect
+    xpath: //XCUIElementTypeButton[@name="9beam voice unselect"]
+  连麦解锁确定:
+    id: com.cmcm.live:id/tv_ok_btn
+  选择:
+    id: com.cmcm.live:id/apply_root
+  是否选择消息弹框:
+    id: com.cmcm.live:id/nine_vcall_bt
+  接受连麦请求:
+    id: com.cmcm.live:id/apply_btn
+  房间号 :
+    id: com.cmcm.live:id/shortid_iv
+  加入按钮 :
+    id: com.cmcm.live:id/apply_btn
+  视频控件 :
+    id: com.cmcm.live:id/vcall_union_root_view
+    xpath:
+  辅播编号 :
+    xpath: (//XCUIElementTypeImage[@name="9beam_site_open"])[1]
+  辅播下麦 :
+    id: com.cmcm.live:id/liverroom gift button
+    xpath: //XCUIElementTypeButton[@name="9beam hangup"]
+  辅播切换摄像头 :
+    id: com.cmcm.live:id/layout_switch
+    xpath: //XCUIElementTypeButton[@name="9beam camera switch"]
+  开关麦克风 :
+    id: com.cmcm.live:id/layout_mute
+    xpath: //XCUIElementTypeButton[@name="9beam mic off"]
+  辅播关闭提示:
+    xpath: //XCUIElementTypeButton[@name="live inviteView close"]
+  退出房间 :
+    id: com.cmcm.live:id/live close
+    xpath: //XCUIElementTypeButton[@name="live close"]
+  home :
+    id: com.cmcm.live:id/icon home
+    xpath: //XCUIElementTypeButton[@name="icon home"]
+  搜索房间列表 :
+    id: com.cmcm.live:id/icon home search on #16,40
+    xpath: //XCUIElementTypeButton[@name="icon home search on"]
+  搜索框 :
+    id: com.cmcm.live:id/搜尋用戶暱稱或 ID
+    xpath: //XCUIElementTypeSearchField[@name="搜尋用戶暱稱或 ID"]
+  搜索结果 :
+    id: com.cmcm.live:id/search_list_root
+    xpath: //XCUIElementTypeStaticText[@name="Sjddbah"]
+  直播状态 :
+    id: com.cmcm.live:id/card_state_bg
+  个人:
+    id: com.cmcm.live:id/me_page #333,640
+    xpath: //XCUIElementTypeButton[@name="icon home mine"]
+  个人追踪中:
+    xpath: //XCUIElementTypeStaticText[@name="追蹤中"]
+  个人追踪直播人员:
+    xpath: //XCUIElementTypeStaticText[@name="LM-EA10CF"]
+  个人直播:
+    xpath: //XCUIElementTypeStaticText[@name="未上線"]
+  追踪按钮:
+    id: com.cmcm.live:id/icon home follow
+    xpath: //XCUIElementTypeButton[@name="icon home follow"]
+
+iRoom_Android:
+  多人群聊:
+    xpath: //android.widget.TextView[@text='多人群聊']
+  房间列表:
+    xpath: //android.widget.TextView[@text='RoomID :xxxx']
+  创建房间:
+    id: com.powerinfo.pi_iroom.demo:id/iv_create_room #加号
+  版本信息:
+    id: com.powerinfo.pi_iroom.demo:id/tv_vision
+  START:
+    id: com.powerinfo.pi_iroom.demo:id/bt_start
+    xpath: //android.widget.Button[@text='START']
+  JOIN:
+    id: com.powerinfo.pi_iroom.demo:id/bt_start
+    xpath: //android.widget.Button[@text='JOIN']
+  RoomID:
+    id: com.powerinfo.pi_iroom.demo:id/tv_roomId
+    xpath: //android.widget.TextView[@text='RoomId:xxxx']
+  推流信息:
+    id: com.powerinfo.pi_iroom.demo:id/tv_info
+  打点码:
+    id: com.powerinfo.pi_iroom.demo:id/mBtnWhoops
+  合并房间:
+    id: com.powerinfo.pi_iroom.demo:id/iv_pk
+    xpath: //android.widget.RelativeLayout/android.widget.ImageView[2]
+  发送msc消息:
+    id: com.powerinfo.pi_iroom.demo:id/iv_showMscControlMessage
+    xpath: //android.widget.RelativeLayout/android.widget.ImageView[1]
+  消息窗体:
+    id: com.powerinfo.pi_iroom.demo:id/et_message
+  摄像头:
+    id: com.powerinfo.pi_iroom.demo:id/iv_camera
+    xpath: //android.widget.LinearLayout/android.widget.ImageView[0]
+  闪光灯:
+    id: com.powerinfo.pi_iroom.demo:id/iv_torch
+    xpath: //android.widget.LinearLayout/android.widget.ImageView[1]
+  美颜:
+    id: com.powerinfo.pi_iroom.demo:id/iv_beauty
+    xpath: //android.widget.LinearLayout/android.widget.ImageView[2]
+  切换角色:
+    id: com.powerinfo.pi_iroom.demo:id/iv_changeRole
+    xpath: //android.widget.LinearLayout/android.widget.ImageView[3]
+  切换房间:
+    id: com.powerinfo.pi_iroom.demo:id/iv_changeRoom
+    xpath: //android.widget.LinearLayout/android.widget.ImageView[4]
+  切换房间列表:
+    xpath: //android.view.ViewGroup/android.widget.LinearLayout[0]
+  切换房间列表取消:
+    id: com.powerinfo.pi_iroom.demo:id/md_buttonDefaultNegative
+    xpath: //android.widget.TextView[@text='CANCEL']
+  game:
+    id: com.powerinfo.pi_iroom.demo:id/bt_startGame
+    xpath: //android.widget.Button[@text='START GAME']
+  changeconfig:
+    id: com.powerinfo.pi_iroom.demo:id/tv_config
+    xpath:
+  离开房间:
+    id: com.powerinfo.pi_iroom.demo:id/iv_back
+    xpath: //android.widget.RelativeLayout/android.widget.ImageView[0]
+  上锁:
+    id: com.powerinfo.pi_iroom.demo:id/iv_setLock
+  推流配置信息:
+    id: com.powerinfo.pi_iroom.demo:id/tv_setting_info
+  设置:
+    id: com.powerinfo.pi_iroom.demo:id/iv_setting
+  开发者选项:
+    id: com.powerinfo.pi_iroom.demo:id/bt_developer
+    xpath: //android.widget.Button[@text='Developer Options']
+  设置码率:
+    id: com.powerinfo.pi_iroom.demo:id/mEtBitrate
+  设置帧率:
+    #android:id/text1
+    id: com.powerinfo.pi_iroom.demo:id/mSpOutputSize
+  设置推流分辨率:
+    id: com.powerinfo.pi_iroom.demo:id/mSpOutputSize
+  设置采集分辨率:
+    id: com.powerinfo.pi_iroom.demo:id/mSpPreviewSize
+  勾选观众:
+    id: com.powerinfo.pi_iroom.demo:id/mScViewerMode
+  选择观众模式:
+    id: com.powerinfo.pi_iroom.demo:id/mSpViewerPlayMode
+  上传日志:
+    id: com.powerinfo.pi_iroom.demo:id/mBtnUploadLog
+    xpath: //android.widget.Button[@text='Upload Log']
+  清除日志:
+    id: com.powerinfo.pi_iroom.demo:id/mBtnDeleteLog
+    xpath: //android.widget.Button[@text='Delete Log']
+  logout:
+    id: com.powerinfo.pi_iroom.demo:id/mBtnDeleteLog
+    xpath: //android.widget.Button[@text='Logout']
+  logout信息:
+    id: com.powerinfo.pi_iroom.demo:id/md_content
+    xpath: //android.widget.TextView[@text='please kill the app and restart!']
+  设置ndselect:
+    id: com.powerinfo.pi_iroom.demo:id/mEtNdSelect
+    xpath: //android.widget.EditText[@text='enter ndSelect']
+  设置groupid:
+    id: com.powerinfo.pi_iroom.demo:id/mEtGroupId
+    xpath: //android.widget.EditText[@text='enter groupId']
+  loginStart:
+    xpath: //android.widget.Button[@text='START']
+
+iRoom_IOS:
+  多人群聊:
+    id: 多人群聊
+    xpath: //XCUIElementTypeStaticText[@name='多人群聊']
+  房间列表:
+    xpath: //XCUIElementTypeStaticText[@name='RoomId :xxxx']
+  创建房间:
+    id: start
+    xpath: //XCUIElementTypeButton[@name="start"] #加号
+  版本信息:
+    id: com.powerinfo.pi_iroom.demo:id/tv_vision
+  START:
+    id: Start
+    xpath: //XCUIElementTypeButton[@name="Start"]
+  JOIN:
+    id: JOIN
+    xpath: //XCUIElementTypeButton[@name="Send"]
+  RoomID:
+    id: RoomId:xxxx
+    xpath: //XCUIElementTypeButton[@name="RoomId:xxxx"]
+#  推流信息:
+#    id: com.powerinfo.pi_iroom.demo:id/tv_info
+#  打点码:
+#    id: com.powerinfo.pi_iroom.demo:id/mBtnWhoops
+  合并房间:
+    id: com.powerinfo.pi_iroom.demo:id/iv_pk
+    xpath: //android.widget.RelativeLayout/android.widget.ImageView[2]
+  发送msc消息:
+    id: Msc
+    xpath: //XCUIElementTypeButton[@name="Msc"]
+  消息窗体:
+    id: com.powerinfo.pi_iroom.demo:id/et_message #ios无效
+    xpath: //XCUIElementTypeButton[@name="Send"]
+  摄像头:
+    id: switchCam
+    xpath: //XCUIElementTypeButton[@name="switchCam"]
+  闪光灯:
+    id: torch
+    xpath: //XCUIElementTypeButton[@name="torch"]
+  美颜:
+    id: beautyBtn
+    xpath: //XCUIElementTypeButton[@name="beautyBtn"]
+  切换角色:
+    id: changeRole
+    xpath: //XCUIElementTypeButton[@name="changeRole"]
+  game弹框:
+    id: 录屏与麦克风
+    xpath: //XCUIElementTypeButton[@name='录屏与麦克风']
+  game:
+    id: G
+    xpath: //XCUIElementTypeButton[@name='G']
+  changeconfig:
+    id: B
+    xpath: //XCUIElementTypeButton[@name='B']
+#  切换房间:
+#    id: com.powerinfo.pi_iroom.demo:id/iv_changeRoom
+#    xpath: //android.widget.LinearLayout/android.widget.ImageView[4]
+#  切换房间列表:
+#    xpath: //android.view.ViewGroup/android.widget.LinearLayout[0]
+#  切换房间列表取消:
+#    id: com.powerinfo.pi_iroom.demo:id/md_buttonDefaultNegative
+#    xpath: //android.widget.TextView[@text='CANCEL']
+  离开房间:
+    id: Stop
+    xpath: //XCUIElementTypeButton[@name="Stop"]
+  上锁:
+    id: unlock
+    xpath: //XCUIElementTypeButton[@name="unlock"]
+#  推流配置信息:
+#    id: com.powerinfo.pi_iroom.demo:id/tv_setting_info
+  设置:
+    id: setting
+    xpath: //XCUIElementTypeButton[@name="setting"]
+  开发者选项:
+    id: Developer options
+    xpath: //XCUIElementTypeButton[@name="Developer options"]
+  设置码率:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[1]
+  设置帧率:
+    #android:id/text1
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]
+  设置推流分辨率:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[3]
+  设置采集分辨率:
+    id: com.powerinfo.pi_iroom.demo:id/mSpPreviewSize
+  勾选观众:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSwitch[1]
+  选择观众模式:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[5]
+  上传日志:
+    id: Upload log
+    xpath: //XCUIElementTypeButton[@name="Upload log"]
+  清除日志:
+    id: Clear log
+    xpath: //XCUIElementTypeButton[@name="Clear log"]
+  logout:
+    id: Logout
+    xpath: //XCUIElementTypeButton[@name="Logout"]
+  logout信息:
+    id: Please kill the process and restart .
+    xpath: //XCUIElementTypeStaticText[@name="Please kill the process and restart ."]
+  设置ndselect:
+#    id: com.powerinfo.pi_iroom.demo:id/mEtNdSelect
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[1]
+  设置groupid:
+#    id: com.powerinfo.pi_iroom.demo:id/mEtGroupId
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]
+  loginStart:
+    xpath: //XCUIElementTypeButton[@name="Confirm"]
+
+## A50
+
+A50_IOS:
+  targetuid:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeTextField[1]
+  checktargetuid:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeSwitch[1]
+  recuid:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeTextField[2]
+  checkrecuid:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeSwitch[2]
+  domain:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeTextField[3]
+  pushgroupid:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeTextField[4]
+  recgroupid:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeTextField[4]
+  echocancelation:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeSwitch[3]
+  frontcamera:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeSwitch[4]
+  music:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeSwitch[5]
+  audioonly:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeSwitch[6]
+  preview:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeSwitch[7]
+  ptcplog:
+    xpath: //XCUIElementTypeScrollView/XCUIElementTypeSwitch[8]
+  ustype:
+    xpath: //XCUIElementTypeButton[@name="A3"]
+  start:
+    id: START
+    xpath: //XCUIElementTypeButton[@name="START"]
+  uploadlog:
+    id: Upload Log
+    xpath: //XCUIElementTypeButton[@name="Upload Log"]
+  CN:
+    xpath: //XCUIElementTypeButton[@name="CN"]
+  OK:
+    xpath: //XCUIElementTypeButton[@name="OK"]
+  cleanlog:
+    id: Clean Log
+    xpath: //XCUIElementTypeButton[@name="Clean Log"]
+
+
+### 同桌-海外版本
+
+TongZhuoHaiWai_Android:
+  chat:
+    xpath: //android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout[3]
+  加号:
+    id: com.tongzhuo.tongzhuogame.international:id/mRightBt
+  Chats:
+    xpath: //android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[1]
+  Friends:
+    xpath: //android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]
+  party:
+    id: com.tongzhuo.tongzhuogame.international:id/mNewParty
+  newgroup:
+    id: com.tongzhuo.tongzhuogame.international:id/mNewGroup
+  random_roomtitile:
+    id: com.tongzhuo.tongzhuogame.international:id/mChangeBtn
+  create:
+    xpath: //android.widget.TextView[@text='Create']
+  username:
+    xpath: //android.widget.LinearLayout/android.widget.TextView[@text='xxxx']
+  isinparty:
+    xpath: //android.widget.LinearLayout/android.widget.TextView[@text='In party']
+  close:
+    id: com.tongzhuo.tongzhuogame.international:id/mIvExit
+  close_yes:
+    xpath: //android.widget.Button[@text='Yes']
+  maikefeng:
+    id: com.tongzhuo.tongzhuogame.international:id/mIvToggleMute
+  invite:
+    xpath: //android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[2]/android.widget.ImageView
+  invite_friends:
+    xpath: //android.widget.TextView[@text='Friends']
+  invite_groups:
+    xpath: //android.widget.TextView[@text='Groups']
+  invite_search:
+    id: com.tongzhuo.tongzhuogame.international:id/mTvSearch
+  invite_select:
+    id: com.tongzhuo.tongzhuogame.international:id/mSelected
+    xpath: //android.widget.RelativeLayout/android.widget.ImageView[2]
+  invite_name:
+    id: com.tongzhuo.tongzhuogame.international:id/mName
+  invite_close:
+    id: com.tongzhuo.tongzhuogame.international:id/mCloseImage
+  game:
+    id: com.tongzhuo.tongzhuogame.international:id/mIvAddEvent
+
+
+
+## 直面
+
+直面_IOS:
+  召开会议:
+    xpath: (//XCUIElementTypeOther[@name="召开会议"])[2]
+  会议室管理:
+    xpath: (//XCUIElementTypeOther[@name="会议室管理"])[2]
+  增加固定会议:
+    xpath: (//XCUIElementTypeOther[@name=""])[3]
+  增加固定会议-完成:
+    xpath: (//XCUIElementTypeOther[@name="完成"])[2]
+  创建成功:
+    xpath: (//XCUIElementTypeOther[@name="确定"])[2]
+  删除:
+    xpath: (//XCUIElementTypeOther[@name="删除"])[2]
+  确认删除:
+    xpath: (//XCUIElementTypeOther[@name="确定"])[2]
+  召开会议2:
+    xpath: (//XCUIElementTypeOther[@name="召开会议"])[6]
+  使用固定会议室:
+    xpath: (//XCUIElementTypeOther[@name="使用固定会议室"])[1]/XCUIElementTypeSwitch
+  使用固定会议室-完成:
+    xpath: //XCUIElementTypeButton[@name="完成"]
+  退出会议:
+    xpath: //XCUIElementTypeOther[@name="MeetRoomBackID"]
+  确认离开:
+    xpath: (//XCUIElementTypeOther[@name="确认离开"])[2]
+  结束会议:
+    xpath: (//XCUIElementTypeOther[@name="结束会议"])[2]
+  召开会议-返回:
+    xpath: (//XCUIElementTypeOther[@name="召开会议"])[3]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther
+  加入会议:
+    xpath: (//XCUIElementTypeOther[@name="加入会议室"])[2]
+  输入会议室ID:
+    xpath: //XCUIElementTypeTextField[@name="JoinMeetFInputID"]
+  1:
+    xpath: //XCUIElementTypeKey[@name="1"]
+  2:
+    xpath: //XCUIElementTypeKey[@name="2"]
+  3:
+    xpath: //XCUIElementTypeKey[@name="3"]
+  4:
+    xpath: //XCUIElementTypeKey[@name="4"]
+  5:
+    xpath: //XCUIElementTypeKey[@name="5"]
+  6:
+    xpath: //XCUIElementTypeKey[@name="6"]
+  7:
+    xpath: //XCUIElementTypeKey[@name="7"]
+  8:
+    xpath: //XCUIElementTypeKey[@name="8"]
+  9:
+    xpath: //XCUIElementTypeKey[@name="9"]
+  0:
+    xpath: //XCUIElementTypeKey[@name="0"]
+  加入会议2:
+    xpath: //XCUIElementTypeOther[@name="JoinMeetJoinBtnID"]
+  加入会议-返回:
+    xpath: //XCUIElementTypeOther[@name="JoinMeetBackID"]
+  游客加入会议:
+    xpath: //XCUIElementTypeOther[@name="加入会议室"]
+  游客加入会议2:
+    xpath: (//XCUIElementTypeOther[@name="JoinMeetJoinBtnID"])[1]
+  游客扫码加入会议:
+    xpath: (//XCUIElementTypeOther[@name="JoinMeetJoinBtnID"])[2]
+  会议界面更多按钮:
+    xpath: //XCUIElementTypeOther[@name="MeetRoommoreID"]
+  美颜开关:
+    xpath: //XCUIElementTypeOther[@name="MeetRoomBeautyID"]
+  查看推流信息表:
+    xpath: //XCUIElementTypeOther[@name="MeetRoomBalanceID"]
+  切换摄像头:
+    xpath: //XCUIElementTypeOther[@name="全部"]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther
+  打开/关闭麦克风:
+    xpath: //XCUIElementTypeOther[@name="全部"]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther
+  打开/关闭声音:
+    xpath: //XCUIElementTypeOther[@name="全部"]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther
+  主视角出二维码:
+    xpath: //XCUIElementTypeOther[@name="MeetRoomDualViewID"]
+  好友页面:
+    xpath: //XCUIElementTypeOther[@name="好友 好友 "]
+  好友列:
+    xpath: //XCUIElementTypeOther[@name="好友"]
+  群组列:
+    xpath: //XCUIElementTypeOther[@name="群组"]
+  好友页面创建按钮:
+    xpath: (//XCUIElementTypeOther[@name="好友 群组"])[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther
+  好友页面-搜索:
+    xpath: (//XCUIElementTypeOther[@name="搜索"])[2]/XCUIElementTypeTextField
+  邀请好友开会-召开会议:
+    xpath: //XCUIElementTypeOther[@name="邀请"]
+  我页面:
+    xpath: //XCUIElementTypeOther[@name="我 我 "]
+  设置:
+    xpath: (//XCUIElementTypeOther[@name="设置"])[2]
+  退出登录:
+    xpath: //XCUIElementTypeOther[@name="退出登录"]
+
+
+
+
+直面_Android:
+    召开会议:
+      xpath: //android.widget.TextView[@text='召开会议']
+    召开会议2:
+      xpath: //android.widget.TextView[@text='召开会议']
+    退出会议:
+      xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.ImageView
+    确认离开:
+      xpath: //android.widget.TextView[@text='确认离开']
+    结束会议:
+      xpath: //android.widget.TextView[@text='结束会议']
+    召开会议-返回:
+      xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.ImageView
+    加入会议:
+      xpath: //android.widget.TextView[@text='加入会议室']
+    输入会议室ID:
+      xpath: //android.widget.EditText[@text='输入会议室ID']
+    输入会议室密码:
+      xpath: //android.widget.EditText[@text='请输入会议室密码']
+    加入会议-返回:
+      xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.ImageView
+    会议界面更多按钮:
+      xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[3]/android.widget.ImageView
+    首页置顶:
+      xpath: //android.widget.TextView[@text='首页置顶']
+    美颜开关:
+      xpath: //android.widget.TextView[@text='美颜开关']
+    查看推流信息表:
+      xpath: //android.widget.TextView[@text='推流信息']
+    切换布局:
+      xpath: //android.widget.TextView[@text='窗口布局']
+    切换摄像头:
+      xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[6]/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.ImageView
+    打开/关闭麦克风:
+      xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[6]/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView
+    打开/关闭声音:
+      xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[6]/android.view.ViewGroup[3]/android.view.ViewGroup/android.widget.ImageView
+    主视角出二维码:
+      xpath:
+    好友页面:
+      xpath:
+    好友列:
+      xpath:
+    群组列:
+      xpath:
+    好友页面创建按钮:
+      xpath:
+    好友页面-搜索:
+      xpath:
+    邀请好友开会-召开会议:
+      xpath:
+    我页面:
+      xpath:
+    设置:
+      xpath:
+    退出登录:
+      xpath:
+
+
+QSA50_Android:
+  房间列表:
+    xpath: //android.widget.TextView[@text='RoomID :xxxx']
+  创建房间:
+    id: com.powerinfo.iLiveQSA50:id/iv_create_room #加号
+  START:
+    id: com.powerinfo.iLiveQSA50:id/bt_start
+    xpath: //android.widget.Button[@text='START']
+  JOIN:
+    id: com.powerinfo.iLiveQSA50:id/bt_start
+    xpath: //android.widget.Button[@text='JOIN']
+  RoomID:
+    id: com.powerinfo.iLiveQSA50:id/tv_roomId
+    xpath: //android.widget.TextView[@text='RoomId:xxxx']
+  推流信息:
+    id: com.powerinfo.iLiveQSA50:id/tv_info
+  打点码:
+    id: com.powerinfo.iLiveQSA50:id/mBtnWhoops
+  摄像头:
+    id: com.powerinfo.iLiveQSA50:id/iv_camera
+    xpath: //android.widget.LinearLayout/android.widget.ImageView[0]
+  离开房间:
+    id: com.powerinfo.iLiveQSA50:id/iv_back
+    xpath: //android.widget.RelativeLayout/android.widget.ImageView[0]
+  推流配置信息:
+    id: com.powerinfo.iLiveQSA50:id/tv_setting_info
+  设置:
+    id: com.powerinfo.iLiveQSA50:id/iv_setting
+  开发者选项:
+    id: com.powerinfo.iLiveQSA50:id/bt_developer
+    xpath: //android.widget.Button[@text='Developer Options']
+  设置码率:
+    id: com.powerinfo.iLiveQSA50:id/mEtBitrate
+  设置帧率:
+    #android:id/text1
+    id: com.powerinfo.iLiveQSA50:id/mSpOutputSize
+  设置推流分辨率:
+    id: com.powerinfo.iLiveQSA50:id/mSpOutputSize
+  设置采集分辨率:
+    id: com.powerinfo.iLiveQSA50:id/mSpPreviewSize
+  勾选观众:
+    id: com.powerinfo.iLiveQSA50:id/mScViewerMode
+  选择观众模式:
+    id: com.powerinfo.iLiveQSA50:id/mSpViewerPlayMode
+  上传日志:
+    id: com.powerinfo.iLiveQSA50:id/mBtnUploadLog
+    xpath: //android.widget.Button[@text='Upload Log']
+  清除日志:
+    id: com.powerinfo.iLiveQSA50:id/mBtnDeleteLog
+    xpath: //android.widget.Button[@text='Delete Log']
+  logout:
+    id: com.powerinfo.iLiveQSA50:id/mBtnDeleteLog
+    xpath: //android.widget.Button[@text='Logout']
+  logout信息:
+    id: com.powerinfo.iLiveQSA50:id/md_content
+    xpath: //android.widget.TextView[@text='please kill the app and restart!']
+  设置ndselect:
+    id: com.powerinfo.iLiveQSA50:id/mEtNdSelect
+    xpath: //android.widget.EditText[@text='enter ndSelect']
+  设置groupid:
+    id: com.powerinfo.iLiveQSA50:id/mEtGroupId
+    xpath: //android.widget.EditText[@text='enter groupId']
+  loginStart:
+    xpath: //android.widget.Button[@text='START']
+
+QSA50_IOS:
+  房间列表:
+    xpath: //XCUIElementTypeStaticText[@name='RoomId :xxxx']
+  创建房间:
+    id: start
+    xpath: //XCUIElementTypeButton[@name="start"] #加号
+  版本信息:
+    id: com.powerinfo.pi_iroom.demo:id/tv_vision
+  START:
+    id: start
+    xpath: //XCUIElementTypeButton[@name="start"]
+  JOIN:
+    id: join
+    xpath: //XCUIElementTypeButton[@name="join"]
+  RoomID:
+    id: RoomId:xxxx
+    xpath: //XCUIElementTypeButton[@name="RoomId:xxxx"]
+  摄像头:
+    id: switchCam
+    xpath: //XCUIElementTypeButton[@name="switchCam"]
+  离开房间:
+    id: Stop
+    xpath: //XCUIElementTypeButton[@name="Stop"]
+  上锁:
+    id: unlock
+    xpath: //XCUIElementTypeButton[@name="unlock"]
+  设置:
+    id: setting
+    xpath: //XCUIElementTypeButton[@name="setting"]
+  开发者选项:
+    id: Developer options
+    xpath: //XCUIElementTypeButton[@name="Developer options"]
+  设置码率:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[1]
+  设置帧率:
+    #android:id/text1
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]
+  设置推流分辨率:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[3]
+  设置采集分辨率:
+    id: com.powerinfo.pi_iroom.demo:id/mSpPreviewSize
+  勾选观众:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSwitch[1]
+  选择观众模式:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[5]
+  上传日志:
+    id: Upload log
+    xpath: //XCUIElementTypeButton[@name="Upload log"]
+  清除日志:
+    id: Clear log
+    xpath: //XCUIElementTypeButton[@name="Clear log"]
+  logout:
+    id: Logout
+    xpath: //XCUIElementTypeButton[@name="Logout"]
+  logout信息:
+    id: Please kill the process and restart .
+    xpath: //XCUIElementTypeStaticText[@name="Please kill the process and restart ."]
+  设置ndselect:
+#    id: com.powerinfo.pi_iroom.demo:id/mEtNdSelect
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[1]
+  设置groupid:
+#    id: com.powerinfo.pi_iroom.demo:id/mEtGroupId
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]
+  loginStart:
+    xpath: //XCUIElementTypeButton[@name="Confirm"]
+
+
+QSStarlight_Android:
+  房间列表:
+    xpath: //android.widget.TextView[@text='RoomID :xxxx']
+  创建房间:
+    id: com.powerinfo.iLiveQSGroupChat:id/iv_create_room #加号
+  START:
+    id: com.powerinfo.iLiveQSGroupChat:id/bt_start
+    xpath: //android.widget.Button[@text='START']
+  JOIN:
+    id: com.powerinfo.iLiveQSStarLight:id/bt_start
+    xpath: //android.widget.Button[@text='JOIN']
+  RoomID:
+    id: com.powerinfo.iLiveQSStarLight:id/tv_roomId
+    xpath: //android.widget.TextView[@text='RoomId:xxxx']
+  推流信息:
+    id: com.powerinfo.iLiveQSGroupChat:id/tv_info
+  打点码:
+    id: com.powerinfo.iLiveQSGroupChat:id/mBtnWhoops
+  摄像头:
+    id: com.powerinfo.iLiveQSGroupChat:id/iv_camera
+    xpath: //android.widget.LinearLayout/android.widget.ImageView[0]
+  离开房间:
+    id: com.powerinfo.iLiveQSStarLight:id/iv_back
+    xpath: //android.widget.RelativeLayout/android.widget.ImageView[0]
+  推流配置信息:
+    id: com.powerinfo.iLiveQSGroupChat:id/tv_setting_info
+  设置:
+    id: com.powerinfo.iLiveQSGroupChat:id/iv_setting
+  开发者选项:
+    id: com.powerinfo.iLiveQSGroupChat:id/bt_developer
+    xpath: //android.widget.Button[@text='Developer Options']
+  设置码率:
+    id: com.powerinfo.iLiveQSGroupChat:id/mEtBitrate
+  设置帧率:
+    #android:id/text1
+    id: com.powerinfo.iLiveQSGroupChat:id/mSpOutputSize
+  设置推流分辨率:
+    id: com.powerinfo.iLiveQSGroupChat:id/mSpOutputSize
+  设置采集分辨率:
+    id: com.powerinfo.iLiveQSGroupChat:id/mSpPreviewSize
+  勾选观众:
+    id: com.powerinfo.iLiveQSGroupChat:id/mScViewerMode
+  选择观众模式:
+    id: com.powerinfo.iLiveQSGroupChat:id/mSpViewerPlayMode
+  上传日志:
+    id: com.powerinfo.iLiveQSGroupChat:id/mBtnUploadLog
+    xpath: //android.widget.Button[@text='Upload Log']
+  清除日志:
+    id: com.powerinfo.iLiveQSGroupChat:id/mBtnDeleteLog
+    xpath: //android.widget.Button[@text='Delete Log']
+  logout:
+    id: com.powerinfo.iLiveQSGroupChat:id/mBtnDeleteLog
+    xpath: //android.widget.Button[@text='Logout']
+  logout信息:
+    id: com.powerinfo.iLiveQSGroupChat:id/md_content
+    xpath: //android.widget.TextView[@text='please kill the app and restart!']
+  设置ndselect:
+    id: com.powerinfo.iLiveQSGroupChat:id/mEtNdSelect
+    xpath: //android.widget.EditText[@text='enter ndSelect']
+  设置groupid:
+    id: com.powerinfo.iLiveQSGroupChat:id/mEtGroupId
+    xpath: //android.widget.EditText[@text='enter groupId']
+  loginStart:
+    xpath: //android.widget.Button[@text='START']
+
+QSStarlight_IOS:
+  房间列表:
+    xpath: //XCUIElementTypeStaticText[@name='RoomId :xxxx']
+  创建房间:
+    id: start
+    xpath: //XCUIElementTypeButton[@name="start"] #加号
+  版本信息:
+    id: com.powerinfo.pi_iroom.demo:id/tv_vision
+  START:
+    id: start
+    xpath: //XCUIElementTypeButton[@name="start"]
+  JOIN:
+    id: join
+    xpath: //XCUIElementTypeButton[@name="join"]
+  RoomID:
+    id: RoomId:xxxx
+    xpath: //XCUIElementTypeButton[@name="RoomId:xxxx"]
+  摄像头:
+    id: switchCam
+    xpath: //XCUIElementTypeButton[@name="switchCam"]
+  离开房间:
+    id: Stop
+    xpath: //XCUIElementTypeButton[@name="Stop"]
+  上锁:
+    id: unlock
+    xpath: //XCUIElementTypeButton[@name="unlock"]
+  设置:
+    id: setting
+    xpath: //XCUIElementTypeButton[@name="setting"]
+  开发者选项:
+    id: Developer options
+    xpath: //XCUIElementTypeButton[@name="Developer options"]
+  设置码率:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[1]
+  设置帧率:
+    #android:id/text1
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]
+  设置推流分辨率:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[3]
+  设置采集分辨率:
+    id: com.powerinfo.pi_iroom.demo:id/mSpPreviewSize
+  勾选观众:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSwitch[1]
+  选择观众模式:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[5]
+  上传日志:
+    id: Upload log
+    xpath: //XCUIElementTypeButton[@name="Upload log"]
+  清除日志:
+    id: Clear log
+    xpath: //XCUIElementTypeButton[@name="Clear log"]
+  logout:
+    id: Logout
+    xpath: //XCUIElementTypeButton[@name="Logout"]
+  logout信息:
+    id: Please kill the process and restart .
+    xpath: //XCUIElementTypeStaticText[@name="Please kill the process and restart ."]
+  设置ndselect:
+#    id: com.powerinfo.pi_iroom.demo:id/mEtNdSelect
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[1]
+  设置groupid:
+#    id: com.powerinfo.pi_iroom.demo:id/mEtGroupId
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]
+  loginStart:
+    xpath: //XCUIElementTypeButton[@name="Confirm"]
+
+zhifou_Android:
+  参与挑战:
+    id: com.bitstartlight.xvideo:id/tv_join_game
+  宋词:
+     xpath: //android.widget.TextView[@text="1.品读宋词之美"]
+  直接参数:
+     id: com.bitstartlight.xvideo:id/start_game_direct
+  匹配队友:
+     id: com.bitstartlight.xvideo:id/start_game
+  组队:
+    id: com.bitstartlight.xvideo:id/group_game
+  退出:
+    id: com.bitstartlight.xvideo:id/btn_submit
+  选项A:
+    id: com.bitstartlight.xvideo:id/option1
+  选项B:
+    id: com.bitstartlight.xvideo:id/option2
+  选项C:
+    id: com.bitstartlight.xvideo:id/option3
+  退出房间:
+    id: com.bitstartlight.xvideo:id/info_exit
+  退出确认按钮:
+    xpath: //XCUIElementTypeButton[@name="退出"]
+
+zhifou_IOS:
+  开始比赛:
+    id: gh startMatch
+  开始匹配_好好学习:
+    xpath: (//XCUIElementTypeButton[@name="tyMatchStart"])[1]
+  开始匹配_脑洞很大:
+    xpath: (//XCUIElementTypeButton[@name="tyMatchStart"])[2]
+  退出房间:
+    id: game room exit
+  退出确认按钮:
+    xpath: //XCUIElementTypeButton[@name="退出"]
+
+# hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup
+
+zuji_Android:
+  我的:
+    xpath: //android.widget.TextView[@text='我的']
+  个人信息:
+    xpath: //android.widget.TextView[@text='个人信息']
+  请登录:
+    xpath: //android.widget.TextView[@text='请登录']
+  设置:
+    xpath: //android.widget.TextView[@text='设置']
+  加号:
+    xpath: //android.widget.TextView[@text='+']
+  消息:
+    xpath: //android.widget.TextView[@text='消息']
+  球队:
+    xpath: //android.widget.TextView[@text='球队']
+  完成:
+    xpath: //android.widget.TextView[@text='完成']
+  队名:
+    xpath: //android.widget.TextView[@text='1']
+  搜索:
+    xpath: //android.widget.TextView[@text='搜索']
+  username:
+    xpath: //android.widget.TextView[@text='测试员lanzt']
+  设置管理员:
+    xpath: //android.widget.TextView[@text='设置管理员']
+  添加管理员:
+    xpath: //android.widget.TextView[@text='添加管理员']
+  收回权限:
+    xpath: //android.widget.TextView[@text='收回权限']
+  请出球员:
+    xpath: //android.widget.TextView[@text='请出球员']
+  比赛历史:
+    xpath: //android.widget.TextView[@text='比赛历史']
+  确定:
+    xpath: //android.widget.TextView[@text='确定']
+  创建比赛:
+    xpath: //android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup
+  加入比赛:
+    xpath: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup
+  拍摄:
+    xpath: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup
+  开始比赛:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[4]/android.view.ViewGroup/android.widget.ImageView
+  结束比赛:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[4]/android.view.ViewGroup/android.widget.ImageView
+  添加设备:
+    xpath: //android.view.ViewGroup[1]/android.view.ViewGroup[5]/android.widget.TextView
+  比赛口令码:
+    xpath: //android.view.ViewGroup[2]/android.widget.TextView
+  口令码:
+    xpath: //android.view.ViewGroup[4]/android.view.ViewGroup/android.widget.TextView
+  比赛视频:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup
+  口令:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView
+  输入口令:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.widget.EditText
+  口令确定:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup
+  视频:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.support.v4.view.ViewPager/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup[1]
+  更换视频1:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[4]/android.view.ViewGroup/android.widget.HorizontalScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.ImageView
+  视频播放器:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/www.powersmarttv.com.ijkvideoview.TextureRenderView
+  视频全屏:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[9]/android.widget.ImageView
+  视频切换多视频:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[6]/android.widget.ImageView
+  视频返回:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[3]/android.widget.ImageView
+  选择队徽:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ImageView
+  添加球员:
+    xpath: //android.widget.HorizontalScrollView/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.widget.ImageView[1]
+  退出:
+    xpath: //hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.ImageView
+  稍后安装:
+    xpath: //android.widget.TextView[@text='稍后安装']
+  男:
+    xpath: //android.widget.TextView[@text='男']
+  女:
+    xpath: //android.widget.TextView[@text='女']
+
+
+QSDoki_Android:
+  房间列表:
+    xpath: //android.widget.TextView[@text='RoomID :xxxx']
+  创建房间:
+    id: com.powerinfo.iLiveQSDoki:id/iv_create_room #加号
+  START:
+    id: com.powerinfo.iLiveQSDoki:id/bt_start
+    xpath: //android.widget.Button[@text='START']
+  JOIN:
+    id: com.powerinfo.iLiveQSDoki:id/bt_start
+    xpath: //android.widget.Button[@text='JOIN']
+  RoomID:
+    id: com.powerinfo.iLiveQSDoki:id/tv_roomId
+    xpath: //android.widget.TextView[@text='RoomId:xxxx']
+  推流信息:
+    id: com.powerinfo.iLiveQSDoki:id/tv_info
+  PK:
+    id: com.powerinfo.iLiveQSDoki:id/tv_roomId
+  打点码:
+    id: com.powerinfo.iLiveQSDoki:id/mBtnWhoops
+  摄像头:
+    id: com.powerinfo.iLiveQSDoki:id/iv_camera
+    xpath: //android.widget.LinearLayout/android.widget.ImageView[0]
+  离开房间:
+    id: com.powerinfo.iLiveQSDoki:id/iv_back
+    xpath: //android.widget.RelativeLayout/android.widget.ImageView[0]
+  推流配置信息:
+    id: com.powerinfo.iLiveQSDoki:id/tv_setting_info
+  设置:
+    id: com.powerinfo.iLiveQSDoki:id/iv_setting
+  开发者选项:
+    id: com.powerinfo.iLiveQSDoki:id/bt_developer
+    xpath: //android.widget.Button[@text='Developer Options']
+  设置码率:
+    id: com.powerinfo.iLiveQSDoki:id/mEtBitrate
+  设置帧率:
+    #android:id/text1
+    id: com.powerinfo.iLiveQSDoki:id/mSpOutputSize
+  设置推流分辨率:
+    id: com.powerinfo.iLiveQSDoki:id/mSpOutputSize
+  设置采集分辨率:
+    id: com.powerinfo.iLiveQSDoki:id/mSpPreviewSize
+  勾选观众:
+    id: com.powerinfo.iLiveQSDoki:id/mScViewerMode
+  选择观众模式:
+    id: com.powerinfo.iLiveQSDoki:id/mSpViewerPlayMode
+  上传日志:
+    id: com.powerinfo.iLiveQSDoki:id/mBtnUploadLog
+    xpath: //android.widget.Button[@text='Upload Log']
+  清除日志:
+    id: com.powerinfo.iLiveQSDoki:id/mBtnDeleteLog
+    xpath: //android.widget.Button[@text='Delete Log']
+  logout:
+    id: com.powerinfo.iLiveQSDoki:id/mBtnDeleteLog
+    xpath: //android.widget.Button[@text='Logout']
+  logout信息:
+    id: com.powerinfo.iLiveQSDoki:id/md_content
+    xpath: //android.widget.TextView[@text='please kill the app and restart!']
+  设置ndselect:
+    id: com.powerinfo.iLiveQSDoki:id/mEtNdSelect
+    xpath: //android.widget.EditText[@text='enter ndSelect']
+  设置groupid:
+    id: com.powerinfo.iLiveQSDoki:id/mEtGroupId
+    xpath: //android.widget.EditText[@text='enter groupId']
+  loginStart:
+    xpath: //android.widget.Button[@text='START']
+
+QSDoki_IOS:
+  房间列表:
+    xpath: //XCUIElementTypeStaticText[@name='RoomId :xxxx']
+  创建房间:
+    id: start
+    xpath: //XCUIElementTypeButton[@name="start"] #加号
+  版本信息:
+    id: com.powerinfo.pi_iroom.demo:id/tv_vision
+  START:
+    id: start
+    xpath: //XCUIElementTypeButton[@name="start"]
+  JOIN:
+    id: join
+    xpath: //XCUIElementTypeButton[@name="join"]
+  RoomID:
+    id: RoomId:xxxx
+    xpath: //XCUIElementTypeButton[@name="RoomId:xxxx"]
+  摄像头:
+    id: switchCam
+    xpath: //XCUIElementTypeButton[@name="switchCam"]
+  离开房间:
+    id: Stop
+    xpath: //XCUIElementTypeButton[@name="Stop"]
+  上锁:
+    id: unlock
+    xpath: //XCUIElementTypeButton[@name="unlock"]
+  设置:
+    id: setting
+    xpath: //XCUIElementTypeButton[@name="setting"]
+  开发者选项:
+    id: Developer options
+    xpath: //XCUIElementTypeButton[@name="Developer options"]
+  设置码率:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[1]
+  设置帧率:
+    #android:id/text1
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]
+  设置推流分辨率:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[3]
+  设置采集分辨率:
+    id: com.powerinfo.pi_iroom.demo:id/mSpPreviewSize
+  勾选观众:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSwitch[1]
+  选择观众模式:
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[5]
+  上传日志:
+    id: Upload log
+    xpath: //XCUIElementTypeButton[@name="Upload log"]
+  清除日志:
+    id: Clear log
+    xpath: //XCUIElementTypeButton[@name="Clear log"]
+  logout:
+    id: Logout
+    xpath: //XCUIElementTypeButton[@name="Logout"]
+  logout信息:
+    id: Please kill the process and restart .
+    xpath: //XCUIElementTypeStaticText[@name="Please kill the process and restart ."]
+  设置ndselect:
+#    id: com.powerinfo.pi_iroom.demo:id/mEtNdSelect
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[1]
+  设置groupid:
+#    id: com.powerinfo.pi_iroom.demo:id/mEtGroupId
+    xpath: //XCUIElementTypeApplication[@name="PowerInfo iLive"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]
+  loginStart:
+    xpath: //XCUIElementTypeButton[@name="Confirm"]
+

@@ -1,0 +1,12 @@
+2019-07-11 11:33:17:349 - [35m[Appium][39m Welcome to Appium v1.9.1
+2019-07-11 11:33:17:351 - [35m[Appium][39m Non-default server args:
+2019-07-11 11:33:17:352 - [35m[Appium][39m   address: 127.0.0.1
+2019-07-11 11:33:17:352 - [35m[Appium][39m   logTimestamp: true
+2019-07-11 11:33:17:352 - [35m[Appium][39m   localTimezone: true
+2019-07-11 11:33:17:353 - [35m[Appium][39m   defaultCommandTimeout: 3000
+2019-07-11 11:33:17:353 - [35m[Appium][39m   udid: VGT7N17811000262
+2019-07-11 11:33:17:353 - [35m[Appium][39m Deprecated server args:
+2019-07-11 11:33:17:354 - [35m[Appium][39m   [31m-U,--udid[39m => --default-capabilities '{"udid":"VGT7N17811000262"}'
+2019-07-11 11:33:17:354 - [35m[Appium][39m Default capabilities, which will be added to each request unless overridden by desired capabilities:
+2019-07-11 11:33:17:354 - [35m[Appium][39m   udid: VGT7N17811000262
+2019-07-11 11:33:17:430 - [35m[Appium][39m Appium REST http interface listener started on 127.0.0.1:4723

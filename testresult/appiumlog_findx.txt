@@ -1,0 +1,53 @@
+2019-06-19 14:39:38:321 - [35m[Appium][39m Welcome to Appium v1.9.1
+2019-06-19 14:39:38:326 - [35m[Appium][39m Non-default server args:
+2019-06-19 14:39:38:328 - [35m[Appium][39m   address: 127.0.0.1
+2019-06-19 14:39:38:328 - [35m[Appium][39m   logTimestamp: true
+2019-06-19 14:39:38:329 - [35m[Appium][39m   localTimezone: true
+2019-06-19 14:39:38:329 - [35m[Appium][39m   defaultCommandTimeout: 3000
+2019-06-19 14:39:38:330 - [35m[Appium][39m   udid: 163d6d82
+2019-06-19 14:39:38:331 - [35m[Appium][39m Deprecated server args:
+2019-06-19 14:39:38:332 - [35m[Appium][39m   [31m-U,--udid[39m => --default-capabilities '{"udid":"163d6d82"}'
+2019-06-19 14:39:38:333 - [35m[Appium][39m Default capabilities, which will be added to each request unless overridden by desired capabilities:
+2019-06-19 14:39:38:333 - [35m[Appium][39m   udid: 163d6d82
+2019-06-19 14:39:38:618 - [35m[Appium][39m Appium REST http interface listener started on 127.0.0.1:4723
+2019-06-19 14:39:41:332 - [35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+2019-06-19 14:39:41:335 - [35m[HTTP][39m [90m{"capabilities":{"firstMatch":[{"platformName":"Android","appium:platformVersion":8.1,"appium:deviceName":"163d6d82","appium:appPackage":"com.bitstartlight.xvideo","appium:appActivity":"com.btxg.xvideo.features.general.SplashActivity","appium:autoAcceptAlerts":true,"appium:newCommandTimeout":3600,"appium:noReset":true}]},"desiredCapabilities":{"platformName":"Android","platformVersion":8.1,"deviceName":"163d6d82","appPackage":"com.bitstartlight.xvideo","appActivity":"com.btxg.xvideo.features.general.SplashActivity","autoAcceptAlerts":true,"newCommandTimeout":3600,"noReset":true}}[39m
+2019-06-19 14:39:41:341 - [debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","platformVersion":8.1,"deviceName":"163d6d82","appPackage":"com.bitstartlight.xvideo","appActivity":"com.btxg.xvideo.features.general.SplashActivity","autoAcceptAlerts":true,"newCommandTimeout":3600,"noReset":true},null,{"firstMatch":[{"platformName":"Android","appium:platformVersion":8.1,"appium:deviceName":"163d6d82","appium:appPackage":"com.bitstartlight.xvideo","appium:appActivity":"com.btxg.xvideo.features.general.SplashActivity","appium:autoAcceptAlerts":true,"appium:newCommandTimeout":3600,"appium:noReset":true}]}]
+2019-06-19 14:39:41:342 - [debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1560926381342 (14:39:41 GMT+0800 (GMT+08:00))
+2019-06-19 14:39:41:345 - [35m[BaseDriver][39m The capabilities ["udid"] are not standard capabilities and should have an extension prefix
+2019-06-19 14:39:41:350 - [35m[Appium][39m Creating new AndroidDriver (v4.1.1) session
+2019-06-19 14:39:41:350 - [35m[Appium][39m Capabilities:
+2019-06-19 14:39:41:350 - [35m[Appium][39m   platformName: Android
+2019-06-19 14:39:41:350 - [35m[Appium][39m   udid: 163d6d82
+2019-06-19 14:39:41:351 - [35m[Appium][39m   platformVersion: 8.1
+2019-06-19 14:39:41:351 - [35m[Appium][39m   deviceName: 163d6d82
+2019-06-19 14:39:41:351 - [35m[Appium][39m   appPackage: com.bitstartlight.xvideo
+2019-06-19 14:39:41:351 - [35m[Appium][39m   appActivity: com.btxg.xvideo.features.general.SplashActivity
+2019-06-19 14:39:41:351 - [35m[Appium][39m   autoAcceptAlerts: true
+2019-06-19 14:39:41:351 - [35m[Appium][39m   newCommandTimeout: 3600
+2019-06-19 14:39:41:352 - [35m[Appium][39m   noReset: true
+2019-06-19 14:39:41:356 - [debug] [35m[BaseDriver][39m W3C capabilities {"alwaysMatch":{"platformNa... and MJSONWP desired capabilities {"udid":"163d6d82","platfor... were provided
+2019-06-19 14:39:41:356 - [debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {"alwaysMatch":{"platformNa...
+2019-06-19 14:39:41:363 - [35m[BaseDriver][39m The following capabilities were provided, but are not recognized by appium: autoAcceptAlerts.
+2019-06-19 14:39:41:365 - [35m[BaseDriver][39m Session created with session id: 478da4ea-224c-4185-b236-8ac67446ff0d
+2019-06-19 14:39:41:865 - [35m[AndroidDriver][39m Java version is: 1.8.0_171
+2019-06-19 14:39:41:869 - [35m[ADB][39m Checking whether adb is present
+2019-06-19 14:39:41:870 - [35m[ADB][39m The ANDROID_HOME environment variable is not set to the Android SDK root directory path. ANDROID_HOME is required for compatibility with SDK 23+. Checking along PATH for adb.
+2019-06-19 14:39:42:131 - [35m[ADB][39m Using adb from C:\adb\adb.exe
+2019-06-19 14:39:42:131 - [35m[ADB][39m 
+2019-06-19 14:39:42:132 - [35m[AndroidDriver][39m Retrieving device list
+2019-06-19 14:39:42:132 - [debug] [35m[ADB][39m Trying to find a connected android device
+2019-06-19 14:39:42:133 - [debug] [35m[ADB][39m Getting connected devices...
+2019-06-19 14:39:42:293 - [debug] [35m[ADB][39m 1 device(s) connected
+2019-06-19 14:39:42:319 - [debug] [35m[AndroidDriver][39m Shutting down Android driver
+2019-06-19 14:39:42:320 - [debug] [35m[AndroidDriver][39m Called deleteSession but bootstrap wasn't active
+2019-06-19 14:39:42:321 - [debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1560926382321 (14:39:42 GMT+0800 (GMT+08:00))
+2019-06-19 14:39:42:321 - [debug] [35m[W3C][39m Encountered internal error running command: Error: Device 163d6d82 was not in the list of connected devices
+2019-06-19 14:39:42:321 - [debug] [35m[W3C][39m     at Object.wrappedLogger.errorAndThrow (C:\Appium\Resources\app\node_modules\appium\node_modules\appium-support\lib\logging.js:78:13)
+2019-06-19 14:39:42:322 - [debug] [35m[W3C][39m     at Object.callee$0$0$ (C:\Appium\Resources\app\node_modules\appium\node_modules\appium-android-driver\lib\android-helpers.js:178:16)
+2019-06-19 14:39:42:322 - [debug] [35m[W3C][39m     at tryCatch (C:\Appium\Resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+2019-06-19 14:39:42:322 - [debug] [35m[W3C][39m     at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Appium\Resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+2019-06-19 14:39:42:322 - [debug] [35m[W3C][39m     at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (C:\Appium\Resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+2019-06-19 14:39:42:322 - [debug] [35m[W3C][39m     at GeneratorFunctionPrototype.invoke (C:\Appium\Resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+2019-06-19 14:39:42:338 - [35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[31m500[39m [90m1005 ms - 1285[39m
+2019-06-19 14:39:42:338 - [35m[HTTP][39m [90m[39m

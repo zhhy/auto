@@ -1,0 +1,445 @@
+---
+### 手机设备信息
+### 安卓手机
+oppo_R9 :
+  platformName : Android
+  platformVersion : 5.1
+  deviceName : 8SCM65OZ99999999
+  appPackage : com.powerinfo.pi_iroom.demo
+  appActivity : com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts : true
+  newCommandTimeout : 3600
+  noReset : true
+
+meizu_Note2 :
+  platformName: Android
+  platformVersion: 5.1
+  deviceName: 810BBM623MG2
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+p10_267 :
+  platformName: Android
+  platformVersion: 9.0
+  deviceName: VGT7N17818000730
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+p10_268 :
+  platformName: Android
+  platformVersion: 8.0
+  deviceName: VGT7N17811000107
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+p10_269 :
+  platformName: Android
+  platformVersion: 8.0
+  deviceName: VGT7N17811000221
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+p10_270 :
+  platformName: Android
+  platformVersion: 8.0
+  deviceName: VGT7N17811000262
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+p10_294 :
+  platformName: Android
+  platformVersion: 8.0
+  deviceName: VGT7N17818000695
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+p10_295 :
+  platformName: Android
+  platformVersion: 8.0
+  deviceName: VGT7N17818000150
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+vivoX9 :
+  platformName: Android
+  platformVersion: 7.1.2
+  deviceName: 7a4aca78
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+
+p9 :
+  platformName: Android
+  platformVersion: 8.0
+  deviceName: PBV0216801001067
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+hwmate7 :
+  platformName: Android
+  platformVersion: 6.0
+  deviceName: Y9KGL16307900425
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+pixel :
+  platformName: Android
+  platformVersion: 8.1.0
+  deviceName: FA68K0303265
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+p6 :
+  platformName: Android
+  platformVersion: 4.4.2
+  deviceName: 022AUM7N49004464
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout: 3600
+  noReset: true
+
+huashuo_ASUS_T00J :
+  platformName: Android
+  platformVersion: 4.4.2
+  deviceName: EAAZCY16B777
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout: 3600
+  noReset: true
+
+huashuo_ASUS_T00G :
+  platformName: Android
+  platformVersion: 4.4.2
+  deviceName: E6AZCY141627
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout: 3600
+  noReset: true
+
+m8 :
+  platformName: Android
+  platformVersion: 9.0
+  deviceName: 3edfeecc
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout: 3600
+  noReset: true
+
+mate20 :
+  platformName: Android
+  platformVersion: 9.0
+  deviceName: 66J0218C14000907
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout: 3600
+  noReset: true
+
+
+findx :
+  platformName: Android
+  platformVersion: 8.1
+  deviceName: 163d6d82
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout: 3600
+  noReset: true
+
+
+shark :
+  platformName: Android
+  platformVersion: 9
+  deviceName: 1829a35c
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout: 3600
+  noReset: true
+
+
+iqoo :
+  platformName: Android
+  platformVersion: 9
+  deviceName: bcf550c9
+  appPackage: net.powerinfo.soccerv
+  appActivity: net.powerinfo.soccerv.MainActivity
+  autoAcceptAlerts: true
+  newCommandTimeout: 3600
+  noReset: true
+
+
+### iPhone手机
+
+ip5s_test8 :
+  platformName: IOS
+  platformVersion: 11.4
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: d47009c7e7adee3884cf128c36f5a10b2a3f174a
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip5s_test5 :
+  platformName: IOS
+  platformVersion: 12.0
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: 91dec87e885bafe2c956f9b593695517f4c33528
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip5s_test6 :
+  platformName: IOS
+  platformVersion: 12.1
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: 5908d82383102d96035a7ccddea1ae0df022d6f0
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip5s_test7 :
+  platformName: IOS
+  platformVersion: 12.1.2
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: 70ed20a9651ed255882c03dd1a4ca6ca35b4f147
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip6s_test12 :
+  platformName: IOS
+  platformVersion: 11.4.1
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: a8e780e57cd989f3ed067eea2195a9bd5fd63fd3
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip6s_test13 :
+  platformName: IOS
+  platformVersion: 11.3.1
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: fbbfdbd132f5560dca7e3feb08c18b9e9060a3e2
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip7 :
+  platformName: IOS
+  platformVersion: 12.0
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: 4c7fe13f7859821130dbc4b7509f161e0b059f6e
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip5_test4 :
+  platformName: IOS
+  platformVersion: 10.3.3
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: 2e739c10ce9ce8f75c18ae7b0621231ebbbf23b1
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip6_test17 :
+  platformName: IOS
+  platformVersion: 12.0
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: f85f4d02a4f8b68cf84fc8372a51707e1a332c38
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip6_test18 :
+  platformName: IOS
+  platformVersion: 12.1.2
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: aa94d167fa1165e50027056d1f4697b728d8b583
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+
+ip8 :
+  platformName: IOS
+  platformVersion: 12.0.1
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: add1606785726de5f1b6f76d56e9e0f7e7e7225f
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+ip6s :
+  platformName: IOS
+  platformVersion: 12.1
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: 43e9fe58fc98c071338c6ec9efffd736bd63fcdb
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+
+ipad_287 :
+  platformName: IOS
+  platformVersion: 11.2
+  deviceName: IPad
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: 9b2b2fdf90beef1f430afd61b45a45b9bb036f76
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+### 租借手机
+
+
+sm_s4 :
+  platformName: Android
+  platformVersion: 4.4.4
+  deviceName: 34a7b664
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+honor9 :
+  platformName: Android
+  platformVersion: 8.0
+  deviceName: CSX0217629006119
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+
+hm4x:
+  platformName: Android
+  platformVersion: 6.0.1
+  deviceName: d680ec427d83
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+
+ip6_yt :
+  platformName: IOS
+  platformVersion: 12.1.2
+  deviceName: IPhone
+  automationName: XCUITest
+  bundleId: com.powerinfo.iRoom
+  udid: 52ac3d4e6a79003be86b74442fbf481c614d8eb8
+  newCommandTimeout : 3600
+  autoAcceptAlerts: true
+  noReset: true
+  useNewWDA: true
+
+
+oppofindx:
+  platformName: Android
+  platformVersion: 8.1
+  deviceName: 163d6d82
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+sxs5:
+  platformName: Android
+  platformVersion: 4.4.2
+  deviceName: a9c75792
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
+
+oppoa57:
+  platformName: Android
+  platformVersion: 6.0.1
+  deviceName: 2099b0f5
+  appPackage: com.powerinfo.pi_iroom.demo
+  appActivity: com.powerinfo.pi_iroom.demo.setting.LoginSettingActivity
+  autoAcceptAlerts: true
+  newCommandTimeout : 3600
+  noReset: true
